@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-=$4=6j6*7tl&87k!=bpgw*_af53u#rk2w$zam@sloed^8gb-%-
 DEBUG = True
 
 ALLOWED_HOSTS = ['localhost', 'quiztorch-betweenbinary-8000.codio-box.uk','127.0.0.1']
-CSRF_TRUSTED_ORIGINS =  ['https://scharlau.pythonanywhere.com', 'localhost','https://quiztorch-betweenbinary-8000.codio-box.uk']
+CSRF_TRUSTED_ORIGINS =  ['https://scharlau.pythonanywhere.com', 'https://localhost','https://quiztorch-betweenbinary-8000.codio-box.uk']
 
 # Application definition
 
