@@ -47,7 +47,7 @@ If it went well, then you should have reached the homepage of the website.
 
 ## Website function introduction
 #### Go to the home page
-By clicking on the Donate button, a user can be directed to the web page of product list
+By clicking on the View Lochs button, a user can be directed to the web page of product list
 
 #### Enter product list
 The product list shows lochs in Scotland and initial information of the lochs including prices, and hyperlinks directing users to the details of lochs and web page for donating
