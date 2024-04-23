@@ -1,0 +1,73 @@
+{% load static %}
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Home page</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+   
+        <link href="{% static 'index/css/css2.css' %}" rel="stylesheet">
+        <link href="{% static 'index/css/bootstrap.css' %}" rel="stylesheet">
+        <link href="{% static 'index/css/ionicons.min.css' %}" rel="stylesheet">
+        <link href="{% static 'index/css/magnific-popup.css' %}" rel="stylesheet">
+        <link href="{% static 'index/css/style.css' %}" rel="stylesheet">
+        
+       
+    </head>
+    <body >
+        {% if user.is_authenticated %}
+        <p>Welcome, {{ user.username }}! You are logged in.</p>
+        <form action="{% url 'logout' %}" method="post">
+            {% csrf_token %}
+            <button type="submit">Log out</button>
+        </form>
+    {% else %}
+        <p>You are not logged in.</p>
+        <a href="{% url 'login' %}">Log in</a>
+    {% endif %}
+
+        <div style="margin-right: 20px;">
+          <div id="home" class="home-intro">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-sm-12 col-xs-12">
+                    <div class="content">
+                        <h2><span class="color-highlight">Donate</span> To A Loch</h2>
+                        <h2>Be A <span class="color-highlight"> Lord Of Loch</span></h2>
+                        <p>Scotland has more than 3000 lochs. Now, you have a chance to be a Lord of Loch by donating to a loch!</p>
+                        <ul>
+                            
+                            <a href="{% url 'loch_list' %}" class="button">Donate</a>
+                          
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-6 col-sm-12 col-xs-12">
+                  
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+     
+        
+       
+     
+
+<script>
+function setUserID() {
+    const inputValue = document.getElementById("inputField").value;
+    localStorage.setItem("userID", inputValue); // 将输入值存储在本地存储中
+    window.location.href = "chat.html"; // 重定向到显示ID的页面
+}
+</script>
+    </body>
+</html>

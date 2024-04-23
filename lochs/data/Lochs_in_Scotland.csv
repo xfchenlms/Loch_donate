@@ -1,0 +1,3100 @@
+﻿ObjectID,LochCode,SurfaceArea,AuthID,LochAuth,IslandName,LochName,Price
+1,NB9106,1,HLD,Highland,Mainland,Unnamed,5
+2,HY2102,62,OKN,Orkney Islands,Mainland Orkney,Loch of Skaill,25
+3,HY2003,1.4,OKN,Orkney Islands,Hoy,Water of the Wicks,5
+4,HY2101,21,OKN,Orkney Islands,Mainland Orkney,Loch of Clumly,15
+5,HY2103,8,OKN,Orkney Islands,Mainland Orkney,Mill Dam of Rango,8
+6,HY2104,0.1,OKN,Orkney Islands,Mainland Orkney,Unnamed,2
+7,HY2105,3.8,OKN,Orkney Islands,Mainland Orkney,Stromness Reservoir*,5
+8,HY2109,1,OKN,Orkney Islands,Mainland Orkney,Unnamed,5
+9,HY2113,0.1,OKN,Orkney Islands,Mainland Orkney,Unnamed,2
+10,HY2202,237,OKN,Orkney Islands,Mainland Orkney,Loch of Boardhouse,50
+11,HY2203,105,OKN,Orkney Islands,Mainland Orkney,Loch of Hundland,50
+12,HY2204,25,OKN,Orkney Islands,Mainland Orkney,Loch of Sabiston,15
+13,HY2211,0.1,OKN,Orkney Islands,Mainland Orkney,Unnamed,2
+14,HY2227,0.2,OKN,Orkney Islands,Mainland Orkney,Unnamed,2
+15,HY3001,100,OKN,Orkney Islands,Mainland Orkney,Loch of Kirbister,50
+16,HY3101,26,OKN,Orkney Islands,Mainland Orkney,Loch of Bosquoy,15
+17,HY3102,4,OKN,Orkney Islands,Mainland Orkney,The Shunan,5
+18,HY3103,1.4,OKN,Orkney Islands,Mainland Orkney,Parro Shun*,5
+19,HY3104,11,OKN,Orkney Islands,Mainland Orkney,Loch of Brockan,15
+20,HY3105,16.5,OKN,Orkney Islands,Mainland Orkney,Loch of Wasdale,15
+21,HY3124,0.2,OKN,Orkney Islands,Mainland Orkney,The Shunan,2
+22,HY3203,216,OKN,Orkney Islands,Mainland Orkney,Loch of Swannay,50
+23,HY3208,7.6,OKN,Orkney Islands,Mainland Orkney,Peerie Water,8
+24,HY3302,14,OKN,Orkney Islands,Rousay,Loch of Wasbister,15
+25,HY4001,6,OKN,Orkney Islands,Mainland Orkney,Loch of Ayre*,8
+26,HY4002,4.8,OKN,Orkney Islands,Mainland Orkney,Loch of Graemeshall*,5
+27,HY4003,0.8,OKN,Orkney Islands,Mainland Orkney,Loomi Shun,2
+28,HY4009,0.1,OKN,Orkney Islands,Mainland Orkney,Loomi Shun,2
+29,HY4010,0.2,OKN,Orkney Islands,Mainland Orkney,Black Loch,2
+30,HY4512,1.1,OKN,Orkney Islands,Westray,Unnamed,5
+31,HY4514,0.2,OKN,Orkney Islands,Westray,Unnamed,2
+32,HY5001,0.6,OKN,Orkney Islands,Mainland Orkney,Unnamed,2
+33,HY5003,1.3,OKN,Orkney Islands,Mainland Orkney,Loch of Lakequoy*,5
+34,HY5004,1.1,OKN,Orkney Islands,Mainland Orkney,Loch of Messigate*,5
+35,HY5005,0.6,OKN,Orkney Islands,Mainland Orkney,Loch of Ouse*,2
+36,HY5006,63,OKN,Orkney Islands,Mainland Orkney,Loch of Tankerness,25
+37,HY5007,0.8,OKN,Orkney Islands,Mainland Orkney,Unnamed,2
+38,HY5008,0.9,OKN,Orkney Islands,Mainland Orkney,Unnamed,2
+39,HY5009,0.1,OKN,Orkney Islands,Mainland Orkney,Unnamed,2
+40,HY5101,8,OKN,Orkney Islands,Shapinsay,Lairo Water,8
+41,HY5102,0.1,OKN,Orkney Islands,Shapinsay,Unnamed,2
+42,HY5103,1.2,OKN,Orkney Islands,Mainland Orkney,Loch of Hestercruive*,5
+43,HY5105,0.2,OKN,Orkney Islands,Shapinsay,Unnamed,2
+44,HY5106,0.2,OKN,Orkney Islands,Shapinsay,Unnamed,2
+45,HY5108,0.2,OKN,Orkney Islands,Shapinsay,Unnamed,2
+46,HY5109,0.3,OKN,Orkney Islands,Shapinsay,Unnamed,2
+47,HY5110,0.8,OKN,Orkney Islands,Shapinsay,Unnamed,2
+48,HY5111,0.2,OKN,Orkney Islands,Shapinsay,Loch of Sandside*,2
+49,HY5301,4.2,OKN,Orkney Islands,Eday,Loch of Doomy,5
+50,HY5302,0.6,OKN,Orkney Islands,Eday,Loch of London,2
+51,HY5304,0.2,OKN,Orkney Islands,Eday,Sealskerry Loch,2
+52,HY6201,1.8,OKN,Orkney Islands,Stronsay,Unnamed,5
+53,HY6205,17,OKN,Orkney Islands,Stronsay,Meikle Water,15
+54,HY6206,1.4,OKN,Orkney Islands,Stronsay,Gricey Water*,5
+55,HY6207,1.5,OKN,Orkney Islands,Stronsay,Blan Loch*,5
+56,HY6208,4,OKN,Orkney Islands,Stronsay,Loch of Rothiesholm*,5
+57,HY6209,1.2,OKN,Orkney Islands,Stronsay,Unnamed,5
+58,HY6210,1.2,OKN,Orkney Islands,Stronsay,Bruce's Loch*,5
+59,HY6211,0.1,OKN,Orkney Islands,Stronsay,Unnamed,2
+60,HY6212,25,OKN,Orkney Islands,Stronsay,Lea Shun,15
+61,HY6213,0.5,OKN,Orkney Islands,Stronsay,Little Water*,2
+62,HY6214,1.2,OKN,Orkney Islands,Stronsay,Loch of Matpow*,5
+63,HY6215,0.15,OKN,Orkney Islands,Stronsay,Black Loch,2
+64,HY6216,5.8,OKN,Orkney Islands,Papa Stronsay,Mill Loch*,8
+65,HY6218,1.4,OKN,Orkney Islands,Stronsay,Unnamed,5
+66,HY6301,0.9,OKN,Orkney Islands,Sanday,Unnamed,2
+67,HY6402,14,OKN,Orkney Islands,Sanday,Roos Loch,15
+68,HY6403,0.9,OKN,Orkney Islands,Sanday,Unnamed,2
+69,HY6406,0.3,OKN,Orkney Islands,Sanday,Pool near Howland,2
+70,HY6407,2,OKN,Orkney Islands,Sanday,Loch of Riv*,5
+71,HY6409,35,OKN,Orkney Islands,Sanday,Bea Loch,15
+72,HY6410,0.8,OKN,Orkney Islands,Sanday,Unnamed,2
+73,HY6414,0.5,OKN,Orkney Islands,Sanday,Unnamed,2
+74,HY7501,0.06,OKN,Orkney Islands,North Ronaldsay,Unnamed,2
+75,HY7502,0.03,OKN,Orkney Islands,North Ronaldsay,Unnamed,2
+76,HY7503,1.2,OKN,Orkney Islands,North Ronaldsay,Ancum Loch,5
+77,HY7504,0.9,OKN,Orkney Islands,North Ronaldsay,Brides Loch*,2
+78,HY7505,0.1,OKN,Orkney Islands,North Ronaldsay,Brides Ness,2
+79,HY7506,0.3,OKN,Orkney Islands,North Ronaldsay,Unnamed,2
+80,HY7507,2.7,OKN,Orkney Islands,North Ronaldsay,Dennis Loch,5
+81,HY7508,0.8,OKN,Orkney Islands,North Ronaldsay,Loch of Garso,2
+82,HY7509,1.3,OKN,Orkney Islands,North Ronaldsay,Loch Gretchen,5
+83,HY7510,5,OKN,Orkney Islands,North Ronaldsay,Hooking Loch,8
+84,HY7511,0.1,OKN,Orkney Islands,North Ronaldsay,Unnamed,2
+85,HY7512,0.05,OKN,Orkney Islands,North Ronaldsay,Unnamed,2
+86,HY7514,0.8,OKN,Orkney Islands,North Ronaldsay,Trolla Vatn,2
+87,HY4101,0.4,OKN,Orkney Islands,Shapinsay,Little Vasa Water*,2
+88,HY4102,3,OKN,Orkney Islands,Shapinsay,Vasa Loch,5
+89,HY4103,9,OKN,Orkney Islands,Shapinsay,Peerie Sea*,8
+90,HY4104,3,OKN,Orkney Islands,Mainland Orkney,Resr.,5
+91,HY4105,0.3,OKN,Orkney Islands,Mainland Orkney,Unnamed,2
+92,HY4201,2,OKN,Orkney Islands,Egilsay,Loch of the Graand,5
+93,HY4202,3.1,OKN,Orkney Islands,Egilsay,Manse Loch,5
+94,HY4203,0.3,OKN,Orkney Islands,Gairsay,Unnamed,2
+95,HY4205,0.1,OKN,Orkney Islands,Gairsay,Unnamed,2
+96,HY4206,0.4,OKN,Orkney Islands,Gairsay,Unnamed,2
+97,HY4207,0.2,OKN,Orkney Islands,Gairsay,Unnamed,2
+98,HY4214,0.2,OKN,Orkney Islands,Egilsay,Unnamed,2
+99,HY4301,0.9,OKN,Orkney Islands,Egilsay,Loch of Watten*,2
+100,HY4302,1,OKN,Orkney Islands,Egilsay,Loch of Welland*,5
+101,HY4304,4,OKN,Orkney Islands,Rousay,Loch of Scockness,5
+102,HY4401,13.8,OKN,Orkney Islands,Westray,Loch of Burness,15
+103,HY4402,0.6,OKN,Orkney Islands,Westray,Loch of Garth*,2
+104,HY4403,1,OKN,Orkney Islands,Westray,Muckle Water,5
+105,HY4404,16,OKN,Orkney Islands,Westray,Loch Saintear,15
+106,HY4405,16,OKN,Orkney Islands,Westray,Loch of Swartmill,15
+107,HY4406,0.6,OKN,Orkney Islands,Westray,Unnamed,2
+108,HY4502,1.5,OKN,Orkney Islands,Westray,Craig Loch,5
+109,HY4503,6.5,OKN,Orkney Islands,Papa Westray,Unnamed,8
+110,HY4504,33,OKN,Orkney Islands,Papa Westray,Loch of St.Tredwell,15
+111,HY4505,0.2,OKN,Orkney Islands,Papa Westray,Unnamed,2
+112,HY4506,0.03,OKN,Orkney Islands,Papa Westray,Unnamed,2
+113,NA9201,0.15,NEL,Na h-Eileanan an Iar,Lewis,Unnamed,2
+114,NA9202,2.3,NEL,Na h-Eileanan an Iar,Lewis,Unnamed,5
+115,NA9203,0.25,NEL,Na h-Eileanan an Iar,Lewis,Unnamed,2
+116,NA9204,0.1,NEL,Na h-Eileanan an Iar,Lewis,Unnamed,2
+117,NA9210,9,NEL,Na h-Eileanan an Iar,Lewis,Loch Greivat,8
+118,NA9211,0.5,NEL,Na h-Eileanan an Iar,Lewis,Unnamed,2
+119,NA9218,0.1,NEL,Na h-Eileanan an Iar,Lewis,Unnamed,2
+120,NB0075,6.2,NEL,Na h-Eileanan an Iar,Taransay,Loch an Duin,8
+121,NB0080,0.8,NEL,Na h-Eileanan an Iar,Taransay,Loch na Gaoithe,2
+122,NB0086,0.5,NEL,Na h-Eileanan an Iar,Taransay,Unnamed,2
+123,NB0314,21.5,NEL,Na h-Eileanan an Iar,Lewis,Loch Mheacleit,15
+124,NB0336,0.25,NEL,Na h-Eileanan an Iar,Lewis,Unnamed,2
+125,NB0337,0.4,NEL,Na h-Eileanan an Iar,Lewis,Unnamed,2
+126,NB0348,3,NEL,Na h-Eileanan an Iar,Lewis,Unnamed,5
+127,NB0379,0.1,NEL,Na h-Eileanan an Iar,Lewis,Unnamed,2
+128,NB1028,12,NEL,Na h-Eileanan an Iar,Harris,Loch a' Mhorghain,15
+129,NB0282,7.5,NEL,Na h-Eileanan an Iar,Lewis,Loch na Clibhe,8
+130,NB0283,0.7,NEL,Na h-Eileanan an Iar,Lewis,Unnamed,2
+131,NB03112,2,NEL,Na h-Eileanan an Iar,Lewis,Loch a Ghlomaich,5
+132,NB1205,9,NEL,Na h-Eileanan an Iar,Lewis,Loch Sandavat,8
+133,NB1340,0.25,NEL,Na h-Eileanan an Iar,Great Bernera,Unnamed,2
+134,NB1355,10,NEL,Na h-Eileanan an Iar,Lewis,Loch a' Bhaile,15
+135,NB1370,32,NEL,Na h-Eileanan an Iar,Great Bernera,Loch Baravat,15
+136,NB1373,1.5,NEL,Na h-Eileanan an Iar,Great Bernera,Lochan Sgeireach,5
+137,NB1404,8.6,NEL,Na h-Eileanan an Iar,Lewis,Loch an Duin,8
+138,NB2028,1.6,NEL,Na h-Eileanan an Iar,Harris,Unnamed,5
+139,NB2030,0.15,NEL,Na h-Eileanan an Iar,Harris,Unnamed,2
+140,NB2039,2,NEL,Na h-Eileanan an Iar,Harris,Loch Beag,5
+141,NB2141,5,NEL,Na h-Eileanan an Iar,Lewis,Loch an Rathaid,8
+142,NB2206,1.5,NEL,Na h-Eileanan an Iar,Lewis,Unnamed,5
+143,NB23169,32,NEL,Na h-Eileanan an Iar,Lewis,Loch Smuaisaval,15
+144,NB2337,27,NEL,Na h-Eileanan an Iar,Lewis,Loch Airigh Seibh,15
+145,NB2352,2.2,NEL,Na h-Eileanan an Iar,Lewis,Unnamed,5
+146,NB2353,0.45,NEL,Na h-Eileanan an Iar,Lewis,Unnamed,2
+147,NB2391,4,NEL,Na h-Eileanan an Iar,Lewis,Loch na Beinne Bige,5
+148,NB2392,6,NEL,Na h-Eileanan an Iar,Lewis,Loch Bharavat,8
+149,NB2410,29.5,NEL,Na h-Eileanan an Iar,Lewis,Loch Raoinavat,15
+150,NB2415,11.7,NEL,Na h-Eileanan an Iar,Lewis,Loch na Muilne,15
+151,NB2416,24,NEL,Na h-Eileanan an Iar,Lewis,Loch a' Bhaile,15
+152,NB3112,1.75,NEL,Na h-Eileanan an Iar,Lewis,Unnamed,5
+153,NB31335,0.5,NEL,Na h-Eileanan an Iar,Lewis,Unnamed,2
+154,NB3201,37,NEL,Na h-Eileanan an Iar,Lewis,Loch Achmore,15
+155,NB33192,2.6,NEL,Na h-Eileanan an Iar,Lewis,Loch na Linne,5
+156,NB3401,16,NEL,Na h-Eileanan an Iar,Lewis,Loch Arnol,15
+157,NB3402,1,NEL,Na h-Eileanan an Iar,Lewis,Unnamed,5
+158,NB3403,0.9,NEL,Na h-Eileanan an Iar,Lewis,Unnamed,2
+159,NB3404,9,NEL,Na h-Eileanan an Iar,Lewis,Loch na Muilne,8
+160,NB3407,99,NEL,Na h-Eileanan an Iar,Lewis,Loch Mor Bharabhais,25
+161,HP4011,3.5,STL,Shetland Islands,Yell,Fugla Water,5
+162,HP5004,0.5,STL,Shetland Islands,Yell,Unnamed,2
+163,HP5032,46,STL,Shetland Islands,Unst,Loch of Watlee,15
+164,HP5034,0.8,STL,Shetland Islands,Unst,Unnamed,2
+165,HP5056,0.75,STL,Shetland Islands,Unst,Unnamed,2
+166,HP5071,5.6,STL,Shetland Islands,Unst,Easter Loch,8
+167,HP5073,19.3,STL,Shetland Islands,Unst,Loch of Snarravoe,15
+168,HP6001,0.25,STL,Shetland Islands,Unst,Unnamed,2
+169,HU2403,0.5,STL,Shetland Islands,Mainland Shetland,Unnamed,2
+170,HU2413,0.9,STL,Shetland Islands,Vaila,Unnamed,2
+171,HU2433,0.4,STL,Shetland Islands,Mainland Shetland,Unnamed,2
+172,HP6105,108,STL,Shetland Islands,Unst,Loch of Cliff,50
+173,HU1401,0.4,STL,Shetland Islands,Mainland Shetland,Unnamed,2
+174,HU1402,0.3,STL,Shetland Islands,Mainland Shetland,Unnamed,2
+175,HU1404,0.4,STL,Shetland Islands,Mainland Shetland,Unnamed,2
+176,HU1504,1.1,STL,Shetland Islands,Mainland Shetland,Unnamed,5
+177,HU1507,6,STL,Shetland Islands,Mainland Shetland,Loch of Watsness,8
+178,HU2502,8.2,STL,Shetland Islands,Mainland Shetland,Loch of Collaster,8
+179,HU25126,0.1,STL,Shetland Islands,Mainland Shetland,Unnamed,2
+180,HU25130,11.6,STL,Shetland Islands,Mainland Shetland,Loch of Flatpunds,15
+181,HU25137,4,STL,Shetland Islands,Mainland Shetland,Mill Loch,5
+182,HU25148,0.9,STL,Shetland Islands,Mainland Shetland,Unnamed,2
+183,HU25155,12.5,STL,Shetland Islands,Mainland Shetland,Grass Water,15
+184,HU25160,31.2,STL,Shetland Islands,Mainland Shetland,Hulma Water,15
+185,HU2589,27.4,STL,Shetland Islands,Mainland Shetland,Lunga Water,15
+186,HU2607,4.8,STL,Shetland Islands,Vementry,Loch of Reva,5
+187,HU2708,9.6,STL,Shetland Islands,Mainland Shetland,Loch of Houlland,8
+188,HU2718,2.2,STL,Shetland Islands,Mainland Shetland,West Loch,5
+189,HU3001,1.9,STL,Shetland Islands,Mainland Shetland,Unnamed,5
+190,HU3002,0.3,STL,Shetland Islands,Mainland Shetland,Unnamed,2
+191,HU3209,8.2,STL,Shetland Islands,Mainland Shetland,Loch of Vatsetter,8
+192,HU3319,2.3,STL,Shetland Islands,West Burra,Unnamed,5
+193,HU3321,0.1,STL,Shetland Islands,Trondra,Unnamed,2
+194,HU3326,0.9,STL,Shetland Islands,East Burra,Mill Pond,2
+195,HU3522,4.9,STL,Shetland Islands,Mainland Shetland,Turdale Water,5
+196,HU3525,7.5,STL,Shetland Islands,Mainland Shetland,Loch of Houster,8
+197,HU3527,0.1,STL,Shetland Islands,Mainland Shetland,Unnamed,2
+198,HU4303,2.2,STL,Shetland Islands,Mainland Shetland,Lang Lochs,5
+199,HU3639,2.9,STL,Shetland Islands,Muckle Roe,Gilsa Water,5
+200,HU3647,8.7,STL,Shetland Islands,Vementry,Maa Loch,8
+201,HU3650,1.1,STL,Shetland Islands,Papa Little,Unnamed,5
+202,HU3907,3.1,STL,Shetland Islands,Mainland Shetland,Innis Loch,5
+203,HU4104,3.5,STL,Shetland Islands,Mainland Shetland,Unnamed,5
+204,HU4443,17,STL,Shetland Islands,Mainland Shetland,Loch of Clickimin,15
+205,HU4532,4.8,STL,Shetland Islands,Mainland Shetland,Loch of Kirkabister,5
+206,HU4535,27.5,STL,Shetland Islands,Mainland Shetland,Loch of Benston,15
+207,HU3740,26.6,STL,Shetland Islands,Mainland Shetland,Punds Water,15
+208,HU4611,16,STL,Shetland Islands,Mainland Shetland,Loch of Voe,15
+209,HU4801,0.66,STL,Shetland Islands,Yell,Unnamed,2
+210,HU4804,0.5,STL,Shetland Islands,Yell,Unnamed,2
+211,HU4822,0.4,STL,Shetland Islands,Yell,Unnamed,2
+212,HU4841,0.2,STL,Shetland Islands,Yell,Unnamed,2
+213,HU5617,1.3,STL,Shetland Islands,Whalsay,East Loch of Skaw,5
+214,HU5619,12.2,STL,Shetland Islands,Whalsay,Loch Isbister,15
+215,HU5713,1.7,STL,Shetland Islands,Mainland Shetland,Loch of Grutwick,5
+216,HU5803,28,STL,Shetland Islands,Yell,Loch of Vasetter,15
+217,HU5905,1.5,STL,Shetland Islands,Yell,Loch of Basta,5
+218,HU6601,0.25,STL,Shetland Islands,Whalsay,Unnamed,2
+219,HU6802,4.1,STL,Shetland Islands,Fetlar,Loch of Funzie,5
+220,HU6918,0.2,STL,Shetland Islands,Fetlar,Unnamed,2
+221,HU4964,1,STL,Shetland Islands,Yell,Waters of Raga,5
+222,HU4965,1,STL,Shetland Islands,Yell,Waters of Raga,5
+223,HU4966,0.3,STL,Shetland Islands,Yell,Waters of Raga,2
+224,HU5301,8.1,STL,Shetland Islands,Bressay,Loch of Grimsetter,8
+225,HU5408,1.8,STL,Shetland Islands,Bressay,Ullins Water,5
+226,NB9107,1.2,HLD,Highland,Mainland,Unnamed,5
+227,NB9108,4.3,HLD,Highland,Mainland,Loch Airigh Blair,5
+228,NB9105,2,HLD,Highland,Mainland,Unnamed,5
+229,NB9110,32,HLD,Highland,Mainland,Loch na Totaig,15
+230,NB9111,1.3,HLD,Highland,Mainland,Unnamed,5
+231,NC0131,0.5,HLD,Highland,Mainland,Unnamed,2
+232,NC0132,4.5,HLD,Highland,Mainland,Dubh Lochan,5
+233,NC0133,4,HLD,Highland,Mainland,Unnamed,5
+234,NC0144,48,HLD,Highland,Mainland,Loch Raa,15
+235,NC0145,3.5,HLD,Highland,Mainland,Loch a Chaoruinn,5
+236,NC0154,54,HLD,Highland,Mainland,Loch Vatachan,25
+237,NC2044,20,HLD,Highland,Mainland,Loch a' Chroisg,15
+238,NC0244,3,HLD,Highland,Mainland,Unnamed,5
+239,NC0246,2.4,HLD,Highland,Mainland,Unnamed,5
+240,NC0247,3.5,HLD,Highland,Mainland,Loch an Ordain,5
+241,NC0248,1,HLD,Highland,Mainland,Unnamed,5
+242,NC0250,5,HLD,Highland,Mainland,Unnamed,8
+243,NC0251,13,HLD,Highland,Mainland,Manse Loch,15
+244,NC0252,12,HLD,Highland,Mainland,Loch Dubh,15
+245,NC0262,1.2,HLD,Highland,Mainland,Unnamed,5
+246,NC0264,17,HLD,Highland,Mainland,Loch Culag,15
+247,NC0266,3,HLD,Highland,Mainland,Unnamed,5
+248,NC0267,2,HLD,Highland,Mainland,Unnamed,5
+249,NC0268,0.1,HLD,Highland,Mainland,Unnamed,2
+250,NC0269,0.9,HLD,Highland,Mainland,Unnamed,2
+251,NC0284,1.5,HLD,Highland,Mainland,Unnamed,5
+252,NC0301,30,HLD,Highland,Mainland,Loch Cul Fraioch,15
+253,NC0302,1.4,HLD,Highland,Mainland,Loch an Achaidh,5
+254,NC0304,0.5,HLD,Highland,Mainland,Unnamed,2
+255,NC0309,4,HLD,Highland,Mainland,Loch Eileanach,5
+256,NC0310,11,HLD,Highland,Mainland,Loch na Claise,15
+257,NC1111,62,HLD,Highland,Mainland,Loch na Gainimh,25
+258,NC11132,0.6,HLD,Highland,Mainland,Unnamed,2
+259,NC12145,4.8,HLD,Highland,Mainland,Loch an Alltain Duibh,5
+260,NC12159,2.4,HLD,Highland,Mainland,Unnamed,5
+261,NC12167,0.8,HLD,Highland,Mainland,Unnamed,2
+262,NC1219,10,HLD,Highland,Mainland,Loch Preas nan Aighean,15
+263,NC1227,2.5,HLD,Highland,Mainland,Unnamed,5
+264,NC1230,3.2,HLD,Highland,Mainland,Unnamed,5
+265,NC1231,4.6,HLD,Highland,Mainland,Loch an Tuir,5
+266,NC02121,0.05,HLD,Highland,Mainland,Unnamed,2
+267,NC02140,0.6,HLD,Highland,Mainland,Unnamed,2
+268,NC0215,3,HLD,Highland,Mainland,Loch an Aigeil,5
+269,NC0233,0.8,HLD,Highland,Mainland,Unnamed,2
+270,NC0234,1,HLD,Highland,Mainland,Unnamed,5
+271,NC0235,3.8,HLD,Highland,Mainland,Loch nan Lion,5
+272,NC1446,0.8,HLD,Highland,Mainland,Unnamed,2
+273,NC1447,0.9,HLD,Highland,Mainland,Unnamed,2
+274,NC3372,0.2,HLD,Highland,Mainland,Unnamed,2
+275,NC1240,8.5,HLD,Highland,Mainland,Loch na h-Innse Fraoich,8
+276,NC1249,10,HLD,Highland,Mainland,Loch Bad nan Aighean,15
+277,NC1251,8,HLD,Highland,Mainland,Loch Uidh na Geadaig,8
+278,NC1253,4.5,HLD,Highland,Mainland,Loch Torr an Lochain,5
+279,NC1258,7,HLD,Highland,Mainland,Loch na Garbhe Uidhe,8
+280,NC1260,2,HLD,Highland,Mainland,Loch a' Mhuilinn,5
+281,NC1263,10,HLD,Highland,Mainland,Loch a' Ghlinnein,15
+282,NC1268,2.5,HLD,Highland,Mainland,Unnamed,5
+283,NC1269,11,HLD,Highland,Mainland,Loch an Leothaid,15
+284,NC1270,38,HLD,Highland,Mainland,Loch Feith an Leothaid,15
+285,NC1271,5.5,HLD,Highland,Mainland,Unnamed,8
+286,NC1272,26,HLD,Highland,Mainland,Loch Druim Suardalain,15
+287,NC1275,3,HLD,Highland,Mainland,Loch Crom,5
+288,NC1276,12,HLD,Highland,Mainland,Loch Bad an t-Sluic,15
+289,NC1290,0.9,HLD,Highland,Mainland,Unnamed,2
+290,NC1302,7,HLD,Highland,Mainland,Loch a' Chreagain Daraich,8
+291,NC1448,1,HLD,Highland,Mainland,Unnamed,5
+292,NC1449,0.6,HLD,Highland,Mainland,Unnamed,2
+293,NC1450,1,HLD,Highland,Mainland,Unnamed,5
+294,NC1473,0.1,HLD,Highland,Mainland,Unnamed,2
+295,NC1474,0.6,HLD,Highland,Mainland,Unnamed,2
+296,NC1502,1.8,HLD,Highland,Mainland,Loch Poll a' Bhacain,5
+297,NC1504,0.3,HLD,Highland,Mainland,Unnamed,2
+298,NC1513,0.3,HLD,Highland,Mainland,Unnamed,2
+299,NC2201,2,HLD,Highland,Mainland,Unnamed,5
+300,NC2202,3,HLD,Highland,Mainland,Loch nan Eun,5
+301,NC2203,24,HLD,Highland,Mainland,Loch na Gainmhich,15
+302,NC2206,6.5,HLD,Highland,Mainland,Lochan Bealach Cornaidh,8
+303,NC2211,26,HLD,Highland,Mainland,Loch nan Caorach,15
+304,NC2213,1.2,HLD,Highland,Mainland,Unnamed,5
+305,NC2214,3,HLD,Highland,Mainland,Lochan an Duibhe,5
+306,NC2215,2.6,HLD,Highland,Mainland,Lochan Feoir,5
+307,NC2216,2.5,HLD,Highland,Mainland,Loch Bealach na h-Uidhe,5
+308,NC2218,1.5,HLD,Highland,Mainland,Unnamed,5
+309,NC2219,3.5,HLD,Highland,Mainland,Unnamed,5
+310,NC2220,8,HLD,Highland,Mainland,Loch Fleodach Coire,8
+311,NC2221,10,HLD,Highland,Mainland,Loch nan Cuaran,15
+312,NC2359,1.5,HLD,Highland,Mainland,Unnamed,5
+313,NC2401,2.2,HLD,Highland,Mainland,Unnamed,5
+314,NC2402,7.5,HLD,Highland,Mainland,Loch na Claise Luachraich,8
+315,NC2403,2.2,HLD,Highland,Mainland,Unnamed,5
+316,NC2404,3.6,HLD,Highland,Mainland,Unnamed,5
+317,NC2409,6,HLD,Highland,Mainland,Loch na Fiacail,8
+318,NC2439,3.5,HLD,Highland,Mainland,Loch Airigh a' Bhaird,5
+319,NC2451,1.4,HLD,Highland,Mainland,Unnamed,5
+320,NC2454,5,HLD,Highland,Mainland,Lochain Doimhain,8
+321,NC2459,14,HLD,Highland,Mainland,Clar Loch Mor,15
+322,NC2461,5,HLD,Highland,Mainland,Loch Eileanach,8
+323,NC2464,6,HLD,Highland,Mainland,Loch na h-Ath,8
+324,NC2469,2,HLD,Highland,Mainland,Unnamed,5
+325,NC4517,1.4,HLD,Highland,Mainland,Loch Bacach,5
+326,NC2602,11,HLD,Highland,Mainland,Loch a' Gheodha Ruaidh,15
+327,NC2614,9,HLD,Highland,Mainland,Loch a' Mhuilinn,8
+328,NC2615,30,HLD,Highland,Mainland,Loch na Gainimh,15
+329,NC2616,4,HLD,Highland,Mainland,Loch Deibheadh,5
+330,NC2617,22,HLD,Highland,Mainland,Loch Mor a' Chraisg,15
+331,NC2618,4,HLD,Highland,Mainland,Unnamed,5
+332,NC2701,1,HLD,Highland,Mainland,Unnamed,5
+333,NC2702,2,HLD,Highland,Mainland,Unnamed,5
+334,NC2703,4,HLD,Highland,Mainland,Loch na Seamraig,5
+335,NC5513,3.5,HLD,Highland,Mainland,Lochan na Cuilce,5
+336,NC5514,18,HLD,Highland,Mainland,Lochan Hakel,15
+337,NC6502,3.3,HLD,Highland,Mainland,Lochan Dubh,5
+338,NC6503,10.9,HLD,Highland,Mainland,Loch Buidhe,15
+339,NC6504,10.4,HLD,Highland,Mainland,Loch Cormaic,15
+340,NC6505,9,HLD,Highland,Mainland,Loch Crocach,8
+341,NC6506,3,HLD,Highland,Mainland,Loch Dubh Beul na Faire,5
+342,NC6507,9,HLD,Highland,Mainland,Clar-loch Mor,8
+343,NC6508,2.6,HLD,Highland,Mainland,Loch nan Gamhna,5
+344,NC6516,6,HLD,Highland,Mainland,Loch Arbhair,8
+345,NC6528,2,HLD,Highland,Mainland,Loch nan Con-donna,5
+346,NC6531,119,HLD,Highland,Mainland,Loch Craggie,50
+347,NC6532,13,HLD,Highland,Mainland,Loch Slaim,15
+348,NC6533,3,HLD,Highland,Mainland,Lochan na h-Uimheachd,5
+349,NC6534,1.8,HLD,Highland,Mainland,Unnamed,5
+350,NC6539,1.4,HLD,Highland,Mainland,Lochan Dubh,5
+351,NC6540,1.4,HLD,Highland,Mainland,Clar-loch Beag,5
+352,NC4201,152,HLD,Highland,Mainland,Loch Fiag,50
+353,NC4204,1.2,HLD,Highland,Mainland,Unnamed,5
+354,NC4521,2,HLD,Highland,Mainland,Lochan na Fearna,5
+355,NC4531,0.9,HLD,Highland,Mainland,Unnamed,2
+356,NC4532,1.8,HLD,Highland,Mainland,Unnamed,5
+357,NC4535,0.7,HLD,Highland,Mainland,Unnamed,2
+358,NC4602,3,HLD,Highland,Mainland,Loch Uamh Dhadhaidh,5
+359,NC4606,4,HLD,Highland,Mainland,Loch a' Choire,5
+360,NC4609,0.9,HLD,Highland,Mainland,Unnamed,2
+361,NC5515,7.5,HLD,Highland,Mainland,Loch Craisg,8
+362,NC7501,8,HLD,Highland,Mainland,Lochan Duinte,8
+363,ND2706,1.8,HLD,Highland,Mainland,Loch of Muirs,5
+364,NC1307,3.6,HLD,Highland,Mainland,Loch Duartbeg,5
+365,NC2224,2,HLD,Highland,Mainland,Unnamed,5
+366,NC2274,0.4,HLD,Highland,Mainland,Unnamed,2
+367,NC2289,0.7,HLD,Highland,Mainland,Unnamed,2
+368,NC2297,0.5,HLD,Highland,Mainland,Unnamed,2
+369,ND2707,4.4,HLD,Highland,Mainland,Many Lochs,5
+370,ND2711,2.4,HLD,Highland,Mainland,Sanders Loch,5
+371,ND2717,1.8,HLD,Highland,Mainland,Black Loch,5
+372,ND2718,76,HLD,Highland,Mainland,St John's Loch,25
+373,NC1312,9,HLD,Highland,Mainland,Loch Duartmore,8
+374,NC1314,2.5,HLD,Highland,Mainland,Loch an Ruighein,5
+375,NC1315,4,HLD,Highland,Mainland,Unnamed,5
+376,NC1319,2,HLD,Highland,Mainland,Unnamed,5
+377,NC1321,6,HLD,Highland,Mainland,Loch a' Meallard,8
+378,NC1322,1.4,HLD,Highland,Mainland,Lochan nan Gad,5
+379,NC1324,25,HLD,Highland,Mainland,Loch Drumbeg,15
+380,NC1325,3,HLD,Highland,Mainland,Loch Ruighean an Aitinn,5
+381,NC1343,0.05,HLD,Highland,Mainland,Unnamed,2
+382,NC1344,1,HLD,Highland,Mainland,Unnamed,5
+383,NC1346,6.5,HLD,Highland,Mainland,Unnamed,8
+384,NC2709,0.6,HLD,Highland,Mainland,Unnamed,2
+385,NC2712,0.3,HLD,Highland,Mainland,Unnamed,2
+386,NC3001,8,HLD,Highland,Mainland,Loch Eileag,8
+387,NC3002,16,HLD,Highland,Mainland,Loch Craggie,15
+388,NC3003,4,HLD,Highland,Mainland,Lochan a' Bhualt,5
+389,NC3004,1.5,HLD,Highland,Mainland,Loch Thurnaig,5
+390,NC3005,0.2,HLD,Highland,Mainland,Unnamed,2
+391,NC3006,0.2,HLD,Highland,Mainland,Unnamed,2
+392,NC3007,1.7,HLD,Highland,Mainland,Unnamed,5
+393,NC3008,1.6,HLD,Highland,Mainland,Unnamed,5
+394,NC3012,10,HLD,Highland,Mainland,Loch a' Bhith,15
+395,NC3019,1,HLD,Highland,Mainland,Unnamed,5
+396,NC3020,37.5,HLD,Highland,Mainland,Loch na Claise Moire,15
+397,NC3023,0.8,HLD,Highland,Mainland,Unnamed,2
+398,NC3024,5.6,HLD,Highland,Mainland,Loch a' Bhrochain,8
+399,NC3025,1.3,HLD,Highland,Mainland,Unnamed,5
+400,NC3027,0.3,HLD,Highland,Mainland,Unnamed,2
+401,NC3028,0.15,HLD,Highland,Mainland,Unnamed,2
+402,NC3501,2.4,HLD,Highland,Mainland,Lochan na Glamhaichd,5
+403,NC3505,2,HLD,Highland,Mainland,Unnamed,5
+404,NC3506,1.5,HLD,Highland,Mainland,Lochan Havurn,5
+405,NC3509,0.9,HLD,Highland,Mainland,Unnamed,2
+406,NC2493,0.7,HLD,Highland,Mainland,Unnamed,2
+407,NC2501,17,HLD,Highland,Mainland,Loch Aisir Mor,15
+408,NC2504,13,HLD,Highland,Mainland,Loch na Larach,15
+409,NC2505,8,HLD,Highland,Mainland,Loch Carn Mharasaid,8
+410,NC2506,34,HLD,Highland,Mainland,Loch Innis na Ba Buidhe,15
+411,NC25100,3.5,HLD,Highland,Mainland,Unnamed,5
+412,NC2511,5,HLD,Highland,Mainland,General's Loch,8
+413,NC2513,5,HLD,Highland,Mainland,Loch Eileanach,8
+414,NC5614,20,HLD,Highland,Mainland,Loch a' Mhuilinn,15
+415,NC5615,1.3,HLD,Highland,Mainland,Unnamed,5
+416,NC6002,20,HLD,Highland,Mainland,Loch Preas nan Sgiathanach,15
+417,NC6007,28,HLD,Highland,Mainland,Loch Cracail Mor,15
+418,NC6585,2.8,HLD,Highland,Mainland,Unnamed,5
+419,NC6601,2,HLD,Highland,Mainland,Lochan Ruadh,5
+420,NC6602,7,HLD,Highland,Mainland,Loch Modsaire,8
+421,NC6609,9,HLD,Highland,Mainland,Loch Skerray,8
+422,NC6610,4,HLD,Highland,Mainland,Loch a' Chaoruinn,5
+423,NC6612,1,HLD,Highland,Mainland,Lochan a' Choire,5
+424,NC7001,0.9,HLD,Highland,Mainland,Unnamed,2
+425,NC7002,34,HLD,Highland,Mainland,Loch Horn,15
+426,NC7003,6,HLD,Highland,Mainland,Loch Farlary,8
+427,NC7004,0.5,HLD,Highland,Mainland,Unnamed,2
+428,NC7005,15,HLD,Highland,Mainland,Loch Salachaidh,15
+429,NC7006,1.1,HLD,Highland,Mainland,Loch Airighe Bheg,5
+430,NC7007,28,HLD,Highland,Mainland,Loch Lunndaidh,15
+431,NC4228,0.7,HLD,Highland,Mainland,Unnamed,2
+432,NC4229,0.3,HLD,Highland,Mainland,Unnamed,2
+433,NC4303,6,HLD,Highland,Mainland,Lochan na Creige Riabhach,8
+434,NC4304,4.2,HLD,Highland,Mainland,Unnamed,5
+435,NC4306,11,HLD,Highland,Mainland,Loch an Aslaird,15
+436,NC4307,23,HLD,Highland,Mainland,Loch an t-Seilg,15
+437,NC4308,4,HLD,Highland,Mainland,Loch an Tuim Bhuidhe,5
+438,NC4312,19,HLD,Highland,Mainland,An Glas-lLoch,15
+439,NC4313,0.9,HLD,Highland,Mainland,Unnamed,2
+440,NC4629,20,HLD,Highland,Mainland,Loch Meadaidh,15
+441,NC5003,34,HLD,Highland,Mainland,Unnamed,15
+442,NC5004,0.7,HLD,Highland,Mainland,Unnamed,2
+443,NC5005,0.3,HLD,Highland,Mainland,Unnamed,2
+444,NC5006,0.4,HLD,Highland,Mainland,Unnamed,2
+445,NC5101,4,HLD,Highland,Mainland,Loch an Staing,5
+446,NC5102,0.5,HLD,Highland,Mainland,Loch Dail na Copaig,2
+447,NC5214,6,HLD,Highland,Mainland,Loch Dubh Cul na Capulich,8
+448,NC5215,1.6,HLD,Highland,Mainland,Loch na Capulich,5
+449,NC9524,7,HLD,Highland,Mainland,Lochan Dubh Cul na Beinne,8
+450,NC9601,4,HLD,Highland,Mainland,Unnamed,5
+451,NC9602,1,HLD,Highland,Mainland,Unnamed,5
+452,NC9609,2.6,HLD,Highland,Mainland,Loch Achbuiligan,5
+453,ND1513,4.5,HLD,Highland,Mainland,Unnamed,5
+454,ND1515,49,HLD,Highland,Mainland,Loch of Toftingall,15
+455,ND1702,2.4,HLD,Highland,Mainland,Many Lochs,5
+456,ND1704,2,HLD,Highland,Mainland,Sanders Loch,5
+457,ND1706,4,HLD,Highland,Mainland,Many Lochs,5
+458,ND2412,3.6,HLD,Highland,Mainland,Loch Camster,5
+459,ND2702,1.2,HLD,Highland,Mainland,Loch Burifa,5
+460,ND2703,2.4,HLD,Highland,Mainland,Loch of Easter Head,5
+461,ND2704,2.4,HLD,Highland,Mainland,Many Lochs,5
+462,ND2705,5,HLD,Highland,Mainland,Long Loch,8
+463,NC7607,2,HLD,Highland,Mainland,Unnamed,5
+464,NC7608,6,HLD,Highland,Mainland,Loch Mor,8
+465,NC7624,0.7,HLD,Highland,Mainland,Unnamed,2
+466,NC7625,1.2,HLD,Highland,Mainland,Unnamed,5
+467,NC8001,225,HLD,Highland,Mainland,Loch Brora,50
+468,NC8610,13,HLD,Highland,Mainland,Loch nam Breac Beag,15
+469,NC8611,14,HLD,Highland,Mainland,Loch nam Breac Mor,15
+470,NC8617,5.5,HLD,Highland,Mainland,Loch Mor,8
+471,NC8618,3,HLD,Highland,Mainland,Loch Earacha,5
+472,NC8619,0.2,HLD,Highland,Mainland,Unnamed,2
+473,NC8620,0.9,HLD,Highland,Mainland,Unnamed,2
+474,NC8646,0.1,HLD,Highland,Mainland,Unnamed,2
+475,NC3201,105,HLD,Highland,Mainland,Loch a' Ghriama,50
+476,NC3205,20,HLD,Highland,Mainland,Loch an Eircill,15
+477,NC6008,10,HLD,Highland,Mainland,Loch Aairighe Mhor,15
+478,ND3406,85,HLD,Highland,Mainland,Loch Hempriggs,25
+479,ND3407,3.5,HLD,Highland,Mainland,Loch of Warehouse,5
+480,ND3408,38,HLD,Highland,Mainland,Loch of Yarrows,15
+481,ND3409,15,HLD,Highland,Mainland,Loch Sarclet,15
+482,ND3410,7,HLD,Highland,Mainland,Loch Watenan,8
+483,ND3505,10,HLD,Highland,Mainland,Loch of Killimster,15
+484,NC1402,2.5,HLD,Highland,Mainland,Loch Dubh,5
+485,NC1405,50,HLD,Highland,Mainland,Loch nam Brac,25
+486,NC1409,4,HLD,Highland,Mainland,Clar Loch,5
+487,NC1410,0.9,HLD,Highland,Mainland,Unnamed,2
+488,NC1411,1.5,HLD,Highland,Mainland,Unnamed,5
+489,NC25133,1.4,HLD,Highland,Mainland,Unnamed,5
+490,NC1601,6,HLD,Highland,Mainland,Lochain nan Sac,8
+491,NC1602,0.5,HLD,Highland,Mainland,Loch a' Chreadha,2
+492,NC1603,2,HLD,Highland,Mainland,Unnamed,5
+493,NC1604,4,HLD,Highland,Mainland,Loch Aisir,5
+494,NC1605,0.3,HLD,Highland,Mainland,Unnamed,2
+495,NC1606,0.8,HLD,Highland,Mainland,Unnamed,2
+496,NC1607,0.3,HLD,Highland,Mainland,Unnamed,2
+497,NC1609,0.6,HLD,Highland,Mainland,Unnamed,2
+498,NC3512,1.4,HLD,Highland,Mainland,Unnamed,5
+499,NC2053,1.5,HLD,Highland,Mainland,Lochanan na Ceireag,5
+500,ND4907,0.2,OKN,Orkney Islands,South Ronaldsay,Unnamed,2
+501,ND4913,0.2,OKN,Orkney Islands,South Ronaldsay,Unnamed,2
+502,ND4914,0.7,OKN,Orkney Islands,South Ronaldsay,Unnamed,2
+503,ND4915,0.2,OKN,Orkney Islands,South Ronaldsay,Unnamed,2
+504,ND4916,0.2,OKN,Orkney Islands,South Ronaldsay,Unnamed,2
+505,ND4917,0.1,OKN,Orkney Islands,South Ronaldsay,Unnamed,2
+506,ND2904,0.05,OKN,Orkney Islands,Hoy,Unnamed,2
+507,ND4801,2.8,OKN,Orkney Islands,South Ronaldsay,Trena Loch,5
+508,ND4802,0.6,OKN,Orkney Islands,South Ronaldsay,Unnamed,2
+509,ND4803,0.6,OKN,Orkney Islands,South Ronaldsay,Unnamed,2
+510,ND4804,1.8,OKN,Orkney Islands,South Ronaldsay,Graemston Loch,5
+511,ND4805,4.8,OKN,Orkney Islands,South Ronaldsay,Liddel Loch,5
+512,ND4806,2.6,OKN,Orkney Islands,South Ronaldsay,Loch of Lythe,5
+513,ND4807,0.3,OKN,Orkney Islands,South Ronaldsay,Unnamed,2
+514,ND4808,0.3,OKN,Orkney Islands,South Ronaldsay,Unnamed,2
+515,ND4809,0.2,OKN,Orkney Islands,South Ronaldsay,Unnamed,2
+516,ND4810,0.01,OKN,Orkney Islands,South Ronaldsay,Unnamed,2
+517,ND4901,7.8,OKN,Orkney Islands,Burray,Echna Loch,8
+518,ND4902,0.2,OKN,Orkney Islands,Burray,Unnamed,2
+519,ND4903,0.9,OKN,Orkney Islands,Burray,Unnamed,2
+520,ND4904,3.6,OKN,Orkney Islands,South Ronaldsay,Unnamed,5
+521,ND4905,0.3,OKN,Orkney Islands,South Ronaldsay,Unnamed,2
+522,ND4906,1.7,OKN,Orkney Islands,South Ronaldsay,Unnamed,5
+523,NB3501,14.5,NEL,Na h-Eileanan an Iar,Lewis,Loch Ereray,15
+524,NB3510,8,NEL,Na h-Eileanan an Iar,Lewis,Loch an Duin,8
+525,NB4109,4,NEL,Na h-Eileanan an Iar,Lewis,Loch a' Ghruagaich,5
+526,NB4118,1,NEL,Na h-Eileanan an Iar,Lewis,Unnamed,5
+527,NB4331,1.5,NEL,Na h-Eileanan an Iar,Lewis,Unnamed,5
+528,NB4345,1.1,NEL,Na h-Eileanan an Iar,Lewis,Unnamed,5
+529,NB4347,8.1,NEL,Na h-Eileanan an Iar,Lewis,Loch Branahuie,8
+530,NB4268,5,NEL,Na h-Eileanan an Iar,Lewis,Unnamed,8
+531,NB4324,3.5,NEL,Na h-Eileanan an Iar,Lewis,Unnamed,5
+532,NB4325,0.75,NEL,Na h-Eileanan an Iar,Lewis,Unnamed,2
+533,NB44415,9.5,NEL,Na h-Eileanan an Iar,Lewis,Loch Gunna,8
+534,NB4503,2,NEL,Na h-Eileanan an Iar,Lewis,Loch Baravat,5
+535,NB4536,11,NEL,Na h-Eileanan an Iar,Lewis,Loch Maravat,15
+536,NB4606,4.3,NEL,Na h-Eileanan an Iar,Lewis,Loch Dibadale,5
+537,NB5201,1,NEL,Na h-Eileanan an Iar,Lewis,Loch Cuilc,5
+538,NB5202,0.2,NEL,Na h-Eileanan an Iar,Lewis,Unnamed,2
+539,NB5301,8.5,NEL,Na h-Eileanan an Iar,Lewis,Loch an Tiumpan,8
+540,NF72154,0.1,NEL,Na h-Eileanan an Iar,South Uist,Unnamed,2
+541,NF72155,4.5,NEL,Na h-Eileanan an Iar,South Uist,Unnamed,5
+542,NF7222,28,NEL,Na h-Eileanan an Iar,South Uist,Loch Aird an Sgairbh,15
+543,NF7224,10,NEL,Na h-Eileanan an Iar,South Uist,Loch Eilean an Staoir,15
+544,NF6001,0.15,NEL,Na h-Eileanan an Iar,Barra,Unnamed,2
+545,NF6002,0.5,NEL,Na h-Eileanan an Iar,Barra,Unnamed,2
+546,NF6003,0.5,NEL,Na h-Eileanan an Iar,Barra,Unnamed,2
+547,NF6004,0.2,NEL,Na h-Eileanan an Iar,Barra,Unnamed,2
+548,NF6008,0.9,NEL,Na h-Eileanan an Iar,Barra,Lochan na Cartach,2
+549,NF7005,1.2,NEL,Na h-Eileanan an Iar,Barra,Unnamed,5
+550,NF7006,1.7,NEL,Na h-Eileanan an Iar,Barra,Unnamed,5
+551,NF7109,11,NEL,Na h-Eileanan an Iar,South Uist,Loch an Eilean,15
+552,NF7111,2.2,NEL,Na h-Eileanan an Iar,South Uist,Loch Trosaraidh,5
+553,NF7112,2.8,NEL,Na h-Eileanan an Iar,South Uist,Loch nan Capull,5
+554,NF7118,0.7,NEL,Na h-Eileanan an Iar,South Uist,Unnamed,2
+555,NC2060,1.5,HLD,Highland,Mainland,Unnamed,5
+556,NC2061,0.9,HLD,Highland,Mainland,Unnamed,2
+557,NC2064,1.5,HLD,Highland,Mainland,Unnamed,5
+558,NC2065,0.7,HLD,Highland,Mainland,Unnamed,2
+559,NC2073,2.5,HLD,Highland,Mainland,Lochanan nan Sailean Beaga,5
+560,NC2076,3.5,HLD,Highland,Mainland,Unnamed,5
+561,NC2077,0.8,HLD,Highland,Mainland,Unnamed,2
+562,NC2082,1.2,HLD,Highland,Mainland,Clar Lochan,5
+563,NG1402,17,HLD,Highland,Skye,Loch Mor,15
+564,NG1404,3.2,HLD,Highland,Skye,Loch Eishort,5
+565,NG6401,0.35,HLD,Highland,Island of Raasay,Unnamed,2
+566,NG7105,2.4,HLD,Highland,Mainland,Loch nan Uranan,5
+567,NG7106,1.5,HLD,Highland,Mainland,Unnamed,5
+568,NG7201,0.6,HLD,Highland,Mainland,Unnamed,2
+569,NG7202,1,HLD,Highland,Mainland,Loch Cul Duibh,5
+570,NG7203,6,HLD,Highland,Mainland,Loch Scalpaidh,8
+571,NG7204,1.8,HLD,Highland,Mainland,Loch Palascaig,5
+572,NG7205,3.2,HLD,Highland,Mainland,Loch Iain Oig,5
+573,NG7206,0.8,HLD,Highland,Mainland,Unnamed,2
+574,NG7207,0.5,HLD,Highland,Skye,Unnamed,2
+575,NG7208,0.9,HLD,Highland,Skye,Unnamed,2
+576,NG7209,0.4,HLD,Highland,Skye,Unnamed,2
+577,NG7212,1,HLD,Highland,Skye,Unnamed,5
+578,NG7213,1.7,HLD,Highland,Skye,Unnamed,5
+579,NG7214,6,HLD,Highland,Skye,Lochan na Saile,8
+580,NG7215,8,HLD,Highland,Skye,Unnamed,8
+581,NG7301,1,HLD,Highland,Mainland,Loch Erbusaig,5
+582,NG7490,2.6,HLD,Highland,Mainland,Unnamed,5
+583,NG7493,2.1,HLD,Highland,Mainland,Lochan na Teanga,5
+584,NG7527,3.7,HLD,Highland,Mainland,Loch na Caorach,5
+585,NG7530,2.8,HLD,Highland,Mainland,Lochan Fada,5
+586,NG7531,3.2,HLD,Highland,Mainland,Lochan Fada,5
+587,NG7532,2.2,HLD,Highland,Mainland,Unnamed,5
+588,NG7534,0.8,HLD,Highland,Mainland,Unnamed,2
+589,NG7536,7.5,HLD,Highland,Mainland,Loch a' Choire Bhuidhe,8
+590,NG7537,3,HLD,Highland,Mainland,Loch na Creige,5
+591,NG8309,13,HLD,Highland,Mainland,Loch Lundie,15
+592,NG4305,1.3,HLD,Highland,Skye,Unnamed,5
+593,NG4306,1.5,HLD,Highland,Skye,Unnamed,5
+594,NG4307,5.6,HLD,Highland,Skye,Unnamed,8
+595,NG4401,33,HLD,Highland,Skye,Loch Fada,15
+596,NG4403,0.8,HLD,Highland,Skye,Unnamed,2
+597,NG4404,6,HLD,Highland,Skye,Loch a Ghlinne Bhig,8
+598,NG4501,2,HLD,Highland,Skye,Loch Beag,5
+599,NG4502,0.2,HLD,Highland,Skye,Unnamed,2
+600,NG4503,0.3,HLD,Highland,Skye,Unnamed,2
+601,NG4504,2,HLD,Highland,Skye,Loch Cuithir,5
+602,NG4505,6,HLD,Highland,Skye,Loch Liuravay,8
+603,NG4506,0.4,HLD,Highland,Skye,Unnamed,2
+604,NG4601,0.3,HLD,Highland,Skye,Unnamed,2
+605,NG4602,9,HLD,Highland,Skye,Loch Sneosdal,8
+606,NG4610,10,HLD,Highland,Skye,Loch Cleap,15
+607,NG8311,2.1,HLD,Highland,Mainland,Unnamed,5
+608,NG8312,9.5,HLD,Highland,Mainland,Loch nan Gillean,8
+609,NG8313,16,HLD,Highland,Mainland,Loch na Leitire,15
+610,NG8314,0.3,HLD,Highland,Mainland,Unnamed,2
+611,NG8315,0.5,HLD,Highland,Mainland,Unnamed,2
+612,NG8317,6.7,HLD,Highland,Mainland,Loch na Doire Moire,8
+613,NG8318,0.7,HLD,Highland,Mainland,Unnamed,2
+614,NG8319,1.4,HLD,Highland,Mainland,Unnamed,5
+615,NG8320,0.7,HLD,Highland,Mainland,Unnamed,2
+616,NG8321,1.5,HLD,Highland,Mainland,Loch nam Breac Mora,5
+617,NG8322,9,HLD,Highland,Mainland,Loch na Smeoraich,8
+618,NG8325,1.4,HLD,Highland,Mainland,Unnamed,5
+619,NG8330,2.5,HLD,Highland,Mainland,Lochan Dubha,5
+620,NG8332,1,HLD,Highland,Mainland,Unnamed,5
+621,NG8333,2,HLD,Highland,Mainland,Loch an Eich-usige,5
+622,NG8440,39,HLD,Highland,Mainland,Loch Coultrie/Loch an Loin,15
+623,NG8967,7,HLD,Highland,Mainland,Loch Caol na h-Innse-geamhraidh,8
+624,NG8981,3.5,HLD,Highland,Mainland,Loch na h-Innse Gairbhe,5
+625,NG9008,7,HLD,Highland,Mainland,Loch Coire Shubh,8
+626,NG9009,2.7,HLD,Highland,Mainland,Unnamed,5
+627,NG9010,2.8,HLD,Highland,Mainland,Loch Coire nan Cnamh,5
+628,NG9011,2.5,HLD,Highland,Mainland,Loch a' Choire Bheithe,5
+629,NG9103,9,HLD,Highland,Mainland,Loch Shiel,8
+630,NG9203,0.8,HLD,Highland,Mainland,Unnamed,2
+631,NG9204,0.5,HLD,Highland,Mainland,Unnamed,2
+632,NG9205,8.5,HLD,Highland,Mainland,Loch nan Ealachan,8
+633,NG9211,0.8,HLD,Highland,Mainland,Unnamed,2
+634,NG9212,1.5,HLD,Highland,Mainland,Unnamed,5
+635,NG9213,29,HLD,Highland,Mainland,Loch nan Eun,15
+636,NG7338,2.4,HLD,Highland,Mainland,Unnamed,5
+637,NG7339,4.8,HLD,Highland,Mainland,Lochan an t-Sagairt,5
+638,NG7352,3.8,HLD,Highland,Mainland,Unnamed,5
+639,NG7358,0.8,HLD,Highland,Mainland,Unnamed,2
+640,NG7359,0.9,HLD,Highland,Mainland,Unnamed,2
+641,NG7364,5.2,HLD,Highland,Mainland,Loch Airigh Alasdair,8
+642,NG2401,0.2,HLD,Highland,Skye,Unnamed,2
+643,NG2402,0.3,HLD,Highland,Skye,Unnamed,2
+644,NG2403,0.7,HLD,Highland,Skye,Unnamed,2
+645,NG2503,2,HLD,Highland,Skye,Loch Vorvin,5
+646,NG2504,1.3,HLD,Highland,Skye,Unnamed,5
+647,NG2505,2,HLD,Highland,Skye,Loch Corlarach,5
+648,NG2506,7,HLD,Highland,Skye,Loch Suardal,8
+649,NG2601,2,HLD,Highland,Skye,Unnamed,5
+650,NG4611,2,HLD,Highland,Skye,Unnamed,5
+651,NG4614,0.9,HLD,Highland,Skye,Feur Lochan,2
+652,NG4615,5,HLD,Highland,Skye,Loch Mor,8
+653,NG4617,0.2,HLD,Highland,Skye,Unnamed,2
+654,NG5013,3,HLD,Highland,Skye,Loch Aruisg,5
+655,NG5102,0.3,HLD,Highland,Skye,Unnamed,2
+656,NG5103,0.2,HLD,Highland,Skye,Unnamed,2
+657,NG5105,3,HLD,Highland,Skye,Unnamed,5
+658,NG5106,0.8,HLD,Highland,Skye,Reservoir,2
+659,NG5107,0.6,HLD,Highland,Skye,Unnamed,2
+660,NG5108,6,HLD,Highland,Skye,Loch an Leoid,8
+661,NG5109,6,HLD,Highland,Skye,Loch Gauscavaig,8
+662,NG5201,1.7,HLD,Highland,Skye,Loch nam Madadh Uisge,5
+663,NG5202,3,HLD,Highland,Skye,Lochain Stratha Mhoir,5
+664,NG5203,0.8,HLD,Highland,Skye,Unnamed,2
+665,NG5204,8.5,HLD,Highland,Skye,Loch an Athain,8
+666,NG5205,12,HLD,Highland,Skye,Loch na Sguabaidh,15
+667,NG5206,48,HLD,Highland,Skye,Loch na Creitheach,15
+668,NG5208,0.6,HLD,Highland,Skye,Unnamed,2
+669,NG5209,0.3,HLD,Highland,Skye,Unnamed,2
+670,NG5211,1,HLD,Highland,Skye,Unnamed,5
+671,NG5302,0.3,HLD,Highland,Island of Raasay,Unnamed,2
+672,NG5303,0.25,HLD,Highland,Island of Raasay,Unnamed,2
+673,NG5304,0.2,HLD,Highland,Island of Raasay,Unnamed,2
+674,NG5307,0.4,HLD,Highland,Island of Raasay,Unnamed,2
+675,NG5308,0.8,HLD,Highland,Island of Raasay,Unnamed,2
+676,NG5309,1,HLD,Highland,Island of Raasay,Unnamed,5
+677,NG5310,0.8,HLD,Highland,Island of Raasay,Unnamed,2
+678,NG5311,1.1,HLD,Highland,Island of Raasay,Loch Storab,5
+679,NG5312,0.25,HLD,Highland,Island of Raasay,Unnamed,2
+680,NG7606,0.9,HLD,Highland,Mainland,Unnamed,2
+681,NG7608,1.2,HLD,Highland,Mainland,Unnamed,5
+682,NG7609,1,HLD,Highland,Mainland,Unnamed,5
+683,NG7610,0.7,HLD,Highland,Mainland,Unnamed,2
+684,NG8823,2.5,HLD,Highland,Mainland,Loch na Cloich,5
+685,NG8947,9,HLD,Highland,Mainland,Loch na Beiste,8
+686,NG8951,30,HLD,Highland,Mainland,Loch an t-Slagain,15
+687,NG8952,2.4,HLD,Highland,Mainland,Loch an Fheoir,5
+688,NG8953,1.5,HLD,Highland,Mainland,Unnamed,5
+689,NG8653,2,HLD,Highland,Mainland,Loch a' Chaorainn Beag,5
+690,NG8654,1.3,HLD,Highland,Mainland,Loch na Feannaig,5
+691,NG8655,1,HLD,Highland,Mainland,Lochan Dubh,5
+692,NG8656,8,HLD,Highland,Mainland,Loch Freumhach,8
+693,NG8674,12.5,HLD,Highland,Mainland,Loch a' Mhuillaich,15
+694,NG74114,1.8,HLD,Highland,Mainland,Unnamed,5
+695,NG74117,4.5,HLD,Highland,Mainland,Lochan Leathann,5
+696,NG74119,3,HLD,Highland,Mainland,Loch a' Chaorainn,5
+697,NG3201,5,HLD,Highland,Skye,Loch Sleadale,8
+698,NG3204,0.2,HLD,Highland,Skye,Unnamed,2
+699,NG3205,0.9,HLD,Highland,Skye,Unnamed,2
+700,NG3206,0.25,HLD,Highland,Skye,Unnamed,2
+701,NG3207,0.3,HLD,Highland,Skye,Unnamed,2
+702,NG3208,5,HLD,Highland,Skye,Loch a Bhac-ghlais,8
+703,NG3209,0.3,HLD,Highland,Skye,Unnamed,2
+704,NG3210,1.3,HLD,Highland,Skye,Unnamed,5
+705,NG3211,0.8,HLD,Highland,Skye,Loch Bioda Mor,2
+706,NG3212,0.9,HLD,Highland,Skye,Unnamed,2
+707,NG3301,30,HLD,Highland,Skye,Loch Duagrich,15
+708,NG3304,0.25,HLD,Highland,Skye,Unnamed,2
+709,NG3305,0.1,HLD,Highland,Skye,Unnamed,2
+710,NG3306,0.3,HLD,Highland,Skye,Unnamed,2
+711,NG3307,0.1,HLD,Highland,Skye,Unnamed,2
+712,NG3308,1,HLD,Highland,Skye,Loch Dubh,5
+713,NG3309,1.4,HLD,Highland,Skye,Loch a' Ghille-chnapain,5
+714,NG3310,0.9,HLD,Highland,Skye,Loch nan Uan,2
+715,NG3315,4,HLD,Highland,Skye,Loch Lic-aird,5
+716,NG3316,1.2,HLD,Highland,Skye,Unnamed,5
+717,NG3317,2,HLD,Highland,Skye,Loch Fada,5
+718,NG3318,0.7,HLD,Highland,Skye,Unnamed,2
+719,NG3319,0.15,HLD,Highland,Skye,Unnamed,2
+720,NG3322,0.25,HLD,Highland,Skye,Unnamed,2
+721,NG5313,0.5,HLD,Highland,Island of Raasay,Unnamed,2
+722,NG5314,0.8,HLD,Highland,Island of Raasay,Unnamed,2
+723,NG5316,7,HLD,Highland,Skye,Loch Fada,8
+724,NG5317,0.3,HLD,Highland,Island of Raasay,Unnamed,2
+725,NG5318,0.2,HLD,Highland,Island of Raasay,Unnamed,2
+726,NG5319,0.9,HLD,Highland,Island of Raasay,Unnamed,2
+727,NG5320,0.4,HLD,Highland,Island of Raasay,Unnamed,2
+728,NG5321,1.2,HLD,Highland,Island of Raasay,Loch a' Mhuilinn,5
+729,NG5322,0.8,HLD,Highland,Island of Raasay,Unnamed,2
+730,NG5402,0.25,HLD,Highland,Island of Raasay,Loch Mallaichte,2
+731,NG5403,0.7,HLD,Highland,Island of Raasay,Unnamed,2
+732,NG5404,0.5,HLD,Highland,Island of Raasay,Unnamed,2
+733,NG5405,0.4,HLD,Highland,Island of Raasay,Unnamed,2
+734,NG5406,0.9,HLD,Highland,Island of Raasay,Loch na Cuilce,2
+735,NG5407,7,HLD,Highland,Island of Raasay,Loch na Uachdair,8
+736,NG5408,1.2,HLD,Highland,Island of Raasay,Loch Beag,5
+737,NG5409,1.5,HLD,Highland,Island of Raasay,Loch na Bronn,5
+738,NG5410,0.4,HLD,Highland,Island of Raasay,Unnamed,2
+739,NG5411,0.6,HLD,Highland,Island of Raasay,Unnamed,2
+740,NG5412,3,HLD,Highland,Island of Raasay,Loch an Raithaid,5
+741,NG5413,1.8,HLD,Highland,Island of Raasay,Loch Eadar da Bhaile,5
+742,NG5504,130,HLD,Highland,Skye,Loch Leathan/ Storr Lochs,50
+743,NG5506,4,HLD,Highland,Eilean Fladday,Loch Mor,5
+744,NG5507,0.25,HLD,Highland,Eilean Fladday,Unnamed,2
+745,NG5508,1.2,HLD,Highland,Eilean Fladday,Unnamed,5
+746,NG5601,32,HLD,Highland,Skye,Loch Mealt,15
+747,NG6008,10,HLD,Highland,Skye,Loch Barabhaig,15
+748,NG6010,20,HLD,Highland,Skye,Loch Dhughaill,15
+749,NG6012,25,HLD,Highland,Skye,Loch nan Uamh,15
+750,NG6013,5,HLD,Highland,Skye,Loch Ic Iain,8
+751,NG6102,0.3,HLD,Highland,Skye,Unnamed,2
+752,NG6103,3,HLD,Highland,Skye,Loch Buidhe,5
+753,NG6104,0.3,HLD,Highland,Skye,Unnamed,2
+754,NG6105,1.2,HLD,Highland,Skye,Unnamed,5
+755,NG6106,6,HLD,Highland,Skye,Loch an Starsaich,8
+756,NG6107,0.4,HLD,Highland,Skye,Unnamed,2
+757,NG6108,1,HLD,Highland,Skye,Unnamed,5
+758,NG7710,20,HLD,Highland,Mainland,Loch Bad na h-Achlaise,15
+759,NG7711,4.5,HLD,Highland,Mainland,Loch nam Breac Odhar,5
+760,NG7713,18,HLD,Highland,Mainland,Loch Bad a' Chrotha,15
+761,NG7715,2.3,HLD,Highland,Mainland,Unnamed,5
+762,NG7716,40,HLD,Highland,Mainland,Loch Clair,15
+763,NG7722,37,HLD,Highland,Mainland,Loch Braigh Horrisdale,15
+764,NG7723,3.5,HLD,Highland,Mainland,Lochan Fuar,5
+765,NG7802,3,HLD,Highland,Mainland,Loch Ceann a' Charnaich,5
+766,NG7822,10,HLD,Highland,Mainland,Loch an t-Seana-bhaile,15
+767,NG8501,41,HLD,Highland,Mainland,Loch Diabaigas Airde,15
+768,NG8526,14.5,HLD,Highland,Mainland,Loch Dughaill,15
+769,NG8777,2,HLD,Highland,Mainland,Unnamed,5
+770,NG8783,7,HLD,Highland,Mainland,Loch Doire na h-Airighe,8
+771,NG8788,10,HLD,Highland,Mainland,Loch nam Buainichean,15
+772,NG8791,4,HLD,Highland,Mainland,Unnamed,5
+773,NG8797,2.5,HLD,Highland,Mainland,Am Feur-Loch,5
+774,NG8804,41,HLD,Highland,Mainland,Loch Sguod,15
+775,NG8810,20,HLD,Highland,Mainland,Loch nan Dailthean,15
+776,NG8816,5,HLD,Highland,Mainland,Loch Chriostina,8
+777,NG8818,2.5,HLD,Highland,Mainland,Unnamed,5
+778,NC3601,13,HLD,Highland,Mainland,Loch Inshore,15
+779,NC3602,4.5,HLD,Highland,Mainland,Lochan nam Breac Buidhe,5
+780,NC3603,4.5,HLD,Highland,Mainland,Loch Bad an Fheur-Loch,5
+781,NC2419,4,HLD,Highland,Mainland,Lochan an Fheidh,5
+782,NC4314,0.5,HLD,Highland,Mainland,Unnamed,2
+783,NC2514,10,HLD,Highland,Mainland,Loch a' Phreasan Chailltean,15
+784,NC2516,4,HLD,Highland,Mainland,Unnamed,5
+785,NC25199,10,HLD,Highland,Mainland,Loch a' Gharbh-bhaid Beag,15
+786,NC6021,7.7,HLD,Highland,Mainland,Lochan na Faolaig,8
+787,NC6022,9.7,HLD,Highland,Mainland,Loch na Saobhaidhe,8
+788,NC6023,0.8,HLD,Highland,Mainland,Unnamed,2
+789,NC6101,41,HLD,Highland,Mainland,Glas-loch Mor,15
+790,NC6102,3,HLD,Highland,Mainland,Loch nam Breac Beaga,5
+791,NC6103,6,HLD,Highland,Mainland,Lochan Dubh Cadhafuaraich,8
+792,NC6104,4.5,HLD,Highland,Mainland,Loch a' Mheallain Leith,5
+793,NC6105,19,HLD,Highland,Mainland,Loch na Fuaralachd,15
+794,NC6106,2,HLD,Highland,Mainland,Loch Coire na Bruaiche,5
+795,NC6107,4,HLD,Highland,Mainland,Loch Beag na Fuaralachd,5
+796,NC6108,5,HLD,Highland,Mainland,Loch an t-Slugaite,8
+797,NC6109,3.4,HLD,Highland,Mainland,Lochan Sgeireach,5
+798,NC6112,0.7,HLD,Highland,Mainland,Unnamed,2
+799,NC6113,0.1,HLD,Highland,Mainland,Unnamed,2
+800,NC6114,3,HLD,Highland,Mainland,Unnamed,5
+801,NC6117,2.5,HLD,Highland,Mainland,Lochan Sgeireach,5
+802,NC6202,5,HLD,Highland,Mainland,Glas-loch Beag,8
+803,NC7101,9,HLD,Highland,Mainland,Lochan Dubh Cul na h-Amaite,8
+804,NC7103,7.5,HLD,Highland,Mainland,Loch na Glaic,8
+805,NC7104,12,HLD,Highland,Mainland,Lochan Dubh,15
+806,NC7106,16,HLD,Highland,Mainland,Loch Grudaidh,15
+807,NC7117,0.3,HLD,Highland,Mainland,Unnamed,2
+808,NC7301,943,HLD,Highland,Mainland,"Loch Rimsdale, nan Clar & Badanloch",80
+809,NC7303,85,HLD,Highland,Mainland,Loch an Alltan Fhearna,25
+810,NC7306,21,HLD,Highland,Mainland,Loch na Gaineimh,15
+811,NC4344,0.3,HLD,Highland,Mainland,Unnamed,2
+812,NC8002,8,HLD,Highland,Mainland,Loch an Tubairnaich,8
+813,NC8003,2.5,HLD,Highland,Mainland,an Dubh-lochan,5
+814,NC5240,0.1,HLD,Highland,Mainland,Unnamed,2
+815,NC5241,2.4,HLD,Highland,Mainland,Loch a' Ghiubhais,5
+816,NC5308,31,HLD,Highland,Mainland,Loch Ben Harrald,15
+817,NC5401,198,HLD,Highland,Mainland,Loch an Dherue,50
+818,NC5420,7.5,HLD,Highland,Mainland,Loch a' Mhoid,8
+819,NC8201,27,HLD,Highland,Mainland,Loch Ascaig,15
+820,NC8303,33,HLD,Highland,Mainland,Loch Achnamoine,15
+821,NC8316,45,HLD,Highland,Mainland,Loch Arichlinie,15
+822,NC8319,2,HLD,Highland,Mainland,Unnamed,5
+823,NC1414,3,HLD,Highland,Mainland,Loch a' Phreasain Challtuinne,5
+824,NC3280,0.15,HLD,Highland,Mainland,Unnamed,2
+825,NC3281,0.15,HLD,Highland,Mainland,Unnamed,2
+826,NC3282,0.2,HLD,Highland,Mainland,Unnamed,2
+827,NC3286,0.3,HLD,Highland,Mainland,Unnamed,2
+828,NC3288,0.35,HLD,Highland,Mainland,Unnamed,2
+829,NC3301,24,HLD,Highland,Mainland,Loch nan Ealachan,15
+830,NC3303,175,HLD,Highland,Mainland,Loch Merkland,50
+831,NC3304,350,HLD,Highland,Mainland,Loch More,50
+832,NC3308,4,HLD,Highland,Mainland,Lochain nan Ealachan,5
+833,NC3309,4,HLD,Highland,Mainland,Unnamed,5
+834,NC3313,2,HLD,Highland,Mainland,Unnamed,5
+835,NC3314,17,HLD,Highland,Mainland,Loch Srath nan Aisinnin,15
+836,NC3320,1,HLD,Highland,Mainland,Unnamed,5
+837,NC3321,5,HLD,Highland,Mainland,Unnamed,8
+838,NC3323,16,HLD,Highland,Mainland,Loch Ulbhach Coire,15
+839,NC3325,7,HLD,Highland,Mainland,Loch Eas na Maoile,8
+840,NC23169,1.8,HLD,Highland,Mainland,Unnamed,5
+841,NC2318,29,HLD,Highland,Mainland,Loch Allt na h-Airbe or Loch Yucal,15
+842,NC2334,3.5,HLD,Highland,Mainland,Unnamed,5
+843,NC2336,36,HLD,Highland,Mainland,Loch na Creige Duibhe,15
+844,NC2346,2,HLD,Highland,Mainland,Unnamed,5
+845,NC2349,8,HLD,Highland,Mainland,Loch Unapool,8
+846,NC2355,2.7,HLD,Highland,Mainland,Loch Airigh na Beinne,5
+847,NC2356,2,HLD,Highland,Mainland,Unnamed,5
+848,NC3610,1.8,HLD,Highland,Mainland,Unnamed,5
+849,NC1415,1.8,HLD,Highland,Mainland,Lochain Bealach an Eilein,5
+850,NC1416,2.5,HLD,Highland,Mainland,Lochain Bealach an Eilein,5
+851,NC1417,4,HLD,Highland,Mainland,Unnamed,5
+852,NC1418,24,HLD,Highland,Mainland,Loch Laicheard,15
+853,NC1423,40,HLD,Highland,Mainland,Loch a' Bhadaidh Daraich,15
+854,NC1424,3,HLD,Highland,Mainland,Loch Leathad nan Cruineachd,5
+855,NC1425,4,HLD,Highland,Mainland,Lochan Sgeireach,5
+856,NC1426,1.4,HLD,Highland,Mainland,Lochan a' Mhuinean,5
+857,NC1430,2.5,HLD,Highland,Mainland,Loch a' Mhill Dheirg,5
+858,NC1431,6,HLD,Highland,Mainland,Loch an Daimh Mor,8
+859,NC1432,3,HLD,Highland,Mainland,Unnamed,5
+860,NC1433,6,HLD,Highland,Mainland,Loch a' Chreagain Thet,8
+861,NC1434,3,HLD,Highland,Mainland,Unnamed,5
+862,NC1435,3,HLD,Highland,Mainland,Unnamed,5
+863,NC1436,5,HLD,Highland,Mainland,Unnamed,8
+864,NC1438,9,HLD,Highland,Mainland,Unnamed,8
+865,NC1441,1.4,HLD,Highland,Mainland,Unnamed,5
+866,NC2081,8.5,HLD,Highland,Mainland,Clar Lochan,8
+867,NC2083,1.5,HLD,Highland,Mainland,Clar Lochan,5
+868,NC2105,26,HLD,Highland,Mainland,Lochan Fada,15
+869,NC2106,7,HLD,Highland,Mainland,Loch a' Chroisg,8
+870,NC2110,5,HLD,Highland,Mainland,Loch na Gruagaich,8
+871,NC2116,40,HLD,Highland,Mainland,Loch Borralan,15
+872,NC3611,1.5,HLD,Highland,Mainland,Unnamed,5
+873,NC3612,40,HLD,Highland,Mainland,Loch Airigh na Beinne,15
+874,NC3630,0.5,HLD,Highland,Mainland,Unnamed,2
+875,NC4001,2.7,HLD,Highland,Mainland,Unnamed,5
+876,NC4002,2.7,HLD,Highland,Mainland,Unnamed,5
+877,NC4039,0.1,HLD,Highland,Mainland,Unnamed,2
+878,NC4040,0.1,HLD,Highland,Mainland,Unnamed,2
+879,NC2426,12,HLD,Highland,Mainland,Loch na Claise Fearna,15
+880,NC24295,0.7,HLD,Highland,Mainland,Unnamed,2
+881,NC24307,1.2,HLD,Highland,Mainland,Unnamed,5
+882,NC2431,12,HLD,Highland,Mainland,Loch Bad an t-Seabhaig,15
+883,NC2526,0.6,HLD,Highland,Mainland,Unnamed,2
+884,NC2528,7,HLD,Highland,Mainland,Loch Sgeir a' Chadha,8
+885,NC2529,4,HLD,Highland,Mainland,Unnamed,5
+886,NC2530,3,HLD,Highland,Mainland,Unnamed,5
+887,NC2532,2.6,HLD,Highland,Mainland,Unnamed,5
+888,NC2533,2.5,HLD,Highland,Mainland,Unnamed,5
+889,NC2534,0.9,HLD,Highland,Mainland,Unnamed,2
+890,NC2535,0.1,HLD,Highland,Mainland,Unnamed,2
+891,NC2539,35,HLD,Highland,Mainland,Loch na Thull,15
+892,NC2541,10,HLD,Highland,Mainland,Loch na Caillich,15
+893,NC2543,0.5,HLD,Highland,Mainland,Unnamed,2
+894,NC2545,2,HLD,Highland,Mainland,Unnamed,5
+895,NC2556,0.7,HLD,Highland,Mainland,Unnamed,2
+896,NC2562,1.1,HLD,Highland,Mainland,Unnamed,5
+897,NC6307,11.5,HLD,Highland,Mainland,Loch Tarbhaidh,15
+898,NC6309,4.5,HLD,Highland,Mainland,Loch Ruigh nan Copag,5
+899,NC6310,10.6,HLD,Highland,Mainland,Loch Coire nam Feuran,15
+900,NC6311,1,HLD,Highland,Mainland,Unnamed,5
+901,NC6312,0.9,HLD,Highland,Mainland,Unnamed,2
+902,NC6401,653,HLD,Highland,Mainland,Loch Loyal,80
+903,NC4405,4,HLD,Highland,Mainland,Unnamed,5
+904,NC4406,2,HLD,Highland,Mainland,Unnamed,5
+905,NC4501,640,HLD,Highland,Mainland,Loch Hope,80
+906,NC4508,1.5,HLD,Highland,Mainland,Unnamed,5
+907,NC4509,1.5,HLD,Highland,Mainland,Unnamed,5
+908,NC4511,3.5,HLD,Highland,Mainland,Unnamed,5
+909,NC4512,2.8,HLD,Highland,Mainland,Unnamed,5
+910,NC4513,3,HLD,Highland,Mainland,Unnamed,5
+911,NC5428,0.9,HLD,Highland,Mainland,Unnamed,2
+912,NC5464,1.2,HLD,Highland,Mainland,Unnamed,5
+913,NC5465,0.5,HLD,Highland,Mainland,Unnamed,2
+914,NC5466,0.1,HLD,Highland,Mainland,Unnamed,2
+915,NC5501,16,HLD,Highland,Mainland,Dubh-loch na Creige Riabhaich,15
+916,NC5505,2,HLD,Highland,Mainland,Unnamed,5
+917,NC5507,6,HLD,Highland,Mainland,Loch Fhionnaich,8
+918,ND0522,34,HLD,Highland,Mainland,Loch Olginey,15
+919,ND0523,90,HLD,Highland,Mainland,Loch Shurrey,25
+920,ND0614,25,HLD,Highland,Mainland,Loch Saorach,15
+921,ND0626,21.9,HLD,Highland,Mainland,Loch Thormaid,15
+922,ND0702,1.2,HLD,Highland,Mainland,Unnamed,5
+923,ND0707,8.6,HLD,Highland,Mainland,Scrabster Loch,8
+924,ND1403,28,HLD,Highland,Mainland,Loch Rangag,15
+925,ND1405,22,HLD,Highland,Mainland,Loch Stemster,15
+926,NC2126,0.3,HLD,Highland,Mainland,Unnamed,2
+927,NG3401,18,HLD,Highland,Skye,Loch Niarsco,15
+928,NF7203,52,NEL,Na h-Eileanan an Iar,South Uist,Loch Bornish,25
+929,NF7208,47,NEL,Na h-Eileanan an Iar,South Uist,Upper Loch Kildonan,15
+930,NF72105,15.5,NEL,Na h-Eileanan an Iar,South Uist,Loch nam Faoileann,15
+931,NF72150,1.8,NEL,Na h-Eileanan an Iar,South Uist,Unnamed,5
+932,NF8578,3.7,NEL,Na h-Eileanan an Iar,Flodda,Unnamed,5
+933,NF8586,23,NEL,Na h-Eileanan an Iar,Benbecula,Loch na Deighe Fo Dheas,15
+934,NG08248,1.8,NEL,Na h-Eileanan an Iar,Harris,Unnamed,5
+935,NG1801,0.8,NEL,Na h-Eileanan an Iar,Harris,Unnamed,2
+936,NF73125,37,NEL,Na h-Eileanan an Iar,South Uist,East Loch Ollay,15
+937,NF73138,20,NEL,Na h-Eileanan an Iar,South Uist,Loch Ceann a' Bhaigh,15
+938,NF7334,4,NEL,Na h-Eileanan an Iar,South Uist,Loch Eiliean Ghille Ruaidh,5
+939,NF8378,17,NEL,Na h-Eileanan an Iar,South Uist,Loch Spotal,15
+940,NF86416,2.4,NEL,Na h-Eileanan an Iar,North Uist,Loch na Cleibh,5
+941,NF86485,112,NEL,Na h-Eileanan an Iar,North Uist,Loch Scadavay,50
+942,NF8779,4,NEL,Na h-Eileanan an Iar,North Uist,Loch na Morgha,5
+943,NF8780,4,NEL,Na h-Eileanan an Iar,North Uist,Loch Steinavat,5
+944,NF9798,0.2,NEL,Na h-Eileanan an Iar,North Uist,Unnamed,2
+945,NG19107,1.1,NEL,Na h-Eileanan an Iar,Harris,Loch nam Uidhean,5
+946,NG2901,0.5,NEL,Na h-Eileanan an Iar,Harris,Unnamed,2
+947,NG2917,0.3,NEL,Na h-Eileanan an Iar,Scalpay,Unnamed,2
+948,NG2918,0.25,NEL,Na h-Eileanan an Iar,Scalpay,Unnamed,2
+949,NG2920,1.4,NEL,Na h-Eileanan an Iar,Scalpay,Unnamed,5
+950,NG2922,0.15,NEL,Na h-Eileanan an Iar,Scalpay,Unnamed,2
+951,NG2923,1,NEL,Na h-Eileanan an Iar,Scalpay,Unnamed,5
+952,NG2924,1.2,NEL,Na h-Eileanan an Iar,Scalpay,Unnamed,5
+953,NG2925,0.3,NEL,Na h-Eileanan an Iar,Scalpay,Unnamed,2
+954,NG2926,0.1,NEL,Na h-Eileanan an Iar,Scalpay,Unnamed,2
+955,NG2927,0.3,NEL,Na h-Eileanan an Iar,Scalpay,Unnamed,2
+956,NF7365,1.8,NEL,Na h-Eileanan an Iar,South Uist,Loch a' Mhoil,5
+957,NF7366,45,NEL,Na h-Eileanan an Iar,South Uist,Loch Altabrug,15
+958,NF7404,1.75,NEL,Na h-Eileanan an Iar,South Uist,Unnamed,5
+959,NG0914,1.2,NEL,Na h-Eileanan an Iar,Harris,Loch Cistavat,5
+960,NF9805,0.7,NEL,Na h-Eileanan an Iar,Berneray,Loch Watersee,2
+961,NF9806,0.2,NEL,Na h-Eileanan an Iar,Killegray,Unnamed,2
+962,NF9807,0.2,NEL,Na h-Eileanan an Iar,Killegray,Loch a' Mhachaire,2
+963,NF9901,0.25,NEL,Na h-Eileanan an Iar,Taransay,Unnamed,2
+964,NF9902,0.25,NEL,Na h-Eileanan an Iar,Taransay,Unnamed,2
+965,NF9903,0.1,NEL,Na h-Eileanan an Iar,Taransay,Unnamed,2
+966,NG0801,0.25,NEL,Na h-Eileanan an Iar,Harris,Unnamed,2
+967,NG0804,52,NEL,Na h-Eileanan an Iar,Harris,Loch Steisevat,25
+968,NG0806,26,NEL,Na h-Eileanan an Iar,Harris,Loch na Moracha,15
+969,NG0813,2,NEL,Na h-Eileanan an Iar,Harris,Unnamed,5
+970,NG7454,5,HLD,Highland,Mainland,Loch a' Mhuilinn,8
+971,NG7466,1.2,HLD,Highland,Mainland,Unnamed,5
+972,NG7467,1,HLD,Highland,Mainland,Lochan Sgeirach,5
+973,NG7470,1.5,HLD,Highland,Mainland,Unnamed,5
+974,NG7474,1.9,HLD,Highland,Mainland,Loch Odhar,5
+975,NG3402,8,HLD,Highland,Skye,Loch Ravag,8
+976,NG3404,23,HLD,Highland,Skye,Loch Connan,15
+977,NG3504,4,HLD,Highland,Skye,Unnamed,5
+978,NG4107,0.3,HLD,Highland,Skye,Unnamed,2
+979,NG4120,0.1,HLD,Highland,Skye,Unnamed,2
+980,NG4121,0.2,HLD,Highland,Skye,Unnamed,2
+981,NG4122,0.4,HLD,Highland,Skye,Unnamed,2
+982,NG6114,7.5,HLD,Highland,Skye,Loch an Eilein,8
+983,NG6117,1,HLD,Highland,Skye,Unnamed,5
+984,NG6118,2.4,HLD,Highland,Skye,Loch Fada,5
+985,NG6119,0.5,HLD,Highland,Skye,Unnamed,2
+986,NG6122,13,HLD,Highland,Skye,Lochan Iasgaidh,15
+987,NG6139,0.7,HLD,Highland,Skye,Unnamed,2
+988,NG6141,0.4,HLD,Highland,Skye,Unnamed,2
+989,NG6142,3.5,HLD,Highland,Skye,Loch nan Dubhrachan,5
+990,NG6143,0.8,HLD,Highland,Skye,Loch an Ime,2
+991,NG6214,1.4,HLD,Highland,Skye,Loch Ashik,5
+992,NG6215,0.4,HLD,Highland,Skye,Unnamed,2
+993,NG6216,1.1,HLD,Highland,Skye,Lochain Teanna,5
+994,NG6217,2,HLD,Highland,Skye,Lochan Cruinn,5
+995,NG6218,0.3,HLD,Highland,Skye,Unnamed,2
+996,NG6219,0.25,HLD,Highland,Skye,Unnamed,2
+997,NG6229,0.8,HLD,Highland,Skye,Lochain a' Mhullaidh,2
+998,NG6230,0.8,HLD,Highland,Skye,Lochain a' Mhullaidh,2
+999,NG7914,37,HLD,Highland,Mainland,Loch an Draing,15
+1000,NG8108,7.8,HLD,Highland,Mainland,Loch na Lochain,8
+1001,NG8202,1.9,HLD,Highland,Mainland,Loch a' Bhealaich,5
+1002,NG8203,12,HLD,Highland,Mainland,Loch a' Ghlinne Dhuirch,15
+1003,NG8204,13,HLD,Highland,Mainland,Unnamed,15
+1004,NG8302,2.7,HLD,Highland,Mainland,Lochan Dubha,5
+1005,NG8303,0.3,HLD,Highland,Mainland,Unnamed,2
+1006,NG8304,0.9,HLD,Highland,Mainland,Unnamed,2
+1007,NG87109,3.5,HLD,Highland,Mainland,Unnamed,5
+1008,NG87110,6,HLD,Highland,Mainland,Lochan Sgeireach,8
+1009,NG8722,63,HLD,Highland,Mainland,Loch Tollaidh,25
+1010,NM6602,8.7,HLD,Highland,Mainland,Lochan na Creige Duibhe,8
+1011,NM6616,2.9,HLD,Highland,Mainland,Loch Loisgte,5
+1012,NM6617,0.6,HLD,Highland,Mainland,Unnamed,2
+1013,NM6619,12,HLD,Highland,Mainland,Lochan Sligneach,15
+1014,NM6623,0.5,HLD,Highland,Mainland,Unnamed,2
+1015,NM6628,0.4,HLD,Highland,Mainland,Unnamed,2
+1016,NM6629,15,HLD,Highland,Mainland,Loch Laga,15
+1017,NM6649,1.1,HLD,Highland,Mainland,Lochain Ruighe a' Bhainne,5
+1018,NM6650,0.3,HLD,Highland,Mainland,Lochain Ruighe a' Bhainne,2
+1019,NM6701,0.25,HLD,Highland,Mainland,Loch Dubh,2
+1020,NM6702,1.3,HLD,Highland,Mainland,Unnamed,5
+1021,NM6703,17.5,HLD,Highland,Mainland,Loch na Bairness,15
+1022,NG9215,2.2,HLD,Highland,Mainland,Unnamed,5
+1023,NG9222,1.2,HLD,Highland,Mainland,Unnamed,5
+1024,NG9224,0.7,HLD,Highland,Mainland,Unnamed,2
+1025,NG9225,0.6,HLD,Highland,Mainland,Unnamed,2
+1026,NG9226,0.7,HLD,Highland,Mainland,Unnamed,2
+1027,NG9227,1.1,HLD,Highland,Mainland,Unnamed,5
+1028,NG9229,3.5,HLD,Highland,Mainland,Loch an t-Sabhail,5
+1029,NG9230,0.25,HLD,Highland,Mainland,Unnamed,2
+1030,NG9236,0.5,HLD,Highland,Mainland,Unnamed,2
+1031,NG9237,0.7,HLD,Highland,Mainland,Unnamed,2
+1032,NG9238,0.8,HLD,Highland,Mainland,Unnamed,2
+1033,NG9254,0.9,HLD,Highland,Mainland,Unnamed,2
+1034,NG9257,0.4,HLD,Highland,Mainland,Unnamed,2
+1035,NG9258,0.4,HLD,Highland,Mainland,Unnamed,2
+1036,NG9564,4.5,HLD,Highland,Mainland,Loch an Uillt-bheithe,5
+1037,NG9587,3.5,HLD,Highland,Mainland,Lochan Domhain,5
+1038,NG9593,30,HLD,Highland,Mainland,Lochan Eion,15
+1039,NH0502,1.1,HLD,Highland,Mainland,Unnamed,5
+1040,NH0505,1.2,HLD,Highland,Mainland,Unnamed,5
+1041,NH0506,0.7,HLD,Highland,Mainland,Unnamed,2
+1042,NH0507,2,HLD,Highland,Mainland,Unnamed,5
+1043,NH0509,5.5,HLD,Highland,Mainland,Lochain Feith an Leothaid,8
+1044,NH0517,4,HLD,Highland,Mainland,Loch Crann,5
+1045,NH0526,0.6,HLD,Highland,Mainland,Unnamed,2
+1046,NH0527,0.3,HLD,Highland,Mainland,Unnamed,2
+1047,NH0528,1,HLD,Highland,Mainland,Unnamed,5
+1048,NH0530,1.1,HLD,Highland,Mainland,Unnamed,5
+1049,NH1507,16,HLD,Highland,Mainland,Loch Gowan,15
+1050,NH7317,0.7,HLD,Highland,Mainland,Unnamed,2
+1051,NH7501,0.6,HLD,Highland,Mainland,Unnamed,2
+1052,NH7602,0.4,HLD,Highland,Mainland,Unnamed,2
+1053,NH7711,4,HLD,Highland,Mainland,Lochanan nan Tunnag*,5
+1054,NH7712,2,HLD,Highland,Mainland,Black Loch*,5
+1055,NH7803,0.6,HLD,Highland,Mainland,Black Pond*,2
+1056,NH3312,0.2,HLD,Highland,Mainland,Unnamed,2
+1057,NH3314,0.25,HLD,Highland,Mainland,Unnamed,2
+1058,NH3316,0.3,HLD,Highland,Mainland,Unnamed,2
+1059,NH3317,0.5,HLD,Highland,Mainland,Unnamed,2
+1060,NH3318,9,HLD,Highland,Mainland,Loch Carn nam Badan,8
+1061,NH3322,2,HLD,Highland,Mainland,Lochan na Craoibhe-fearna,5
+1062,NH3323,1.1,HLD,Highland,Mainland,Lochan Mhairi,5
+1063,NH3324,0.8,HLD,Highland,Mainland,Lochan Dubh,2
+1064,NH3325,1.2,HLD,Highland,Mainland,Loch an Eilein,5
+1065,NH3326,0.5,HLD,Highland,Mainland,Unnamed,2
+1066,NH3329,0.4,HLD,Highland,Mainland,Unnamed,2
+1067,NH4246,2.2,HLD,Highland,Mainland,Loch an t-Sionnaich,5
+1068,NH4249,4.5,HLD,Highland,Mainland,Unnamed,5
+1069,NH4250,2.2,HLD,Highland,Mainland,Loch a' Bhealaich,5
+1070,NH4305,1.2,HLD,Highland,Mainland,Lochan a' Bhathaich,5
+1071,NH4308,6,HLD,Highland,Mainland,Loch Garbh Iolachan,8
+1072,NH4309,18,HLD,Highland,Mainland,Loch Neaty,15
+1073,NH4310,5,HLD,Highland,Mainland,Loch Garbh Breac,8
+1074,NH4311,92,HLD,Highland,Mainland,Loch Bruicheach,25
+1075,NH4313,10,HLD,Highland,Mainland,Lochan an Tairt,15
+1076,NH4314,1.1,HLD,Highland,Mainland,Unnamed,5
+1077,NH4316,1,HLD,Highland,Mainland,Loch Bad nan Earb,5
+1078,NH4317,1.1,HLD,Highland,Mainland,Loch nan Tunnag,5
+1079,NH5513,1.2,HLD,Highland,Mainland,Ord Loch*,5
+1080,NH5514,0.2,HLD,Highland,Mainland,Unnamed,2
+1081,NH5515,0.3,HLD,Highland,Mainland,Unnamed,2
+1082,NH5516,0.1,HLD,Highland,Mainland,Unnamed,2
+1083,NH5602,0.25,HLD,Highland,Mainland,Unnamed,2
+1084,NH5603,0.3,HLD,Highland,Mainland,Breun Loch*,2
+1085,NH5701,228,HLD,Highland,Mainland,Loch Morie,50
+1086,NH5801,14.8,HLD,Highland,Mainland,Lochan a' Chairn,15
+1087,NM5651,2.7,HLD,Highland,Mainland,Lochan na Tuaidh,5
+1088,NM5704,0.3,HLD,Highland,Mainland,Unnamed,2
+1089,NM5705,0.3,HLD,Highland,Mainland,Unnamed,2
+1090,NH9216,3.5,HLD,Highland,Mainland,Loch Mor,5
+1091,NH9304,202,HLD,Highland,Mainland,Lochindorb,50
+1092,NG9864,1.6,HLD,Highland,Mainland,Unnamed,5
+1093,NG9865,1,HLD,Highland,Mainland,Unnamed,5
+1094,NG9867,1.5,HLD,Highland,Mainland,Unnamed,5
+1095,NG9871,1,HLD,Highland,Mainland,Unnamed,5
+1096,NG9874,1.5,HLD,Highland,Mainland,Unnamed,5
+1097,NG9875,3,HLD,Highland,Mainland,Loch nan Eun,5
+1098,NG9876,1.3,HLD,Highland,Mainland,Unnamed,5
+1099,NM4603,4,HLD,Highland,Mainland,Loch Caorach,5
+1100,NM4604,2.3,HLD,Highland,Mainland,Lochan Druim na Claise,5
+1101,NM4605,0.4,HLD,Highland,Mainland,Unnamed,2
+1102,NM4608,2.4,HLD,Highland,Mainland,Lochan an Aodainn,5
+1103,NM4609,2.2,HLD,Highland,Mainland,Lochan na Crannaig,5
+1104,NG9329,0.5,HLD,Highland,Mainland,Unnamed,2
+1105,NG9330,0.7,HLD,Highland,Mainland,Unnamed,2
+1106,NG9331,1.2,HLD,Highland,Mainland,Lochan Dubha,5
+1107,NG9418,11,HLD,Highland,Mainland,Loch Coire an Ruadh-Staic,15
+1108,NH2958,11,HLD,Highland,Mainland,Loch an Eilean,15
+1109,NH2959,0.5,HLD,Highland,Mainland,Unnamed,2
+1110,NH2960,5,HLD,Highland,Mainland,Unnamed,8
+1111,NH2963,1.5,HLD,Highland,Mainland,Unnamed,5
+1112,NH2964,7,HLD,Highland,Mainland,Unnamed,8
+1113,NH2966,3,HLD,Highland,Mainland,Unnamed,5
+1114,NH2978,4,HLD,Highland,Mainland,Loch Coire na Ba Buidhe,5
+1115,NH2979,0.5,HLD,Highland,Mainland,Unnamed,2
+1116,NH2980,2,HLD,Highland,Mainland,Loch an Acha,5
+1117,NH2981,1.5,HLD,Highland,Mainland,Unnamed,5
+1118,NH0547,33,HLD,Highland,Mainland,Loch Coulin,15
+1119,NH1609,10,HLD,Highland,Mainland,Loch na Moine Beag,15
+1120,NH6202,1,HLD,Highland,Mainland,Unnamed,5
+1121,NH6301,6,HLD,Highland,Mainland,Unnamed,8
+1122,NH6302,37,HLD,Highland,Mainland,Loch Dochfour,15
+1123,NH6303,7,HLD,Highland,Mainland,Abban Water,8
+1124,NH6307,15,HLD,Highland,Mainland,Loch Bunachton,15
+1125,NH6308,4.5,HLD,Highland,Mainland,Loch na Curra,5
+1126,NH6309,14,HLD,Highland,Mainland,Lochan an Eoin Ruadha,15
+1127,NH6310,541,HLD,Highland,Mainland,Loch Duntelchaig,80
+1128,NH6310.1,2,HLD,Highland,Mainland,Loch nan Geadas,5
+1129,NH6311,23,HLD,Highland,Mainland,Loch a' Chlachain,15
+1130,NH6313,16,HLD,Highland,Mainland,Loch Farr,15
+1131,NH8023,4.5,HLD,Highland,Mainland,Lochan Geal,5
+1132,NH8026,0.9,HLD,Highland,Mainland,Unnamed,2
+1133,NH8034,1,HLD,Highland,Mainland,Uath Lochan,5
+1134,NH8035,0.6,HLD,Highland,Mainland,Uath Lochan,2
+1135,NH8036,4.5,HLD,Highland,Mainland,Uath Lochan,5
+1136,NH3524,44,HLD,Highland,Mainland,Loch Meig,15
+1137,NH3613,3,HLD,Highland,Mainland,Lochan nam Breac,5
+1138,NH4318,6,HLD,Highland,Mainland,Loch Gorm,8
+1139,NH4321,0.25,HLD,Highland,Mainland,Lochan Dubh,2
+1140,NH4323,0.8,HLD,Highland,Mainland,Unnamed,2
+1141,NH4325,2,HLD,Highland,Mainland,Lochan an Torra Bhuidhe,5
+1142,NH4326,2.4,HLD,Highland,Mainland,Unnamed,5
+1143,NH4327,75,HLD,Highland,Mainland,Loch Meiklie,25
+1144,NH4330,0.25,HLD,Highland,Mainland,Unnamed,2
+1145,NH4401,28,HLD,Highland,Mainland,Loch nam Bonnach,15
+1146,NH4402,0.6,HLD,Highland,Mainland,Unnamed,2
+1147,NH4403,0.5,HLD,Highland,Mainland,Loch Luaisgeach*,2
+1148,NH4405,6.5,HLD,Highland,Mainland,Lochan Fada,8
+1149,NH4406,1.5,HLD,Highland,Mainland,Loch na Cuile,5
+1150,NH4410,0.7,HLD,Highland,Mainland,Loch nan Gobhar,2
+1151,NH4411,0.9,HLD,Highland,Mainland,Unnamed,2
+1152,NH4412,0.9,HLD,Highland,Mainland,Unnamed,2
+1153,NH4416,0.2,HLD,Highland,Mainland,Unnamed,2
+1154,NH4501,147,HLD,Highland,Mainland,Loch Garve,50
+1155,NH4515,60,HLD,Highland,Mainland,Loch Achilty,25
+1156,NH4522,6.5,HLD,Highland,Mainland,Loch Kinellan,8
+1157,NH2122,2.6,HLD,Highland,Mainland,Unnamed,5
+1158,NH2124,0.7,HLD,Highland,Mainland,Unnamed,2
+1159,NH2304,13,HLD,Highland,Mainland,Loch Carrie,15
+1160,NH2307,5,HLD,Highland,Mainland,Loch a' Bhana,8
+1161,NH2308,37,HLD,Highland,Mainland,Loch Sealbhanach,15
+1162,NH2314,0.7,HLD,Highland,Mainland,Unnamed,2
+1163,NH2315,0.1,HLD,Highland,Mainland,Unnamed,2
+1164,NG9882,12.5,HLD,Highland,Mainland,Loch Mhic'ille Riabhaich,15
+1165,NG9893,3,HLD,Highland,Mainland,Lochain Cnapach,5
+1166,NH0001,4,HLD,Highland,Mainland,Loch a' Mhaoil Dhisnich,5
+1167,NH0003,10,HLD,Highland,Mainland,Loch Fearna,15
+1168,NH0202,0.7,HLD,Highland,Mainland,Unnamed,2
+1169,NH0203,0.8,HLD,Highland,Mainland,Unnamed,2
+1170,NH0204,0.6,HLD,Highland,Mainland,Unnamed,2
+1171,NH0205,0.5,HLD,Highland,Mainland,Unnamed,2
+1172,NH0206,0.5,HLD,Highland,Mainland,Unnamed,2
+1173,NH0207,2,HLD,Highland,Mainland,Unnamed,5
+1174,NH0208,0.25,HLD,Highland,Mainland,Unnamed,2
+1175,NH0209,0.5,HLD,Highland,Mainland,Unnamed,2
+1176,NH0212,26,HLD,Highland,Mainland,Loch na Leitreach,15
+1177,NH0215,0.9,HLD,Highland,Mainland,Unnamed,2
+1178,NH0216,0.8,HLD,Highland,Mainland,Unnamed,2
+1179,NH0217,1.1,HLD,Highland,Mainland,Unnamed,5
+1180,NH0218,2.5,HLD,Highland,Mainland,Loch Lon Mhurchaidh,5
+1181,NH0219,0.9,HLD,Highland,Mainland,Unnamed,2
+1182,NM5606,3.4,HLD,Highland,Mainland,Lochan an Ime,5
+1183,NM5609,3,HLD,Highland,Mainland,Lochan nan Dearcag,5
+1184,NM5611,1.2,HLD,Highland,Mainland,Unnamed,5
+1185,NM5616,0.1,HLD,Highland,Mainland,Unnamed,2
+1186,NM5618,0.4,HLD,Highland,Mainland,Lochain Beinne Brice,2
+1187,NM5627,23.5,HLD,Highland,Mainland,Lochan a' Mhaidaidh Riabhaich,15
+1188,NG9433,105,HLD,Highland,Mainland,Loch Dughaill,50
+1189,NH3015,11,HLD,Highland,Mainland,Loch Uanagan,15
+1190,NH3106,6.5,HLD,Highland,Mainland,Bhlaraidh Reservoir,8
+1191,NH3206,2,HLD,Highland,Mainland,Loch Caoireach,5
+1192,NH3207,2,HLD,Highland,Mainland,Loch nam Freumh,5
+1193,NH3208,8,HLD,Highland,Mainland,Loch na Beinne Moire,8
+1194,NH18102,4,HLD,Highland,Mainland,Unnamed,5
+1195,NH18105,7.5,HLD,Highland,Mainland,Loch nan Eun,8
+1196,NH18107,1,HLD,Highland,Mainland,Unnamed,5
+1197,NH18108,1.5,HLD,Highland,Mainland,Unnamed,5
+1198,NH18109,1.5,HLD,Highland,Mainland,Unnamed,5
+1199,NH18110,2.2,HLD,Highland,Mainland,Unnamed,5
+1200,NH18115,0.9,HLD,Highland,Mainland,Unnamed,2
+1201,NH1825,14,HLD,Highland,Mainland,Loch Coire Chaorachain,15
+1202,NH1836,1.3,HLD,Highland,Mainland,Unnamed,5
+1203,NH6403,0.4,HLD,Highland,Mainland,Unnamed,2
+1204,NH6501,1,HLD,Highland,Mainland,Loch Culbokie,5
+1205,NH6509,3.3,HLD,Highland,Mainland,Loch Lundie,5
+1206,NH6609,0.5,HLD,Highland,Mainland,Unnamed,2
+1207,NH8210,0.3,HLD,Highland,Mainland,Unnamed,2
+1208,NH8211,0.2,HLD,Highland,Mainland,Unnamed,2
+1209,NH8213,0.1,HLD,Highland,Mainland,Unnamed,2
+1210,NH8404,4.5,HLD,Highland,Mainland,Loch of Boath,5
+1211,NH8601,0.5,HLD,Highland,Mainland,Unnamed,2
+1212,NH8705,9,HLD,Highland,Mainland,Bayfield Loch,8
+1213,NH3801,1.2,HLD,Highland,Mainland,Unnamed,5
+1214,NH3802,1,HLD,Highland,Mainland,Lochan Dubh,5
+1215,NH4014,6,HLD,Highland,Mainland,Dubh Lochan,8
+1216,NH4015,5.5,HLD,Highland,Mainland,Dubh Lochan,8
+1217,NH4019,11,HLD,Highland,Mainland,Lochan na Stairne,15
+1218,NH4713,28,HLD,Highland,Mainland,Loch Bealach Culaidh,15
+1219,NH4802,11,HLD,Highland,Mainland,Loch Chuinneag,15
+1220,NM4703,1.2,HLD,Highland,Mainland,Lochan Dubh,5
+1221,NJ0203,0.1,HLD,Highland,Mainland,Unnamed,2
+1222,NH2415,0.7,HLD,Highland,Mainland,Lochan Dubh nam Biast,2
+1223,NH2416,1.5,HLD,Highland,Mainland,Loch Airigh Lochain,5
+1224,NH2507,0.5,HLD,Highland,Mainland,Unnamed,2
+1225,NH2509,0.6,HLD,Highland,Mainland,Unnamed,2
+1226,NH2512,103,HLD,Highland,Mainland,Loch Beannacharain,50
+1227,NH0224,2.2,HLD,Highland,Mainland,Loch Thuill Easaich,5
+1228,NH0229,29,HLD,Highland,Mainland,Loch a' Bhealaich,15
+1229,NH0232,8,HLD,Highland,Mainland,Loch Gaorsiac,8
+1230,NH0301,64,HLD,Highland,Mainland,Loch Calavie,25
+1231,NH0302,13.5,HLD,Highland,Mainland,Loch Cruoshie,15
+1232,NH0303,0.9,HLD,Highland,Mainland,Unnamed,2
+1233,NH0304,0.7,HLD,Highland,Mainland,Unnamed,2
+1234,NH0305,0.2,HLD,Highland,Mainland,Unnamed,2
+1235,NH0306,0.4,HLD,Highland,Mainland,Unnamed,2
+1236,NH0307,0.5,HLD,Highland,Mainland,Unnamed,2
+1237,NH0308,1,HLD,Highland,Mainland,Unnamed,5
+1238,NH0309,0.3,HLD,Highland,Mainland,Unnamed,2
+1239,NH0310,1.1,HLD,Highland,Mainland,Unnamed,5
+1240,NH0311,7,HLD,Highland,Mainland,Unnamed,8
+1241,NH0314,9,HLD,Highland,Mainland,Loch Goblach,8
+1242,NH0315,2.5,HLD,Highland,Mainland,Unnamed,5
+1243,NH0316,34,HLD,Highland,Mainland,Loch an Tachdaich,15
+1244,NM6508,22,HLD,Highland,Mainland,Loch Doire nam Mart,15
+1245,NM6513,157,HLD,Highland,Mainland,Loch Arienas,50
+1246,NG95109,3,HLD,Highland,Mainland,Loch na Craoibhe-caorainn,5
+1247,NG95125,60,HLD,Highland,Mainland,Loch Clair,25
+1248,NH3211,2.1,HLD,Highland,Mainland,Loch a' Ghreidlein,5
+1249,NH3224,0.6,HLD,Highland,Mainland,Unnamed,2
+1250,NH3226,0.2,HLD,Highland,Mainland,Unnamed,2
+1251,NH3227,0.8,HLD,Highland,Mainland,Unnamed,2
+1252,NH3236,1.6,HLD,Highland,Mainland,Unnamed,5
+1253,NH3237,2,HLD,Highland,Mainland,Unnamed,5
+1254,NH3259,65,HLD,Highland,Mainland,Loch ma Stac,25
+1255,NH3262,0.3,HLD,Highland,Mainland,Unnamed,2
+1256,NH3263,1.6,HLD,Highland,Mainland,Unnamed,5
+1257,NH3264,0.7,HLD,Highland,Mainland,Unnamed,2
+1258,NH3267,8,HLD,Highland,Mainland,Loch nam Brathain,8
+1259,NH3268,1.2,HLD,Highland,Mainland,Unnamed,5
+1260,NH3271,2.2,HLD,Highland,Mainland,Loch Liath,5
+1261,NH3272,1.5,HLD,Highland,Mainland,Loch na Feannaig,5
+1262,NH3274,2.2,HLD,Highland,Mainland,Loch an Dubhair,5
+1263,NH3275,2.5,HLD,Highland,Mainland,Unnamed,5
+1264,NH3276,0.8,HLD,Highland,Mainland,Unnamed,2
+1265,NH0824,2,HLD,Highland,Mainland,Lochain Dubh,5
+1266,NH0826,1,HLD,Highland,Mainland,Unnamed,5
+1267,NH0831,1,HLD,Highland,Mainland,Unnamed,5
+1268,NH0832,0.9,HLD,Highland,Mainland,Unnamed,2
+1269,NH0903,1,HLD,Highland,Mainland,Unnamed,5
+1270,NH0904,10.6,HLD,Highland,Mainland,Loch na h-Uidhe,15
+1271,NH0905,6,HLD,Highland,Mainland,Loch na Coireig,8
+1272,NH0909,0.9,HLD,Highland,Mainland,Unnamed,2
+1273,NH0910,0.8,HLD,Highland,Mainland,Unnamed,2
+1274,NH1015,3.5,HLD,Highland,Mainland,Lochan Torr a' Gharbh-uillt,5
+1275,NH1899,3,HLD,Highland,Mainland,Unnamed,5
+1276,NH19103,1.5,HLD,Highland,Mainland,Lochanan a' Mhuilinn,5
+1277,NH19104,0.4,HLD,Highland,Mainland,Unnamed,2
+1278,NH7815,10,HLD,Highland,Mainland,Loch Ospisdale,15
+1279,NH7816,1.5,HLD,Highland,Mainland,Unnamed,5
+1280,NH7817,1.2,HLD,Highland,Mainland,Lake Louise,5
+1281,NH7823,1.2,HLD,Highland,Mainland,Loch-an-treel,5
+1282,NH7902,2,HLD,Highland,Mainland,Loch as Airde,5
+1283,NH7903,17,HLD,Highland,Mainland,Loch Lannsaidh,15
+1284,NH5901,2,HLD,Highland,Mainland,Unnamed,5
+1285,NH5908,2,HLD,Highland,Mainland,Loch a' Bhaid-bheithe,5
+1286,NJ0602,0.3,MRA,Moray,Mainland,Unnamed,2
+1287,NJ0603,0.7,MRA,Moray,Mainland,Unnamed,2
+1288,NJ0609,0.1,MRA,Moray,Mainland,Unnamed,2
+1289,NJ1202,0.1,MRA,Moray,Mainland,Dalrachie Loch,2
+1290,NH9427,5.5,MRA,Moray,Mainland,Lochan Tutach,8
+1291,NJ1507,2,MRA,Moray,Mainland,Unnamed,5
+1292,NJ2301,0.2,MRA,Moray,Mainland,Unnamed,2
+1293,NJ2502,3,MRA,Moray,Mainland,Unnamed,5
+1294,NJ3405,12,MRA,Moray,Mainland,Loch Park,15
+1295,NJ3504,1.9,MRA,Moray,Mainland,Unnamed,5
+1296,NJ0304,0.1,MRA,Moray,Mainland,Unnamed,2
+1297,NJ0305,0.2,MRA,Moray,Mainland,Unnamed,2
+1298,NJ0504,0.5,MRA,Moray,Mainland,Unnamed,2
+1299,NF85197,22.5,NEL,Na h-Eileanan an Iar,Benbecula,Loch Hermidale,15
+1300,NF8520,2.6,NEL,Na h-Eileanan an Iar,Grimsay,Loch an Fhaing,5
+1301,NF8106,13,NEL,Na h-Eileanan an Iar,South Uist,Loch Marulaig,15
+1302,NF9690,8.6,NEL,Na h-Eileanan an Iar,North Uist,Loch Surtavat,8
+1303,NF9691,0.6,NEL,Na h-Eileanan an Iar,North Uist,Unnamed,2
+1304,NG08137,3.5,NEL,Na h-Eileanan an Iar,Harris,Unnamed,5
+1305,NG19252,0.1,NEL,Na h-Eileanan an Iar,Harris,Unnamed,2
+1306,NF7507,4.4,NEL,Na h-Eileanan an Iar,Benbecula,Loch na Meallaird,5
+1307,NF7512,14,NEL,Na h-Eileanan an Iar,Benbecula,Loch Bail 'Fhionnlaidh,15
+1308,NF7515,4.5,NEL,Na h-Eileanan an Iar,Benbecula,Loch Torcusay,5
+1309,NL6901,12,NEL,Na h-Eileanan an Iar,Barra,Loch Tangusdale (Loch St. Clair),15
+1310,NL6902,0.3,NEL,Na h-Eileanan an Iar,Vatersay,Unnamed,2
+1311,NL6903,0.25,NEL,Na h-Eileanan an Iar,Vatersay,Unnamed,2
+1312,NL6905,0.7,NEL,Na h-Eileanan an Iar,Vatersay,Unnamed,2
+1313,NM6213,88,AAB,Argyll and Bute,Mull,Loch Uisg,25
+1314,NM4308,0.1,AAB,Argyll and Bute,Mull,Unnamed,2
+1315,NM4309,0.2,AAB,Argyll and Bute,Mull,Unnamed,2
+1316,NM4310,0.1,AAB,Argyll and Bute,Mull,Unnamed,2
+1317,NM4311,0.2,AAB,Argyll and Bute,Mull,Unnamed,2
+1318,NM4312,0.1,AAB,Argyll and Bute,Mull,Unnamed,2
+1319,NM4313,0.1,AAB,Argyll and Bute,Mull,Unnamed,2
+1320,NM4314,0.2,AAB,Argyll and Bute,Mull,Unnamed,2
+1321,NM4404,1.5,AAB,Argyll and Bute,Mull,Loch a' Gheal,5
+1322,NM4508,50,AAB,Argyll and Bute,Mull,Loch Peallach/Loch Meadhoin/Loch Carnain an Amais,25
+1323,NL9301,0.25,AAB,Argyll and Bute,Tiree,Linne Thorramhuill*,2
+1324,NL9422,12,AAB,Argyll and Bute,Tiree,Loch an Eilein,15
+1325,NM4205,45,AAB,Argyll and Bute,Mull,Loch Assapol,15
+1326,NM5302,298,AAB,Argyll and Bute,Mull,Loch Ba,50
+1327,NM5403,0.1,AAB,Argyll and Bute,Mull,Unnamed,2
+1328,NM5404,1.3,AAB,Argyll and Bute,Mull,Unnamed,5
+1329,NM5501,8,AAB,Argyll and Bute,Mull,Lochan a' Ghurrabain,8
+1330,NM5502,1,AAB,Argyll and Bute,Mull,Unnamed,5
+1331,NM5504,6.3,AAB,Argyll and Bute,Mull,Lochan na Guailne Duibhe,8
+1332,NM5505,0.2,AAB,Argyll and Bute,Mull,Unnamed,2
+1333,NM0426,0.1,AAB,Argyll and Bute,Tiree,Unnamed,2
+1334,NM0427,0.25,AAB,Argyll and Bute,Tiree,Loch Monteich Mhoir*,2
+1335,NM0428,0.2,AAB,Argyll and Bute,Tiree,Unnamed,2
+1336,NM0433,0.25,AAB,Argyll and Bute,Tiree,Loch Dearg*,2
+1337,NM1509,9.9,AAB,Argyll and Bute,Coll,Loch nan Cinneachan,8
+1338,NM2201,1.2,AAB,Argyll and Bute,Iona,Loch Staoiheig,5
+1339,NM2501,16,AAB,Argyll and Bute,Coll,Loch Cliad,15
+1340,NM5233,0.5,AAB,Argyll and Bute,Mull,Unnamed,2
+1341,NM5234,29,AAB,Argyll and Bute,Mull,Loch Fuaran,15
+1342,NM5235,0.2,AAB,Argyll and Bute,Mull,Unnamed,2
+1343,NM6319,6.2,AAB,Argyll and Bute,Mull,Loch Bearnach,8
+1344,NM6404,0.1,AAB,Argyll and Bute,Mull,Unnamed,2
+1345,NJ6204,0.5,ABD,Aberdeenshire,Mainland,Unnamed,2
+1346,NJ6402,0.3,ABD,Aberdeenshire,Mainland,Haremoss Loch,2
+1347,NJ6503,0.3,ABD,Aberdeenshire,Mainland,Unnamed,2
+1348,NJ7107,1.2,ABD,Aberdeenshire,Mainland,Unnamed,5
+1349,NJ7303,5,ABD,Aberdeenshire,Mainland,Loch of Fyvie,8
+1350,NJ7502,1.1,ABD,Aberdeenshire,Mainland,Unnamed,5
+1351,NJ8305,5,ABD,Aberdeenshire,Mainland,Upper Lake,8
+1352,NJ8503,1.3,ABD,Aberdeenshire,Mainland,Unnamed,5
+1353,NJ9501,1.5,ABD,Aberdeenshire,Mainland,Unnamed,5
+1354,NJ9603,0.6,ABD,Aberdeenshire,Mainland,Unnamed,2
+1355,NK0503,2,ABD,Aberdeenshire,Mainland,Unnamed,5
+1356,NK0601,0.3,ABD,Aberdeenshire,Mainland,Unnamed,2
+1357,NJ4008,0.1,ABD,Aberdeenshire,Mainland,Unnamed,2
+1358,NJ4021,1.8,ABD,Aberdeenshire,Mainland,Braeroddach Loch,5
+1359,NJ4401,0.6,ABD,Aberdeenshire,Mainland,Unnamed,2
+1360,NJ5606,0.9,ABD,Aberdeenshire,Mainland,Unnamed,2
+1361,NJ8002,2.5,ABD,Aberdeen City,Mainland,Unnamed,5
+1362,NJ9011,9,ABD,Aberdeen City,Mainland,Loirston Loch,8
+1363,NO5301,18,AGS,Angus,Mainland,Monikie Reservoirs,15
+1364,NO5409,22,AGS,Angus,Mainland,Crombie Reservoir,15
+1365,NO5605,1.3,AGS,Angus,Mainland,Unnamed,5
+1366,NO6301,1.1,AGS,Angus,Mainland,Unnamed,5
+1367,NO3601,0.5,AGS,Angus,Mainland,Unnamed,2
+1368,NO4407,0.5,AGS,Angus,Mainland,Unnamed,2
+1369,NO4607,1,AGS,Angus,Mainland,Unnamed,5
+1370,NS6001,0.2,EAY,East Ayrshire,Mainland,Unnamed,2
+1371,NS6105,1.2,EAY,East Ayrshire,Mainland,Unnamed,5
+1372,NS6113,0.4,EAY,East Ayrshire,Mainland,Unnamed,2
+1373,NS6202,0.2,EAY,East Ayrshire,Mainland,Unnamed,2
+1374,NS5728,3,EDU,East Dunbartonshire,Mainland,Unnamed,5
+1375,NS5730,2.4,EDU,East Dunbartonshire,Mainland,Dougalston Loch,5
+1376,NS5733,1.9,EDU,East Dunbartonshire,Mainland,Unnamed,5
+1377,NS5735,22,EDU,East Dunbartonshire,Mainland,Bardowie Loch,15
+1378,NN8303,35,PAK,Perth and Kinross,Mainland,Loch Freuchie,15
+1379,NN8408,11,PAK,Perth and Kinross,Mainland,Loch na Craige,15
+1380,NO2206,1.8,PAK,Perth and Kinross,Mainland,Unnamed,5
+1381,NO2312,5,PAK,Perth and Kinross,Mainland,Laird's Loch,8
+1382,NO0603,4,PAK,Perth and Kinross,Mainland,Unnamed,5
+1383,NN9204,4.1,PAK,Perth and Kinross,Mainland,Unnamed,5
+1384,NN9403,33,PAK,Perth and Kinross,Mainland,Loch Kennard,15
+1385,NN9509,1,PAK,Perth and Kinross,Mainland,Unnamed,5
+1386,NN7403,1,PAK,Perth and Kinross,Mainland,Unnamed,5
+1387,NN7505,19.1,PAK,Perth and Kinross,Mainland,Loch Kinardochy,15
+1388,NN7603,1.1,PAK,Perth and Kinross,Mainland,Maud Lochan,5
+1389,NO1415,2.9,PAK,Perth and Kinross,Mainland,Black Loch,5
+1390,NN5408,77.4,PAK,Perth and Kinross,Mainland,Lochan na Lairige,25
+1391,NT5116,0.6,SBD,Scottish Borders,Mainland,Unnamed,2
+1392,NT5117,1.6,SBD,Scottish Borders,Mainland,Unnamed,5
+1393,NT5212,2,SBD,Scottish Borders,Mainland,Newhall Loch*,5
+1394,NT5306,2.1,SBD,Scottish Borders,Mainland,Faldonside Loch,5
+1395,NT5312,2,SBD,Scottish Borders,Mainland,Unnamed,5
+1396,NT5313,3.7,SBD,Scottish Borders,Mainland,Unnamed,5
+1397,NT5405,0.5,SBD,Scottish Borders,Mainland,Unnamed,2
+1398,NS9319,0.1,SLK,South Lanarkshire,Mainland,Unnamed,2
+1399,NS9401,0.8,SLK,South Lanarkshire,Mainland,Unnamed,2
+1400,NS9414,0.5,SLK,South Lanarkshire,Mainland,Unnamed,2
+1401,NS9418,0.5,SLK,South Lanarkshire,Mainland,Unnamed,2
+1402,NS9419,0.1,SLK,South Lanarkshire,Mainland,Unnamed,2
+1403,NS9508,0.9,SLK,South Lanarkshire,Mainland,Unnamed,2
+1404,NN4313,2.1,STL,Stirling,Mainland,Lochan Learg nan Lunn,5
+1405,NN6008,2.2,STL,Stirling,Mainland,Muir Dam,5
+1406,NN3003,0.6,STL,Stirling,Mainland,Unnamed,2
+1407,NN3204,8,STL,Stirling,Mainland,Loch Oss,8
+1408,NN7006,6.2,STL,Stirling,Mainland,Loch Watston,8
+1409,NN5201,1.7,STL,Stirling,Mainland,Lochan an Eireannaich,5
+1410,NN2206,1.9,STL,Stirling,Mainland,Lochan a' Mhadaidh,5
+1411,NN4001,1242.9,STL,Stirling,Mainland,Loch Katrine,90
+1412,NN4002,116.2,STL,Stirling,Mainland,Loch Chon,50
+1413,NN4007,207,STL,Stirling,Mainland,Loch Ard,50
+1414,NN4010,3.2,STL,Stirling,Mainland,Loch Dhu,5
+1415,NS5704,8.1,STL,Stirling,Mainland,Carbeth Loch,8
+1416,NS5804,0.2,STL,Stirling,Mainland,Unnamed,2
+1417,NS9616,0.2,WLT,West Lothian,Mainland,Unnamed,2
+1418,NH19107,1,HLD,Highland,Mainland,Unnamed,5
+1419,NH19108,1.4,HLD,Highland,Mainland,Unnamed,5
+1420,NH19109,1.5,HLD,Highland,Mainland,Unnamed,5
+1421,NH7005,21,HLD,Highland,Mainland,Loch Gynack,15
+1422,NH7308,3,HLD,Highland,Mainland,Loch a' Chaorainn,5
+1423,NH7309,77,HLD,Highland,Mainland,Loch Moy,25
+1424,NH9006,0.15,HLD,Highland,Mainland,Unnamed,2
+1425,NH9007,0.15,HLD,Highland,Mainland,Unnamed,2
+1426,NH9008,1,HLD,Highland,Mainland,Lochan nan Geadas,5
+1427,NH9101,6,HLD,Highland,Mainland,Unnamed,8
+1428,NH9102,0.1,HLD,Highland,Mainland,Unnamed,2
+1429,NH9105,1.8,HLD,Highland,Mainland,Unnamed,5
+1430,NH9108,0.5,HLD,Highland,Mainland,Unnamed,2
+1431,NH9109,0.8,HLD,Highland,Mainland,Loch nan Carraigean,2
+1432,NH9114,3,HLD,Highland,Mainland,Loch Dallas,5
+1433,NH9115,0.2,HLD,Highland,Mainland,Unnamed,2
+1434,NH9116,25,HLD,Highland,Mainland,Loch Pityoulish,15
+1435,NH4023,2.3,HLD,Highland,Mainland,Unnamed,5
+1436,NH4104,21,HLD,Highland,Mainland,Loch Kemp,15
+1437,NH4113,57,HLD,Highland,Mainland,Loch Tarff,25
+1438,NH4114,0.8,HLD,Highland,Mainland,Unnamed,2
+1439,NH4115,2.5,HLD,Highland,Mainland,Loch a' Mheig,5
+1440,NH4117,0.6,HLD,Highland,Mainland,Unnamed,2
+1441,NH4118,0.1,HLD,Highland,Mainland,Unnamed,2
+1442,NH5201,15,HLD,Highland,Mainland,Loch Ceo Glais,15
+1443,NH5202,1.5,HLD,Highland,Mainland,Loch a' Bhodaich,5
+1444,NH5204,5640,HLD,Highland,Mainland,Loch Ness,250
+1445,NH5205,6,HLD,Highland,Mainland,Loch an Ordain,8
+1446,NH5206,1.5,HLD,Highland,Mainland,Loch na Craoibhe-Beithe,5
+1447,NH5207,0.6,HLD,Highland,Mainland,Lochan Torr an Tuill,2
+1448,NH5211,3,HLD,Highland,Mainland,Loch Ruairidh,5
+1449,NH5213,7,HLD,Highland,Mainland,Loch Conagleann,8
+1450,NH5214,1.3,HLD,Highland,Mainland,Unnamed,5
+1451,NH5219,0.1,HLD,Highland,Mainland,Unnamed,2
+1452,NH5302,15,HLD,Highland,Mainland,Loch Laide,15
+1453,NH5401,0.2,HLD,Highland,Mainland,Unnamed,2
+1454,NH5402,2,HLD,Highland,Mainland,Unnamed,5
+1455,NH5404,1.3,HLD,Highland,Mainland,Unnamed,5
+1456,NN2511,0.8,HLD,Highland,Mainland,Lochan na Fola,2
+1457,NN2534,0.5,HLD,Highland,Mainland,Unnamed,2
+1458,NN2615,0.5,HLD,Highland,Mainland,Unnamed,2
+1459,NN2616,9.5,HLD,Highland,Mainland,Unnamed,8
+1460,NN2617,20,HLD,Highland,Mainland,Loch Eilde Beag,15
+1461,NN2619,95,HLD,Highland,Mainland,Loch Eilde Mor,25
+1462,NN2623,9,HLD,Highland,Mainland,Loch Chiarain,8
+1463,NN2624,0.2,HLD,Highland,Mainland,Unnamed,2
+1464,NM8715,5,HLD,Highland,Mainland,Lochan nan Sleubhaich,8
+1465,NM8823,2,HLD,Highland,Mainland,Unnamed,5
+1466,NM8824,2.1,HLD,Highland,Mainland,Lochan Stob a Glas-chairn,5
+1467,NM8825,0.2,HLD,Highland,Mainland,Unnamed,2
+1468,NM8841,0.05,HLD,Highland,Mainland,Unnamed,2
+1469,NM7404,35,HLD,Highland,Mainland,Loch Tearnait,15
+1470,NM7407,1.5,HLD,Highland,Mainland,Loch na Sula Bige,5
+1471,NM7408,0.1,HLD,Highland,Mainland,Unnamed,2
+1472,NM7920,11,HLD,Highland,Mainland,Lochan Stole,15
+1473,NM7921,3.1,HLD,Highland,Mainland,Lochan Innis Eanruig,5
+1474,NM7922,0.25,HLD,Highland,Mainland,Unnamed,2
+1475,NM7923,0.3,HLD,Highland,Mainland,Unnamed,2
+1476,NM7925,4.7,HLD,Highland,Mainland,Lochan a' Chuirn Duibh,5
+1477,NM7943,2,HLD,Highland,Mainland,Lochan Ropach,5
+1478,NN1802,1685,HLD,Highland,Mainland,Loch Lochy,100
+1479,NN1908,0.4,HLD,Highland,Mainland,Lochan Ceann Caol Glas Bheinn,2
+1480,NN1909,0.4,HLD,Highland,Mainland,Unnamed,2
+1481,NN1916,0.5,HLD,Highland,Mainland,Unnamed,2
+1482,NN6903,3.5,HLD,Highland,Mainland,Loch Glas-Choire,5
+1483,NN6911,0.2,HLD,Highland,Mainland,Unnamed,2
+1484,NM7603,0.8,HLD,Highland,Mainland,Unnamed,2
+1485,NM7609,0.2,HLD,Highland,Mainland,Unnamed,2
+1486,NM7610,0.5,HLD,Highland,Mainland,Unnamed,2
+1487,NM7611,0.1,HLD,Highland,Mainland,Unnamed,2
+1488,NM7612,0.2,HLD,Highland,Mainland,Unnamed,2
+1489,NM7613,1,HLD,Highland,Mainland,Unnamed,5
+1490,NM7619,9,HLD,Highland,Mainland,Lochan Dhonnachaidh,8
+1491,NM7620,1.1,HLD,Highland,Mainland,Unnamed,5
+1492,NM7622,48,HLD,Highland,Mainland,Loch Doilet,15
+1493,NM7632,2,HLD,Highland,Mainland,Unnamed,5
+1494,NN1930,0.1,HLD,Highland,Mainland,Unnamed,2
+1495,NN3607,0.2,HLD,Highland,Mainland,Unnamed,2
+1496,NN3608,0.2,HLD,Highland,Mainland,Unnamed,2
+1497,NN3610,0.1,HLD,Highland,Mainland,Unnamed,2
+1498,NN3611,1.2,HLD,Highland,Mainland,Feur Lochan*,5
+1499,NM7737,0.25,HLD,Highland,Mainland,Unnamed,2
+1500,NM7738,0.4,HLD,Highland,Mainland,Unnamed,2
+1501,NM7743,23,HLD,Highland,Mainland,Loch nam Paitean,15
+1502,NM7744,0.9,HLD,Highland,Mainland,Unnamed,2
+1503,NM7745,4.4,HLD,Highland,Mainland,Loch Dearg,5
+1504,NM7752,7.7,HLD,Highland,Mainland,Unnamed,8
+1505,NM7757,3,HLD,Highland,Mainland,Lochan na Creige,5
+1506,NM7758,0.6,HLD,Highland,Mainland,Lochan na Creige,2
+1507,NM7759,0.8,HLD,Highland,Mainland,Unnamed,2
+1508,NM7761,0.3,HLD,Highland,Mainland,Unnamed,2
+1509,NM7762,0.2,HLD,Highland,Mainland,Unnamed,2
+1510,NM7771,6,HLD,Highland,Mainland,Loch nan Lochan,8
+1511,NM7772,1.2,HLD,Highland,Mainland,Unnamed,5
+1512,NM7773,2,HLD,Highland,Mainland,Upper Loch an Sligeanach,5
+1513,NM7802,3.3,HLD,Highland,Mainland,Lochan na Ba Glaise,5
+1514,NM7803,1.1,HLD,Highland,Mainland,Lochan Donn*,5
+1515,NM7804,2,HLD,Highland,Mainland,Lochan Fada,5
+1516,NM7805,0.4,HLD,Highland,Mainland,Unnamed,2
+1517,NM7811,1.5,HLD,Highland,Mainland,Lochan a' Bhealaich,5
+1518,NN2404,0.8,HLD,Highland,Mainland,Unnamed,2
+1519,NM9501,5.5,HLD,Highland,Mainland,Lochan Doire a' Bhraghaid,8
+1520,NM9503,9,HLD,Highland,Mainland,Lochan Torr an Fhamhair,8
+1521,NM9504,11,HLD,Highland,Mainland,Lochan na Criche,15
+1522,NM9614,18,HLD,Highland,Mainland,Loch nan Gabhar,15
+1523,NN0504,0.1,HLD,Highland,Mainland,Unnamed,2
+1524,NN0505,0.2,HLD,Highland,Mainland,Unnamed,2
+1525,NN0506,0.3,HLD,Highland,Mainland,Unnamed,2
+1526,NN0507,0.1,HLD,Highland,Mainland,Unnamed,2
+1527,NN0508,0.2,HLD,Highland,Mainland,Unnamed,2
+1528,NN0606,0.3,HLD,Highland,Mainland,Unnamed,2
+1529,NN0608,10,HLD,Highland,Mainland,Unnamed,15
+1530,NN0911,9,HLD,Highland,Mainland,Lochan Dubh,8
+1531,NN0912,2,HLD,Highland,Mainland,Unnamed,5
+1532,NM8509,12,HLD,Highland,Mainland,Loch Uisge,15
+1533,NM8605,1.1,HLD,Highland,Mainland,Lochan Feith nan Loagh,5
+1534,NM8619,0.4,HLD,Highland,Mainland,Unnamed,2
+1535,NM8706,0.2,HLD,Highland,Mainland,Unnamed,2
+1536,NM8707,0.1,HLD,Highland,Mainland,Unnamed,2
+1537,NN7903,0.3,HLD,Highland,Mainland,Unnamed,2
+1538,NN7905,0.7,HLD,Highland,Mainland,Unnamed,2
+1539,NM7838,1.3,HLD,Highland,Mainland,Loch an Fhearainn Duibh,5
+1540,NM7839,56.7,HLD,Highland,Mainland,Loch Doir a' Ghearrain,25
+1541,NM7840,5.5,HLD,Highland,Mainland,Loch Mama,8
+1542,NM7845,0.4,HLD,Highland,Mainland,Unnamed,2
+1543,NM7846,0.9,HLD,Highland,Mainland,Lochan na Creige Duibhe*,2
+1544,NM7847,0.25,HLD,Highland,Mainland,Unnamed,2
+1545,NM7848,1,HLD,Highland,Mainland,Unnamed,5
+1546,NM7852,1.8,HLD,Highland,Mainland,Unnamed,5
+1547,NM7854,1,HLD,Highland,Mainland,Lochan a' Bhealaich,5
+1548,NM7866,202,HLD,Highland,Mainland,Loch Eilt,50
+1549,NM7869,17,HLD,Highland,Mainland,Loch na Creige Duibhe,15
+1550,NM7870,12,HLD,Highland,Mainland,Loch a' Choire Riabhaich,15
+1551,NM7875,0.25,HLD,Highland,Mainland,Unnamed,2
+1552,NM6708,3,HLD,Highland,Mainland,Loch na Draipe,5
+1553,NM6720,0.4,HLD,Highland,Mainland,Unnamed,2
+1554,NM6723,0.25,HLD,Highland,Mainland,Unnamed,2
+1555,NM6724,0.3,HLD,Highland,Mainland,Unnamed,2
+1556,NM6725,12.6,HLD,Highland,Mainland,Loch Ard a' Phuill,15
+1557,NM6728,2.5,HLD,Highland,Mainland,Unnamed,5
+1558,NM6729,2.1,HLD,Highland,Mainland,Unnamed,5
+1559,NM6730,1.2,HLD,Highland,Mainland,Unnamed,5
+1560,NM6732,1.4,HLD,Highland,Mainland,Unnamed,5
+1561,NM6734,4.3,HLD,Highland,Mainland,Loch Blain,5
+1562,NM6809,1.1,HLD,Highland,Mainland,Loch Torr a' Bheithe,5
+1563,NM6811,3.3,HLD,Highland,Mainland,Loch nan Eala,5
+1564,NM6822,0.25,HLD,Highland,Mainland,Unnamed,2
+1565,NM6825,0.1,HLD,Highland,Mainland,Unnamed,2
+1566,NM6826,0.2,HLD,Highland,Mainland,Unnamed,2
+1567,NM6901,1.3,HLD,Highland,Mainland,Lochan Doilead,5
+1568,NM6902,32,HLD,Highland,Mainland,Loch an Nostarie,15
+1569,NM6904,23,HLD,Highland,Mainland,Loch a' Ghille Ghobaich,15
+1570,NM6905,1,HLD,Highland,Mainland,Unnamed,5
+1571,NM6906,6.5,HLD,Highland,Mainland,Lochan a Mheadhoin,8
+1572,NM6907,4.5,HLD,Highland,Mainland,Loch a Bhada Dharaich,5
+1573,NH6807,2.2,HLD,Highland,Mainland,Loch Saine,5
+1574,NH6901,104,HLD,Highland,Mainland,Loch Migdale,50
+1575,NH6902,0.8,HLD,Highland,Mainland,Unnamed,2
+1576,NH6903,0.4,HLD,Highland,Mainland,Unnamed,2
+1577,NH6904,0.35,HLD,Highland,Mainland,Unnamed,2
+1578,NH6905,0.8,HLD,Highland,Mainland,Unnamed,2
+1579,NH6906,1.2,HLD,Highland,Mainland,Unnamed,5
+1580,NH6909,30,HLD,Highland,Mainland,Loch Laro,15
+1581,NM2615,0.7,AAB,Argyll and Bute,Coll,Lochan a' Bhaigh,2
+1582,NM3106,2.2,AAB,Argyll and Bute,Mull,Loch Mor Ardalanish,5
+1583,NM3202,29,AAB,Argyll and Bute,Mull,Loch Point na h-I,15
+1584,NM3204,0.6,AAB,Argyll and Bute,Mull,Loch an t-Suidhe,2
+1585,NN1116,1,AAB,Argyll and Bute,Mainland,Unnamed,5
+1586,NN1201,0.3,AAB,Argyll and Bute,Mainland,Unnamed,2
+1587,NN1202,0.7,AAB,Argyll and Bute,Mainland,Unnamed,2
+1588,NN1320,0.3,AAB,Argyll and Bute,Mainland,Unnamed,2
+1589,NM9006,3,AAB,Argyll and Bute,Mainland,Dubh Loch,5
+1590,NR3404,12,AAB,Argyll and Bute,Islay,Loch nan Gabhar,15
+1591,NR3409,7,AAB,Argyll and Bute,Islay,Glenastle Loch,8
+1592,NR3417,3.25,AAB,Argyll and Bute,Islay,Loch nan Gillean,5
+1593,NR3418,9.5,AAB,Argyll and Bute,Islay,Loch Ard Achadh,8
+1594,NR3419,42,AAB,Argyll and Bute,Islay,Loch Kinnabus,15
+1595,NR5603,2.5,AAB,Argyll and Bute,Jura,Loch a' Mhuilinn,5
+1596,NR5721,0.1,AAB,Argyll and Bute,Jura,Unnamed,2
+1597,NR5722,0.8,AAB,Argyll and Bute,Jura,Unnamed,2
+1598,NR5731,1.2,AAB,Argyll and Bute,Jura,Loch na Fudarlaich Beag,5
+1599,NR5732,9.5,AAB,Argyll and Bute,Jura,Loch na Fudarlaich,8
+1600,NM7005,5.7,AAB,Argyll and Bute,Mainland,Loch Fada,8
+1601,NM7006,9.2,AAB,Argyll and Bute,Mainland,Loch Mhic Mhairtein,8
+1602,NM7114,0.3,AAB,Argyll and Bute,Luing,Unnamed,2
+1603,NM7115,2.2,AAB,Argyll and Bute,Seil,Ballachuan Loch,5
+1604,NM7301,3.2,AAB,Argyll and Bute,Mull,Lochan an Doire Dharaich,5
+1605,NM8003,4,AAB,Argyll and Bute,Mainland,Loch na Beiste,5
+1606,NM8009,6.4,AAB,Argyll and Bute,Mainland,Lochan Fearphorm,8
+1607,NM8012,30.2,AAB,Argyll and Bute,Mainland,Loch Ederline,15
+1608,NM8014,2.5,AAB,Argyll and Bute,Mainland,Unnamed,5
+1609,NM8113,25.2,AAB,Argyll and Bute,Mainland,Loch a' Phearsain,15
+1610,NR6101,0.9,AAB,Argyll and Bute,Mainland,Loch an t-Olais,2
+1611,NR6102,6,AAB,Argyll and Bute,Mainland,Killypole Loch,8
+1612,NR6501,3.6,AAB,Argyll and Bute,Gigha,Upper Loch,5
+1613,NR6818,7,AAB,Argyll and Bute,Jura,Loch Cathar nan Eun,8
+1614,NR6821,1.75,AAB,Argyll and Bute,Jura,Unnamed,5
+1615,NR6822,3.5,AAB,Argyll and Bute,Jura,Loch a' Mhuilinn,5
+1616,NR9802,2.8,AAB,Argyll and Bute,Mainland,Unnamed,5
+1617,NR9901,4.9,AAB,Argyll and Bute,Mainland,Lochan Anama,5
+1618,NR9902,3.4,AAB,Argyll and Bute,Mainland,Lochan Breac-Liath,5
+1619,NR9907,205.8,AAB,Argyll and Bute,Mainland,Loch Glashan,50
+1620,NS0613,20,AAB,Argyll and Bute,Bute,Kirk Dam,15
+1621,NS0801,110.4,AAB,Argyll and Bute,Mainland,Loch Tarsan,50
+1622,NS0901,3.3,AAB,Argyll and Bute,Mainland,Garbhallt Lochain,5
+1623,NS0902,0.1,AAB,Argyll and Bute,Mainland,Unnamed,2
+1624,NM9008,2.5,AAB,Argyll and Bute,Mainland,Unnamed,5
+1625,NM9010,22.8,AAB,Argyll and Bute,Mainland,Fincharn Loch,15
+1626,NM9011,8,AAB,Argyll and Bute,Mainland,Dubh Loch,8
+1627,NM9018,1.3,AAB,Argyll and Bute,Mainland,Unnamed,5
+1628,NM9019,40.3,AAB,Argyll and Bute,Mainland,Loch Gaineanhach,15
+1629,NM9020,7.9,AAB,Argyll and Bute,Mainland,Loch nan Eilean,8
+1630,NM9024,6.8,AAB,Argyll and Bute,Mainland,Loch Geoidh,8
+1631,NM9030,2,AAB,Argyll and Bute,Mainland,Loch nan Losgann,5
+1632,NM9031,1.2,AAB,Argyll and Bute,Mainland,Unnamed,5
+1633,NM9032,4.2,AAB,Argyll and Bute,Mainland,Dubh Loch,5
+1634,NM9037,2.5,AAB,Argyll and Bute,Mainland,Unnamed,5
+1635,NM9067,34.4,AAB,Argyll and Bute,Mainland,Loch Leacann,15
+1636,NN0053,1.5,AAB,Argyll and Bute,Mainland,Steallaire ban Loch,5
+1637,NN0057,3.8,AAB,Argyll and Bute,Mainland,Unnamed,5
+1638,NN0101,0.4,AAB,Argyll and Bute,Mainland,Unnamed,2
+1639,NN3303,15.1,AAB,Argyll and Bute,Mainland,Lochan na Bi,15
+1640,NR3544,3,AAB,Argyll and Bute,Islay,Loch Eighinn,5
+1641,NR5748,1,AAB,Argyll and Bute,Jura,Unnamed,5
+1642,NR5750,0.1,AAB,Argyll and Bute,Jura,Unnamed,2
+1643,NR5751,0.8,AAB,Argyll and Bute,Jura,Loch na Cloiche,2
+1644,NR58122,0.1,AAB,Argyll and Bute,Jura,Unnamed,2
+1645,NR58123,0.1,AAB,Argyll and Bute,Jura,Unnamed,2
+1646,NR58124,0.2,AAB,Argyll and Bute,Jura,Unnamed,2
+1647,NR58125,0.2,AAB,Argyll and Bute,Jura,Unnamed,2
+1648,NR58126,0.4,AAB,Argyll and Bute,Jura,Unnamed,2
+1649,NR58127,0.25,AAB,Argyll and Bute,Jura,Unnamed,2
+1650,NR58129,0.4,AAB,Argyll and Bute,Jura,Unnamed,2
+1651,NR7420,1.1,AAB,Argyll and Bute,Mainland,Loch Mor,5
+1652,NR7421,1.8,AAB,Argyll and Bute,Mainland,Loch Beag,5
+1653,NR7501,10,AAB,Argyll and Bute,Mainland,Loch nan Gad,15
+1654,NR7502,2.5,AAB,Argyll and Bute,Mainland,Loch na Beiste,5
+1655,NR7503,80,AAB,Argyll and Bute,Mainland,Loch Ciaran,25
+1656,NR7601,1,AAB,Argyll and Bute,Mainland,Lochan Chaorann,5
+1657,NR7602,1.4,AAB,Argyll and Bute,Mainland,Lochan Eun,5
+1658,NR7615,1.2,AAB,Argyll and Bute,Mainland,Loch Cill' an Aonghais,5
+1659,NM9070,2.2,AAB,Argyll and Bute,Mainland,Loch Tunnaig,5
+1660,NM9103,24,AAB,Argyll and Bute,Mainland,Loch na Sreinge,15
+1661,NM9106,348.5,AAB,Argyll and Bute,Mainland,Loch Avich,50
+1662,NM9213,2.3,AAB,Argyll and Bute,Mainland,Unnamed,5
+1663,NM9214,7,AAB,Argyll and Bute,Mainland,Lochan Sonachan,8
+1664,NM9215,3,AAB,Argyll and Bute,Mainland,Unnamed,5
+1665,NM9218,0.2,AAB,Argyll and Bute,Mainland,Unnamed,2
+1666,NM9219,2.1,AAB,Argyll and Bute,Mainland,Loch a' Bharraom,5
+1667,NM9222,2.1,AAB,Argyll and Bute,Mainland,Unnamed,5
+1668,NM9223,6.2,AAB,Argyll and Bute,Mainland,Sior Loch,8
+1669,NM9224,10,AAB,Argyll and Bute,Mainland,Sior Loch,15
+1670,NN0142,3943.2,AAB,Argyll and Bute,Mainland,Loch Awe,180
+1671,NN0209,26.2,AAB,Argyll and Bute,Mainland,Loch Tromlee,15
+1672,NN0310,1.1,AAB,Argyll and Bute,Mainland,Unnamed,5
+1673,NN0402,17.2,AAB,Argyll and Bute,Mainland,Loch Baile Mhic Chailein,15
+1674,NM8121,1.3,AAB,Argyll and Bute,Mainland,Loch na Curraigh,5
+1675,NM8122,2,AAB,Argyll and Bute,Mainland,Unnamed,5
+1676,NM8124,6.5,AAB,Argyll and Bute,Mainland,Loch a' Mhinn,8
+1677,NM8201,1.7,AAB,Argyll and Bute,Kerrera,Lochan na Circe,5
+1678,NM8212,3.5,AAB,Argyll and Bute,Mainland,Dubh Loch,5
+1679,NM8213,19,AAB,Argyll and Bute,Mainland,Loch Seil,15
+1680,NM8304,4,AAB,Argyll and Bute,Mainland,Lochan Dubh,5
+1681,NR3631,28,AAB,Argyll and Bute,Islay,Loch Skerrols,15
+1682,NR3633,65,AAB,Argyll and Bute,Islay,Loch Finlaggan,25
+1683,NR3637,4.5,AAB,Argyll and Bute,Islay,Loch Bharradail,5
+1684,NR3902,0.1,AAB,Argyll and Bute,Colonsay,Unnamed,2
+1685,NR3904,0.1,AAB,Argyll and Bute,Colonsay,Unnamed,2
+1686,NR3908,0.4,AAB,Argyll and Bute,Colonsay,Unnamed,2
+1687,NR3912,0.8,AAB,Argyll and Bute,Colonsay,Loch an Squid*,2
+1688,NR3913,0.1,AAB,Argyll and Bute,Colonsay,Unnamed,2
+1689,NR3914,0.1,AAB,Argyll and Bute,Colonsay,Unnamed,2
+1690,NR6936,6,AAB,Argyll and Bute,Jura,Loch Doire na h-Achlaise,8
+1691,NR6937,1,AAB,Argyll and Bute,Jura,Lochan Carn Thearlaich*,5
+1692,NR6938,6,AAB,Argyll and Bute,Jura,Loch nan Eilean,8
+1693,NR7201,3,AAB,Argyll and Bute,Mainland,Skeroblin Loch,5
+1694,NR7204,11,AAB,Argyll and Bute,Mainland,Aucha Lochy,15
+1695,NR7205,4,AAB,Argyll and Bute,Mainland,Knockruan Loch,5
+1696,NR7301,2,AAB,Argyll and Bute,Mainland,Dubh Loch,5
+1697,NR8702,3,AAB,Argyll and Bute,Mainland,Lochan Amna,5
+1698,NR8708,5.5,AAB,Argyll and Bute,Mainland,Meall Mhor Loch,8
+1699,NR8801,4,AAB,Argyll and Bute,Mainland,Lochan Duin,5
+1700,NR8802,5.1,AAB,Argyll and Bute,Mainland,Loch na Bric,8
+1701,NR8803,12,AAB,Argyll and Bute,Mainland,Daill Loch,15
+1702,NR8904,6.8,AAB,Argyll and Bute,Mainland,Lochan Add,8
+1703,NR8905,19.5,AAB,Argyll and Bute,Mainland,Loch Leathan,15
+1704,NR8907,3.4,AAB,Argyll and Bute,Mainland,Lochan an Torrnalaigh,5
+1705,NN2322,2.4,AAB,Argyll and Bute,Mainland,Lochan Coire Thoraidh,5
+1706,NM9309,8,AAB,Argyll and Bute,Mainland,Lochan na Beithe,8
+1707,NM9310,5,AAB,Argyll and Bute,Mainland,Lochan nan Rath,8
+1708,NM9406,0.6,AAB,Argyll and Bute,Mainland,Unnamed,2
+1709,NR4535,2,AAB,Argyll and Bute,Islay,Loch Tallant,5
+1710,NR4602,5.5,AAB,Argyll and Bute,Islay,Loch nan Cadhan,8
+1711,NR4605,9,AAB,Argyll and Bute,Islay,Loch Allan,8
+1712,NR4606,28,AAB,Argyll and Bute,Islay,Loch Ballygrant,15
+1713,NR4607,18,AAB,Argyll and Bute,Islay,Loch Lossit,15
+1714,NR4608,5,AAB,Argyll and Bute,Islay,Loch Fada,8
+1715,NR4616,19,AAB,Argyll and Bute,Jura,Loch a' Bhaile Mhargaidh,15
+1716,NR4702,14,AAB,Argyll and Bute,Islay,Loch Staoisha,15
+1717,NR4703,20,AAB,Argyll and Bute,Islay,Ardnahoe Loch,15
+1718,NR4708,8,AAB,Argyll and Bute,Islay,Loch nam Ban,8
+1719,NR2401,4.2,AAB,Argyll and Bute,Islay,Lower Glenastle Loch,5
+1720,NR7806,2,AAB,Argyll and Bute,Mainland,Unnamed,5
+1721,NR7809,1.8,AAB,Argyll and Bute,Mainland,Loch McKay,5
+1722,NR7812,4.5,AAB,Argyll and Bute,Mainland,Loch a' Mhuilinn,5
+1723,NR7813,4.8,AAB,Argyll and Bute,Mainland,Loch nam Breac Buidhe,5
+1724,NR7814,1.8,AAB,Argyll and Bute,Mainland,Unnamed,5
+1725,NR7815,3.1,AAB,Argyll and Bute,Mainland,Loch na h-Uamhaidh,5
+1726,NR7816,9.9,AAB,Argyll and Bute,Mainland,Loch na Creige Crainde,8
+1727,NR7818,2.3,AAB,Argyll and Bute,Mainland,Loch na Sgratha,5
+1728,NR7834,2.2,AAB,Argyll and Bute,Mainland,Loch an Fhir-Mhaoil,5
+1729,NR7837,0.1,AAB,Argyll and Bute,Mainland,Lochan nan Gobhar,2
+1730,NR7902,0.3,AAB,Argyll and Bute,Mainland,Unnamed,2
+1731,NS1601,0.2,AAB,Argyll and Bute,Mainland,Unnamed,2
+1732,NS1602,0.3,AAB,Argyll and Bute,Mainland,Unnamed,2
+1733,NS1603,0.3,AAB,Argyll and Bute,Mainland,Unnamed,2
+1734,NS1604,0.5,AAB,Argyll and Bute,Bute,Unnamed,2
+1735,NS1704,5.9,AAB,Argyll and Bute,Mainland,Loch Loskin,8
+1736,NH2615,55,HLD,Highland,Mainland,Loch Achanalt,25
+1737,NH1505,0.3,HLD,Highland,Mainland,Unnamed,2
+1738,NF7240,0.8,NEL,Na h-Eileanan an Iar,South Uist,Unnamed,2
+1739,NF7241,5.2,NEL,Na h-Eileanan an Iar,South Uist,Loch nam Faoileann,8
+1740,NH8001,55,HLD,Highland,Mainland,Loch Alvie,25
+1741,NH8002,3.6,HLD,Highland,Mainland,Loch Beag,5
+1742,NH8030,5.5,HLD,Highland,Mainland,Unnamed,8
+1743,NH0821,1.8,HLD,Highland,Mainland,Unnamed,5
+1744,NH0719,372.5,HLD,Highland,Mainland,Lochan Fada,50
+1745,NR4406,2.25,AAB,Argyll and Bute,Islay,Loch nan Digl,5
+1746,NM4606,0.7,HLD,Highland,Mainland,Unnamed,2
+1747,NM4610,0.6,HLD,Highland,Mainland,Unnamed,2
+1748,NM4617,2.4,HLD,Highland,Mainland,Lochain Ghleann Locha,5
+1749,NM4618,3.2,HLD,Highland,Mainland,Lochain Ghleann Locha,5
+1750,NM4602,0.4,HLD,Highland,Mainland,Lochan Glacan Lochain,2
+1751,NM4616,0.8,HLD,Highland,Mainland,Lochan Sron nan Sionnach,2
+1752,NM4702,1.9,HLD,Highland,Mainland,Lochan an Dobhrain,5
+1753,NN2001,0.4,AAB,Argyll and Bute,Mainland,Unnamed,2
+1754,NN2002,11,AAB,Argyll and Bute,Mainland,Loch Restil,15
+1755,NM6511,4.5,HLD,Highland,Mainland,Lochan Beinn Iadain,5
+1756,NM6512,2.5,HLD,Highland,Mainland,Unnamed,5
+1757,NM7517,2.2,HLD,Highland,Mainland,Lochanan Dubha,5
+1758,NM7518,6.5,HLD,Highland,Mainland,Lochanan Dubha,8
+1759,NH4320,4,HLD,Highland,Mainland,Loch nam Bat,5
+1760,NH4322,3,HLD,Highland,Mainland,Unnamed,5
+1761,NH4324,6.5,HLD,Highland,Mainland,Loch nam Faoileag,8
+1762,NG5001,0.1,HLD,Highland,Skye,Unnamed,2
+1763,NG5002,3,HLD,Highland,Skye,Loch Nigheann Fhionnlaidh,5
+1764,NF7668,0.7,NEL,Na h-Eileanan an Iar,Baleshare,Unnamed,2
+1765,NF7669,9,NEL,Na h-Eileanan an Iar,Baleshare,Loch Mor Baleshare,8
+1766,NO2006,66,FIF,Fife,Mainland,Ballo Reservoir,25
+1767,NC4522,3.2,HLD,Highland,Mainland,Dubh-loch na Beinne,5
+1768,NC4523,3,HLD,Highland,Mainland,Unnamed,5
+1769,NC4524,40,HLD,Highland,Mainland,Loch na Seilg,15
+1770,NC4525,0.9,HLD,Highland,Mainland,Unnamed,2
+1771,NC4407,38,HLD,Highland,Mainland,Loch a' Ghobha-Dhuibh,15
+1772,NC5202,3,HLD,Highland,Mainland,Unnamed,5
+1773,NC5203,6.5,HLD,Highland,Mainland,Loch Bad an Loch,8
+1774,NC5204,21,HLD,Highland,Mainland,Loch nan Uan,15
+1775,NC5218,65,HLD,Highland,Mainland,Loch a' Bhealaich,25
+1776,NC5301,1,HLD,Highland,Mainland,Unnamed,5
+1777,NC5309,11,HLD,Highland,Mainland,Loch na Glas-choille,15
+1778,NC5310,1.4,HLD,Highland,Mainland,Loch an Tairbh,5
+1779,NC5424,1.2,HLD,Highland,Mainland,Loch na Creige Riabhaich,5
+1780,NC22107,0.5,HLD,Highland,Mainland,Unnamed,2
+1781,NC2222,1.5,HLD,Highland,Mainland,Loch nan Caorach,5
+1782,NC2223,2,HLD,Highland,Mainland,Loch Meall nan Caorach,5
+1783,NC3101,23,HLD,Highland,Mainland,Loch Carn nan Coubhairean,15
+1784,NC3102,15,HLD,Highland,Mainland,Dubh Loch Beag,15
+1785,NC3103,10,HLD,Highland,Mainland,Loch Sail an Ruathair,15
+1786,NC3109,0.1,HLD,Highland,Mainland,Unnamed,2
+1787,NC3110,0.15,HLD,Highland,Mainland,Unnamed,2
+1788,NC2112,2.4,HLD,Highland,Mainland,Unnamed,5
+1789,NC2114,2,HLD,Highland,Mainland,Feur Loch,5
+1790,NC2119,0.9,HLD,Highland,Mainland,Unnamed,2
+1791,HP5003,4.5,STL,Shetland Islands,Yell,Kirk Loch,5
+1792,NO4114,44,FIF,Fife,Mainland,Cameron Reservoir,15
+1793,NC2123,256,HLD,Highland,Mainland,Cam Loch,50
+1794,NS0503,33,AAB,Argyll and Bute,Bute,Loch Quien,15
+1795,NS0611,88.4,AAB,Argyll and Bute,Bute,Loch Fad,25
+1796,NS0603,10.1,AAB,Argyll and Bute,Bute,Greenan Loch,15
+1797,NG8301,0.5,HLD,Highland,Mainland,Unnamed,2
+1798,NG5003,27,HLD,Highland,Skye,Loch a' Ghlinne,15
+1799,NG8310,20.8,HLD,Highland,Mainland,Loch Achaidh na h-Inich,15
+1800,NO3003,11,FIF,Fife,Mainland,Carriston Reservoir,15
+1801,NS9405,1.8,SLK,South Lanarkshire,Mainland,Red Loch,5
+1802,NS9408,10,SLK,South Lanarkshire,Mainland,White Loch,15
+1803,NJ9102,3,ABD,Aberdeenshire,Mainland,Bishops' Loch,5
+1804,NJ9104,13,ABD,Aberdeen City,Mainland,Corby Loch,15
+1805,NR3802,0.4,AAB,Argyll and Bute,Oronsay,Lochan Chille-moire*,2
+1806,NR3907,0.4,AAB,Argyll and Bute,Colonsay,Unnamed,2
+1807,NC6003,12,HLD,Highland,Mainland,Loch Dola,15
+1808,NC6004,57,HLD,Highland,Mainland,Loch Craggie,25
+1809,NC6005,4,HLD,Highland,Mainland,Loch Muidhe,5
+1810,NC6006,0.7,HLD,Highland,Mainland,Unnamed,2
+1811,NC6009,4,HLD,Highland,Mainland,Lochan Iain Bhuidhe,5
+1812,NC6010,0.9,HLD,Highland,Mainland,Lochan a' Ghuibhais,2
+1813,NC6017,10,HLD,Highland,Mainland,Lochan na Gaoithe,15
+1814,NH7904,19,HLD,Highland,Mainland,Loch Laiogh,15
+1815,NH7905,3,HLD,Highland,Mainland,Loch Ruagaidh,5
+1816,NH6907,28,HLD,Highland,Mainland,Loch an Lagain,15
+1817,NH6908,52,HLD,Highland,Mainland,Loch Buidhe,25
+1818,NH9503,2,HLD,Highland,Mainland,Unnamed,5
+1819,NH9504,12,HLD,Highland,Mainland,Loch Loy,15
+1820,NH9505,6.5,HLD,Highland,Mainland,Cran Loch,8
+1821,NG4217,72,HLD,Highland,Skye,Loch Coruisk,25
+1822,NG4218,2.2,HLD,Highland,Skye,Loch a' Choire Riabhaich,5
+1823,NG4219,3.2,HLD,Highland,Skye,Loch Coir a' Ghrunnda,5
+1824,NG4221,0.6,HLD,Highland,Skye,Unnamed,2
+1825,NG5207,0.6,HLD,Highland,Skye,Loch Fionna choire,2
+1826,NG4101,0.3,HLD,Highland,Skye,Unnamed,2
+1827,NG4102,0.4,HLD,Highland,Skye,Unnamed,2
+1828,NG4106,0.7,HLD,Highland,Skye,Unnamed,2
+1829,NG4108,0.05,HLD,Highland,Skye,Unnamed,2
+1830,NG4109,0.2,HLD,Highland,Skye,Unnamed,2
+1831,NG4123,2,HLD,Highland,Skye,Loch Meachdannach,5
+1832,NG4207,0.3,HLD,Highland,Skye,Unnamed,2
+1833,NG4208,0.4,HLD,Highland,Skye,Unnamed,2
+1834,NG4209,0.9,HLD,Highland,Skye,Loch a' Choire Riabhaich,2
+1835,NG4210,0.35,HLD,Highland,Skye,Unnamed,2
+1836,NG4211,0.35,HLD,Highland,Skye,Unnamed,2
+1837,NG4214,3.7,HLD,Highland,Skye,Loch an Fhir-bhallaich,5
+1838,NG4215,0.9,HLD,Highland,Skye,Unnamed,2
+1839,NH8105,1,HLD,Highland,Mainland,Unnamed,5
+1840,NH8107,0.6,HLD,Highland,Mainland,Unnamed,2
+1841,NH5511,0.1,HLD,Highland,Mainland,Unnamed,2
+1842,NO1609,4.5,PAK,Perth and Kinross,Mainland,Drumore Loch,5
+1843,NO7603,0.5,AGS,Angus,Mainland,Unnamed,2
+1844,NS5711,3.9,STL,Stirling,Mainland,Drumbrock Loch,5
+1845,NO6607,14,AGS,Angus,Mainland,Dun's Dish,15
+1846,NM4806,0.2,HLD,Highland,Eigg,Unnamed,2
+1847,NM4801,0.1,HLD,Highland,Eigg,Unnamed,2
+1848,NM4804,5.2,HLD,Highland,Eigg,Loch Beinn Tighe,8
+1849,NM4805,0.8,HLD,Highland,Eigg,Unnamed,2
+1850,NM4808,0.2,HLD,Highland,Eigg,Unnamed,2
+1851,NM4813,2.3,HLD,Highland,Eigg,Loch nam Ban Mora,5
+1852,NM4814,0.2,HLD,Highland,Eigg,Unnamed,2
+1853,NC4505,0.2,HLD,Highland,Mainland,Unnamed,2
+1854,NC4530,0.3,HLD,Highland,Mainland,Unnamed,2
+1855,NC4605,3,HLD,Highland,Mainland,Loch na Cathrach Duibhe,5
+1856,NC4607,6,HLD,Highland,Mainland,Loch Ach'an Lochaidh,8
+1857,NC4608,2,HLD,Highland,Mainland,Loch Cragaidh,5
+1858,NC4610,0.9,HLD,Highland,Mainland,Unnamed,2
+1859,NC4502,2,HLD,Highland,Mainland,Unnamed,5
+1860,NC4503,2,HLD,Highland,Mainland,Loch a' Choin-bhoirinn,5
+1861,NC4504,2,HLD,Highland,Mainland,Unnamed,5
+1862,NC4506,2,HLD,Highland,Mainland,Loch na Creige Duibhe,5
+1863,NC4507,1.5,HLD,Highland,Mainland,Unnamed,5
+1864,NC4510,12,HLD,Highland,Mainland,Loch Bealach na Sgeulachd,15
+1865,HT9310,0.5,STL,Shetland Islands,Foula,Rossie's Loch,2
+1866,HT9311,2.6,STL,Shetland Islands,Foula,Mill Loch,5
+1867,HT9314,0.1,STL,Shetland Islands,Foula,Unnamed,2
+1868,HT9401,0.25,STL,Shetland Islands,Foula,Lochs o' da Fleck,2
+1869,HT9402,0.2,STL,Shetland Islands,Foula,Lochs o' da Fleck,2
+1870,NN2153,0.1,AAB,Argyll and Bute,Mainland,Unnamed,2
+1871,NN2156,8,AAB,Argyll and Bute,Mainland,Lochan Srath Dubh-Uisge,8
+1872,NN2164,0.1,AAB,Argyll and Bute,Mainland,Unnamed,2
+1873,NN3101,11.5,AAB,Argyll and Bute,Mainland,Geal Loch,15
+1874,NN3102,0.4,AAB,Argyll and Bute,Mainland,Dubh Lochan,2
+1875,NH4029,1.1,HLD,Highland,Mainland,Unnamed,5
+1876,NH4030,0.3,HLD,Highland,Mainland,Unnamed,2
+1877,NH4032,10,HLD,Highland,Mainland,Lochan Dearg Uillt,15
+1878,NH4037,8,HLD,Highland,Mainland,Lochan nam Faoileag,8
+1879,NH4038,4,HLD,Highland,Mainland,Unnamed,5
+1880,NH4039,6.5,HLD,Highland,Mainland,Unnamed,8
+1881,NH4040,0.2,HLD,Highland,Mainland,Unnamed,2
+1882,NH4041,1.6,HLD,Highland,Mainland,Lochan Carn a' Chuilinn,5
+1883,NH4042,6.5,HLD,Highland,Mainland,Loch Carn a' Chuilinn,8
+1884,NO1809,3.2,ABD,Aberdeenshire,Mainland,Loch Kander,5
+1885,NR2706,12,AAB,Argyll and Bute,Islay,Ardnave Loch,15
+1886,NO2405,6.2,PAK,Perth and Kinross,Mainland,Monk Myre,8
+1887,HP6101,0.1,STL,Shetland Islands,Unst,Unnamed,2
+1888,HP6102,0.25,STL,Shetland Islands,Unst,Unnamed,2
+1889,HP6103,0.33,STL,Shetland Islands,Unst,Unnamed,2
+1890,HP6104,0.2,STL,Shetland Islands,Unst,Unnamed,2
+1891,HP6010,0.2,STL,Shetland Islands,Unst,Unnamed,2
+1892,HP6011,0.2,STL,Shetland Islands,Unst,Unnamed,2
+1893,ND3404,0.9,HLD,Highland,Mainland,Groat's Loch,2
+1894,ND0703,0.2,HLD,Highland,Mainland,Unnamed,2
+1895,ND0704,0.2,HLD,Highland,Mainland,Unnamed,2
+1896,ND0705,0.8,HLD,Highland,Mainland,Coghill Loch,2
+1897,ND0706,0.7,HLD,Highland,Mainland,Unnamed,2
+1898,NO1308,7.8,PAK,Perth and Kinross,Mainland,Kings Myre,8
+1899,NH4109,21,HLD,Highland,Mainland,Loch nan Lann,15
+1900,NH4110,61,HLD,Highland,Mainland,Loch Knockie,25
+1901,NO4006,35.6,FIF,Fife,Mainland,Kilconquhar Loch,15
+1902,NH8501,13,HLD,Highland,Mainland,Loch Flemington,15
+1903,NR2515,5.2,AAB,Argyll and Bute,Islay,Lochan na Nigheadaireachd,8
+1904,NR2521,0.3,AAB,Argyll and Bute,Islay,Unnamed,2
+1905,NN5016,264.4,STL,Stirling,Mainland,Lake of Menteith,50
+1906,NT5201,8.3,SBD,Scottish Borders,Mainland,Unnamed,8
+1907,NF9790,2.7,NEL,Na h-Eileanan an Iar,Hermetray,Unnamed,5
+1908,NF9791,0.25,NEL,Na h-Eileanan an Iar,Hermetray,Unnamed,2
+1909,NF9792,0.4,NEL,Na h-Eileanan an Iar,Hermetray,Unnamed,2
+1910,NF9793,0.2,NEL,Na h-Eileanan an Iar,Hermetray,Unnamed,2
+1911,NF9794,0.2,NEL,Na h-Eileanan an Iar,Hermetray,Unnamed,2
+1912,NG4701,1.2,HLD,Highland,Skye,Unnamed,5
+1913,NN6608,28,PAK,Perth and Kinross,Mainland,Loch Con,15
+1914,NB2409,3.8,NEL,Na h-Eileanan an Iar,Lewis,Loch Dalbeg,5
+1915,NM6819,1.8,HLD,Highland,Mainland,Loch Dubh,5
+1916,NS1904,430,AAB,Argyll and Bute,Mainland,Loch Eck,50
+1917,NN6910,4.5,HLD,Highland,Mainland,Loch Etteridge,5
+1918,NH6306,139,HLD,Highland,Mainland,Loch Ashie,50
+1919,NH5101,8.5,HLD,Highland,Mainland,Loch Bran,8
+1920,HU2414,7.4,STL,Shetland Islands,Mainland Shetland,Loch of Kirkigarth,8
+1921,HU25150,9.2,STL,Shetland Islands,Mainland Shetland,Unnamed,8
+1922,HU3103,99.3,STL,Shetland Islands,Mainland Shetland,Loch of Spiggie,25
+1923,HU4423,48.2,STL,Shetland Islands,Mainland Shetland,Loch of Tingwall,15
+1924,NH8701,195,HLD,Highland,Mainland,Loch Eye,50
+1925,NC2204,1.2,HLD,Highland,Mainland,Loch Coire a' Bhaic,5
+1926,ND2605,65,HLD,Highland,Mainland,Loch Heilen,25
+1927,NB2333,45,NEL,Na h-Eileanan an Iar,Lewis,Loch Laxavat Ard,15
+1928,NO1005,1415.3,PAK,Perth and Kinross,Mainland,Loch Leven,90
+1929,NG6140,4,HLD,Highland,Skye,Loch Meodal,5
+1930,NB5424,1.1,NEL,Na h-Eileanan an Iar,Lewis,Unnamed,5
+1931,NO5901,9,ABD,Aberdeenshire,Mainland,Loch of Aboyne,8
+1932,HY2201,21,OKN,Orkney Islands,Mainland Orkney,Loch of Banks,15
+1933,HU3509,50.7,STL,Shetland Islands,Mainland Shetland,Loch of Clousta,25
+1934,HU4528,96.1,STL,Shetland Islands,Mainland Shetland,Loch of Girlsta,25
+1935,NO2505,182,AGS,Angus,Mainland,Loch of Lintrathen,50
+1936,NJ7009,105,ABD,Aberdeenshire,Mainland,Loch of Skene,50
+1937,ND1514,74,HLD,Highland,Mainland,Loch Scarmclate,25
+1938,NM9806,3,HLD,Highland,Mainland,Lochan Port na Creige*,5
+1939,NM8837,1960,HLD,Highland,Mainland,Loch Shiel,100
+1940,NM7631,3,HLD,Highland,Mainland,Unnamed,5
+1941,NJ2611,20.4,MRA,Moray,Mainland,Loch Spynie,15
+1942,NC2447,7,HLD,Highland,Mainland,Loch a' Cham Alltain,8
+1943,NC2448,4.5,HLD,Highland,Mainland,Caol Lochan,5
+1944,NC2457,230,HLD,Highland,Mainland,Loch Stack,50
+1945,NC2458,2,HLD,Highland,Mainland,Loch Grosvenor,5
+1946,NC2462,3,HLD,Highland,Mainland,Unnamed,5
+1947,NC3436,0.9,HLD,Highland,Mainland,Unnamed,2
+1948,NB5601,0.3,NEL,Na h-Eileanan an Iar,Lewis,Unnamed,2
+1949,NB5602,2.5,NEL,Na h-Eileanan an Iar,Lewis,Loch Stiapavat,5
+1950,NR3506,1.5,AAB,Argyll and Bute,Islay,Loch Tallant,5
+1951,NR3507,1.75,AAB,Argyll and Bute,Islay,Loch Tallant,5
+1952,NB2429,2.2,NEL,Na h-Eileanan an Iar,Lewis,Loch Tuamister,5
+1953,NH9103,11,HLD,Highland,Mainland,Loch Vaa,15
+1954,NN5202,10,STL,Stirling,Mainland,Lochan Lairig Cheile,15
+1955,NO2319,1,AGS,Angus,Mainland,Lochindores,5
+1956,NR6203,0.9,AAB,Argyll and Bute,Mainland,Unnamed,2
+1957,NO2102,10,FIF,Fife,Mainland,Lochmill Loch,15
+1958,ND2506,6.5,HLD,Highland,Mainland,Loch of Winless,8
+1959,NB3253,64,NEL,Na h-Eileanan an Iar,Lewis,Loch Orasaigh,25
+1960,NS5905,2,STL,Stirling,Mainland,Loch Macanrie,5
+1961,NN7001,11.9,STL,Stirling,Mainland,Loch Mahaick,15
+1962,NG1974,0.15,NEL,Na h-Eileanan an Iar,Harris,Unnamed,2
+1963,NG1975,1.2,NEL,Na h-Eileanan an Iar,Harris,Loch Laxdale,5
+1964,NG1976,0.4,NEL,Na h-Eileanan an Iar,Harris,Unnamed,2
+1965,NG0930,3,NEL,Na h-Eileanan an Iar,Harris,Unnamed,5
+1966,NG5323,0.4,HLD,Highland,Skye,Unnamed,2
+1967,NK0303,24,ABD,Aberdeenshire,Mainland,Meikle Loch,15
+1968,NO0303,2.5,PAK,Perth and Kinross,Mainland,Unnamed,5
+1969,HY5303,10,OKN,Orkney Islands,Eday,Mill Loch,15
+1970,NH0402,2.2,HLD,Highland,Mainland,Lochan Gaineamhach,5
+1971,NO4205,4.6,FIF,Fife,Mainland,Morton Lochs,5
+1972,NO4206,2.3,FIF,Fife,Mainland,Morton Lochs,5
+1973,HU4207,0.7,STL,Shetland Islands,Mousa,Unnamed,2
+1974,NJ4016,1.1,ABD,Aberdeenshire,Mainland,Unnamed,5
+1975,NR4901,0.2,AAB,Argyll and Bute,Colonsay,Lochan a' Bhraghad*,2
+1976,NM2505,0.6,AAB,Argyll and Bute,Coll,Unnamed,2
+1977,NM2506,0.25,AAB,Argyll and Bute,Coll,Unnamed,2
+1978,NM2507,1.5,AAB,Argyll and Bute,Coll,Unnamed,5
+1979,NM2523,1.2,AAB,Argyll and Bute,Coll,Loch nan Geadh,5
+1980,NM2524,0.5,AAB,Argyll and Bute,Coll,Unnamed,2
+1981,NM2525,1.2,AAB,Argyll and Bute,Coll,Unnamed,5
+1982,NM2526,3.1,AAB,Argyll and Bute,Coll,Loch Urbhaig,5
+1983,NM2603,2.9,AAB,Argyll and Bute,Coll,Loch a' Mhill Aird,5
+1984,NM2605,0.6,AAB,Argyll and Bute,Coll,Unnamed,2
+1985,NM2611,2.9,AAB,Argyll and Bute,Coll,Loch Ronard,5
+1986,NM2618,1,AAB,Argyll and Bute,Coll,Unnamed,5
+1987,NM2619,0.6,AAB,Argyll and Bute,Coll,Unnamed,2
+1988,NM2622,5.2,AAB,Argyll and Bute,Coll,Lochan Sagairt,8
+1989,NS0702,2.9,AAB,Argyll and Bute,Bute,Bull Loch,5
+1990,HY7405,6,OKN,Orkney Islands,Sanday,Westayre Loch,8
+1991,HY7402,3.5,OKN,Orkney Islands,Sanday,Loch of Langamay,5
+1992,HY7403,40,OKN,Orkney Islands,Sanday,North Loch,15
+1993,HY7404,3.5,OKN,Orkney Islands,Sanday,Loch of Rummie,5
+1994,HU5409,0.3,STL,Shetland Islands,Noss,Unnamed,2
+1995,HY4515,0.01,OKN,Orkney Islands,Papa Westray,Unnamed,2
+1996,HY4516,0.01,OKN,Orkney Islands,Papa Westray,Unnamed,2
+1997,HY5501,0.06,OKN,Orkney Islands,Papa Westray,Unnamed,2
+1998,HY4507,0.2,OKN,Orkney Islands,Papa Westray,Unnamed,2
+1999,HY4508,0.1,OKN,Orkney Islands,Papa Westray,Unnamed,2
+2000,HY4509,0.1,OKN,Orkney Islands,Papa Westray,Unnamed,2
+2001,HY4510,0.1,OKN,Orkney Islands,Papa Westray,Unnamed,2
+2002,HU1611,0.4,STL,Shetland Islands,Papa Stour,Unnamed,2
+2003,HU1612,0.2,STL,Shetland Islands,Papa Stour,Unnamed,2
+2004,HU1614,4.8,STL,Shetland Islands,Papa Stour,Gorda Water,5
+2005,HU1619,0.5,STL,Shetland Islands,Papa Stour,Unnamed,2
+2006,HU3106,2.2,STL,Shetland Islands,Mainland Shetland,Loch of Hillwell,5
+2007,NC9607,3,HLD,Highland,Mainland,Loch na Moine,5
+2008,NG5301,7.5,HLD,Highland,Island of Raasay,Loch na Meilich,8
+2009,NG5305,0.5,HLD,Highland,Island of Raasay,Unnamed,2
+2010,NG5306,3.7,HLD,Highland,Island of Raasay,Loch a Chadha charnaich,5
+2011,NG5315,5.3,HLD,Highland,Island of Raasay,Loch na Mna,8
+2012,NG5326,0.25,HLD,Highland,Island of Raasay,Unnamed,2
+2013,NG5327,0.25,HLD,Highland,Island of Raasay,Unnamed,2
+2014,NG5414,1,HLD,Highland,Island of Raasay,Loch Meall Daimh,5
+2015,NR2503,0.25,AAB,Argyll and Bute,Islay,Unnamed,2
+2016,NR2504,0.2,AAB,Argyll and Bute,Islay,Unnamed,2
+2017,NR2620,270,AAB,Argyll and Bute,Islay,Loch Gorm,50
+2018,NS9413,0.5,SLK,South Lanarkshire,Mainland,Unnamed,2
+2019,HY3201,8,OKN,Orkney Islands,Rousay,Peerie Water,8
+2020,HY3202,1,OKN,Orkney Islands,Rousay,Unnamed,5
+2021,HY3301,0.3,OKN,Orkney Islands,Rousay,Loch of Moan*,2
+2022,HY3303,0.3,OKN,Orkney Islands,Rousay,Loch of Sacquoy,2
+2023,HY3304,41,OKN,Orkney Islands,Rousay,Muckle Water,15
+2024,HY4303,1.3,OKN,Orkney Islands,Rousay,Loch of Loomachun,5
+2025,NG4303,0.35,HLD,Highland,Skye,Unnamed,2
+2026,NO6510,2,AGS,Angus,Mainland,Nicholl's Loch,5
+2027,NM4506,2,AAB,Argyll and Bute,Mull,Lochan's Airde Beinn,5
+2028,HU4512,36.8,STL,Shetland Islands,Mainland Shetland,Sand Water,15
+2029,NC2606,2.5,HLD,Highland,Mainland,Lochan nan Sac,5
+2030,NC2608,92,HLD,Highland,Mainland,Sandwood Loch,25
+2031,NC2609,2,HLD,Highland,Mainland,Unnamed,5
+2032,NC2610,9,HLD,Highland,Mainland,Loch a' Phuill Bhuidhe,8
+2033,NC2611,7,HLD,Highland,Mainland,Loch na Creige Riabhaich,8
+2034,NC2621,0.9,HLD,Highland,Mainland,Unnamed,2
+2035,NC2623,0.3,HLD,Highland,Mainland,Unnamed,2
+2036,NC2624,0.6,HLD,Highland,Mainland,Unnamed,2
+2037,NC2625,0.9,HLD,Highland,Mainland,Unnamed,2
+2038,NC2628,1,HLD,Highland,Mainland,Lochan Beul na Faireachan,5
+2039,NC2629,1,HLD,Highland,Mainland,Unnamed,5
+2040,NC2645,1.6,HLD,Highland,Mainland,Unnamed,5
+2041,NC2649,1.5,HLD,Highland,Mainland,Unnamed,5
+2042,NC2650,1.1,HLD,Highland,Mainland,Unnamed,5
+2043,NC2652,0.2,HLD,Highland,Mainland,Unnamed,2
+2044,NC2654,0.4,HLD,Highland,Mainland,Unnamed,2
+2045,NC1608,0.8,HLD,Highland,Mainland,Unnamed,2
+2046,HU3415,0.5,STL,Shetland Islands,Mainland Shetland,Unnamed,2
+2047,NJ8502,0.5,ABD,Aberdeenshire,Mainland,Unnamed,2
+2048,NG3202,0.4,HLD,Highland,Skye,Unnamed,2
+2049,NR6201,18,AAB,Argyll and Bute,Mainland,Tangy Loch,15
+2050,HU6920,1.2,STL,Shetland Islands,Fetlar,Unnamed,5
+2051,HU6921,1,STL,Shetland Islands,Fetlar,Unnamed,5
+2052,NF7551,10,NEL,Na h-Eileanan an Iar,Benbecula,Unnamed,15
+2053,NF7550,19,NEL,Na h-Eileanan an Iar,Benbecula,Loch Fada,15
+2054,NF7537,21,NEL,Na h-Eileanan an Iar,Benbecula,Loch Mor,15
+2055,NG4605,0.3,HLD,Highland,Skye,Unnamed,2
+2056,NG4606,0.9,HLD,Highland,Skye,Unnamed,2
+2057,NG4607,0.25,HLD,Highland,Skye,Unnamed,2
+2058,NG4616,0.1,HLD,Highland,Skye,Loch Sheanta*,2
+2059,NG4703,3.3,HLD,Highland,Skye,Loch Langaig,5
+2060,NG4704,0.7,HLD,Highland,Skye,Unnamed,2
+2061,NG4706,1,HLD,Highland,Skye,Loch Leum nam Bradh,5
+2062,NG4707,0.1,HLD,Highland,Skye,Unnamed,2
+2063,HY3401,1.7,OKN,Orkney Islands,Westray,Loch of the Stack,5
+2064,NC2115,187,HLD,Highland,Mainland,Loch Urigill,50
+2065,ND2712,21,HLD,Highland,Mainland,Loch of Mey,15
+2066,HY6408,0.5,OKN,Orkney Islands,Sanday,Unnamed,2
+2067,NM0402,1.1,AAB,Argyll and Bute,Tiree,Loch Dubh a' Gharraidh Fail*,5
+2068,NM0403,0.75,AAB,Argyll and Bute,Tiree,Unnamed,2
+2069,NM0406,6.2,AAB,Argyll and Bute,Tiree,Loch na Gile,8
+2070,NO0509,45,PAK,Perth and Kinross,Mainland,Loch Ordie,15
+2071,NC2111,34,HLD,Highland,Mainland,Loch Awe,15
+2072,ND0619,383.5,HLD,Highland,Mainland,Loch Calder,50
+2073,NC1244,15,HLD,Highland,Mainland,Loch an Tuirc,15
+2074,NC1243,750,HLD,Highland,Mainland,Loch Assynt,80
+2075,NC1234,50,HLD,Highland,Mainland,Loch Beannach,25
+2076,NC1218,56,HLD,Highland,Mainland,Loch Crocach,25
+2077,NC1292,0.9,HLD,Highland,Mainland,Unnamed,2
+2078,NC1334,76,HLD,Highland,Mainland,Loch Poll,25
+2079,NF9802,28.5,NEL,Na h-Eileanan an Iar,Berneray,Loch Bhruist,15
+2080,NF9803,1.7,NEL,Na h-Eileanan an Iar,Berneray,Little Loch Borve,5
+2081,NC6001,30,HLD,Highland,Mainland,Loch Tigh na Creige,15
+2082,NC7105,22,HLD,Highland,Mainland,Loch Beannach,15
+2083,NC6111,53,HLD,Highland,Mainland,Loch Beannach,25
+2084,NC7102,16,HLD,Highland,Mainland,Loch Bad na h-Earba,15
+2085,NC6110,32,HLD,Highland,Mainland,Loch Beannach,15
+2086,NR7603,66.8,AAB,Argyll and Bute,Mainland,Loch nan Torran,25
+2087,NR8703,11.1,AAB,Argyll and Bute,Mainland,Loch Fuar-Bheinne,15
+2088,HP5104,5,STL,Shetland Islands,Unst,North Water,8
+2089,HP5105,0.2,STL,Shetland Islands,Unst,Unnamed,2
+2090,HU4933,0.8,STL,Shetland Islands,Yell,Hulk Waters,2
+2091,HU4934,1,STL,Shetland Islands,Yell,Hulk Waters,5
+2092,HU4958,6.5,STL,Shetland Islands,Yell,Loch of Birriesgirt,8
+2093,NN2419,33.2,AAB,Argyll and Bute,Mainland,Loch Dochard,15
+2094,NN3615,6,HLD,Highland,Mainland,Unnamed,8
+2095,NN3616,11,HLD,Highland,Mainland,Loch na Sgeallaig,15
+2096,NN3602,185,HLD,Highland,Mainland,Loch Ossian,50
+2097,NM0417,19,AAB,Argyll and Bute,Tiree,Loch Riaghain,15
+2098,NG8806,132,HLD,Highland,Mainland,Loch a' Bhaid-luachraich,50
+2099,NL9418,1.3,AAB,Argyll and Bute,Tiree,Unnamed,5
+2100,HY3206,3,OKN,Orkney Islands,Mainland Orkney,Looma Shun,5
+2101,HY3207,1.6,OKN,Orkney Islands,Mainland Orkney,Lowrie's Water,5
+2102,NS0201,2.3,NAY,North Ayrshire,Arran,Urie Loch,5
+2103,NH1009,8.5,HLD,Highland,Mainland,Lochan Bad an Losguinn,8
+2104,NH2043,47,HLD,Highland,Mainland,Loch Lundie,15
+2105,NH1201,8,HLD,Highland,Mainland,Unnamed,8
+2106,NH1205,142,HLD,Highland,Mainland,Loch Affric,50
+2107,NH0106,28,HLD,Highland,Mainland,Unnamed,15
+2108,NH1016,37,HLD,Highland,Mainland,Loch Poulary,15
+2109,NH2044,690,HLD,Highland,Mainland,Loch Garry,80
+2110,NC6511,5.2,HLD,Highland,Mainland,Unnamed,8
+2111,NC6613,4,HLD,Highland,Mainland,Loch Chuibhe,5
+2112,NC6614,1.2,HLD,Highland,Mainland,Unnamed,5
+2113,NC7623,3,HLD,Highland,Mainland,Loch Mer,5
+2114,NO4906,0.8,ABD,Aberdeenshire,Mainland,Unnamed,2
+2115,NO4907,0.2,ABD,Aberdeenshire,Mainland,Unnamed,2
+2116,NO4909,0.2,ABD,Aberdeenshire,Mainland,Unnamed,2
+2117,NO2802,4.2,ABD,Aberdeenshire,Mainland,Sandy Loch,5
+2118,NO2803,1,ABD,Aberdeenshire,Mainland,Unnamed,5
+2119,NO2805,0.4,ABD,Aberdeenshire,Mainland,Unnamed,2
+2120,NO2806,0.7,ABD,Aberdeenshire,Mainland,Unnamed,2
+2121,NO2808,0.1,ABD,Aberdeenshire,Mainland,Unnamed,2
+2122,NO2809,0.1,ABD,Aberdeenshire,Mainland,Unnamed,2
+2123,NO2810,0.15,ABD,Aberdeenshire,Mainland,Unnamed,2
+2124,NO2811,9,ABD,Aberdeenshire,Mainland,Lochnagar,8
+2125,NO2812,19,ABD,Aberdeenshire,Mainland,Dubh Loch,15
+2126,NO2814,193,ABD,Aberdeenshire,Mainland,Loch Muick,50
+2127,NO2901,0.6,ABD,Aberdeenshire,Mainland,Unnamed,2
+2128,NO5902,1,ABD,Aberdeenshire,Mainland,Unnamed,5
+2129,NO3903,1.1,ABD,Aberdeenshire,Mainland,Unnamed,5
+2130,NO6707,5,ABD,Aberdeenshire,Mainland,Loch Saugh,8
+2131,NO6904,1.4,ABD,Aberdeenshire,Mainland,Unnamed,5
+2132,NO6905,0.25,ABD,Aberdeenshire,Mainland,Unnamed,2
+2133,NO1701,9,ABD,Aberdeenshire,Mainland,Loch Vrotachan,8
+2134,NO1805,3.5,ABD,Aberdeenshire,Mainland,Loch Phadruig,5
+2135,NO5001,2.4,FIF,Fife,Mainland,Unnamed,5
+2136,NO5104,0.3,FIF,Fife,Mainland,Unnamed,2
+2137,NO5105,0.2,FIF,Fife,Mainland,Unnamed,2
+2138,NO3111,0.5,FIF,Fife,Mainland,Unnamed,2
+2139,NO3210,0.3,FIF,Fife,Mainland,Unnamed,2
+2140,NT5611,4.6,ELO,East Lothian,Mainland,Danskine Loch,5
+2141,NS0203,3.1,NAY,North Ayrshire,Arran,Loch Garbad,5
+2142,NS0204,0.2,NAY,North Ayrshire,Arran,Unnamed,2
+2143,NR9203,0.9,NAY,North Ayrshire,Arran,Unnamed,2
+2144,NR9204,0.2,NAY,North Ayrshire,Arran,Unnamed,2
+2145,NR9401,0.2,NAY,North Ayrshire,Arran,Unnamed,2
+2146,NR8301,0.9,NAY,North Ayrshire,Arran,Unnamed,2
+2147,NS1511,0.2,NAY,North Ayrshire,Great Cumbrae,Unnamed,2
+2148,NS1512,1.2,NAY,North Ayrshire,Great Cumbrae,Unnamed,5
+2149,NS1515,0.4,NAY,North Ayrshire,Great Cumbrae,Unnamed,2
+2150,NS1516,0.3,NAY,North Ayrshire,Great Cumbrae,Unnamed,2
+2151,NS1517,0.2,NAY,North Ayrshire,Great Cumbrae,Unnamed,2
+2152,NS1526,0.05,NAY,North Ayrshire,Great Cumbrae,Unnamed,2
+2153,NX6715,770.3,DAG,Dumfries and Galloway,Mainland,Loch Ken,80
+2154,NX3408,3,DAG,Dumfries and Galloway,Mainland,Unnamed,5
+2155,NY0903,2,DAG,Dumfries and Galloway,Mainland,Unnamed,5
+2156,NY1601,3,DAG,Dumfries and Galloway,Mainland,Unnamed,5
+2157,NY1604,0.3,DAG,Dumfries and Galloway,Mainland,Unnamed,2
+2158,NY1801,0.8,DAG,Dumfries and Galloway,Mainland,Unnamed,2
+2159,NY2602,1,DAG,Dumfries and Galloway,Mainland,Unnamed,5
+2160,NY2701,5,DAG,Dumfries and Galloway,Mainland,Purdomestone Reservoir,8
+2161,NX3608,1.3,DAG,Dumfries and Galloway,Mainland,Unnamed,5
+2162,NX3609,2.1,DAG,Dumfries and Galloway,Mainland,Unnamed,5
+2163,NX3716,0.4,DAG,Dumfries and Galloway,Mainland,Dow Lochs,2
+2164,NS1001,0.1,SAY,South Ayrshire,Mainland,Unnamed,2
+2165,NS2001,4.2,SAY,South Ayrshire,Mainland,Swan Lake,5
+2166,NS2002,1,SAY,South Ayrshire,Mainland,Unnamed,5
+2167,NS7205,22.5,EAY,East Ayrshire,Mainland,Glenbuck Loch,15
+2168,NS4102,6.9,EAY,East Ayrshire,Mainland,Belston Loch,8
+2169,NS4204,1.6,EAY,East Ayrshire,Mainland,Unnamed,5
+2170,NS4303,0.9,EAY,East Ayrshire,Mainland,Unnamed,2
+2171,NS4402,10.2,EAY,East Ayrshire,Mainland,Burnfoot Reservoir,15
+2172,NS3114,2.5,EAY,East Ayrshire,Mainland,Snipe Loch,5
+2173,NS5002,10.2,EAY,East Ayrshire,Mainland,Loch Muck,15
+2174,NX5906,1.2,EAY,East Ayrshire,Mainland,Unnamed,5
+2175,NS5105,3.5,EAY,East Ayrshire,Mainland,Black Loch,5
+2176,NS5210,2,EAY,East Ayrshire,Mainland,Unnamed,5
+2177,NS5301,0.4,EAY,East Ayrshire,Mainland,Unnamed,2
+2178,NS5405,0.7,EAY,East Ayrshire,Mainland,Unnamed,2
+2179,NS4503,9,ERE,East Renfrewshire,Mainland,Caplaw Dam,8
+2180,NS7808,4.2,FKK,Falkirk,Mainland,Unnamed,5
+2181,NS8606,49.2,FKK,Falkirk,Mainland,Black Loch,15
+2182,NS8701,4.2,FKK,Falkirk,Mainland,Unnamed,5
+2183,NS6605,22.4,GLA,Glasgow City,Mainland,Hogganfield Loch,15
+2184,NS2703,1.1,IVC,Inverclyde,Mainland,Coves Reservoir,5
+2185,NS3608,9.2,IVC,Inverclyde,Mainland,Knapps Loch,8
+2186,NT3601,0.5,MDT,Midlothian,Mainland,Unnamed,2
+2187,NS6724,16.1,NLK,North Lanarkshire,Mainland,Gadloch,15
+2188,NS7607,17.3,NLK,North Lanarkshire,Mainland,Lochend Loch,15
+2189,NS7703,4.5,NLK,North Lanarkshire,Mainland,Unnamed,5
+2190,NS8604,1.4,NLK,North Lanarkshire,Mainland,Unnamed,5
+2191,NS8617,0.8,NLK,North Lanarkshire,Mainland,Riven Loch,2
+2192,NS8619,0.1,NLK,North Lanarkshire,Mainland,Unnamed,2
+2193,NS4602,1,RFR,Renfrewshire,Mainland,Unnamed,5
+2194,NS3722,1.5,RFR,Renfrewshire,Mainland,Unnamed,5
+2195,NS3723,1.3,RFR,Renfrewshire,Mainland,Unnamed,5
+2196,NT6205,0.9,SBD,Scottish Borders,Mainland,Unnamed,2
+2197,NT6312,0.6,SBD,Scottish Borders,Mainland,Unnamed,2
+2198,NT2304,3.4,SBD,Scottish Borders,Mainland,Loch Eddy,5
+2199,NT2405,0.8,SBD,Scottish Borders,Mainland,Unnamed,2
+2200,NT6407,2.1,SBD,Scottish Borders,Mainland,Unnamed,5
+2201,NT6502,0.6,SBD,Scottish Borders,Mainland,Unnamed,2
+2202,NT6603,0.2,SBD,Scottish Borders,Mainland,Unnamed,2
+2203,NT7102,5.1,SBD,Scottish Borders,Mainland,Whitton Loch,8
+2204,NT7203,6.6,SBD,Scottish Borders,Mainland,Wooden Loch,8
+2205,NT0304,0.1,SBD,Scottish Borders,Mainland,Unnamed,2
+2206,NT7505,8.3,SBD,Scottish Borders,Mainland,Hen Poo,8
+2207,NT7603,0.3,SBD,Scottish Borders,Mainland,Unnamed,2
+2208,NT8101,4,SBD,Scottish Borders,Mainland,Unnamed,5
+2209,NT8504,1,SBD,Scottish Borders,Mainland,Unnamed,5
+2210,NT8607,8.9,SBD,Scottish Borders,Mainland,Coldingham Loch,8
+2211,NT3101,7,SBD,Scottish Borders,Mainland,Clearburn Loch,8
+2212,NT9602,3.1,SBD,Scottish Borders,Mainland,Mire Loch,5
+2213,NT3110,53.4,SBD,Scottish Borders,Mainland,Alemoor Reservoir,25
+2214,NT3201,0.1,SBD,Scottish Borders,Mainland,Unnamed,2
+2215,NT3303,1,SBD,Scottish Borders,Mainland,Unnamed,5
+2216,NT4009,0.7,SBD,Scottish Borders,Mainland,Unnamed,2
+2217,NT4113,5,SBD,Scottish Borders,Mainland,Williestruther Loch,8
+2218,NT1304,1,SBD,Scottish Borders,Mainland,Unnamed,5
+2219,NT1502,10.6,SBD,Scottish Borders,Mainland,North Esk Reservoir,15
+2220,NT1506,3.4,SBD,Scottish Borders,Mainland,Slipperfield Loch*,5
+2221,NT1511,0.4,SBD,Scottish Borders,Mainland,Unnamed,2
+2222,NT1512,0.2,SBD,Scottish Borders,Mainland,Unnamed,2
+2223,NT4220,7.6,SBD,Scottish Borders,Mainland,Essenside Loch,8
+2224,NT4306,0.6,SBD,Scottish Borders,Mainland,Unnamed,2
+2225,NT4402,0.2,SBD,Scottish Borders,Mainland,Unnamed,2
+2226,NT5001,1.1,SBD,Scottish Borders,Mainland,Unnamed,5
+2227,NS6402,0.4,SLK,South Lanarkshire,Mainland,Parkfield Loch,2
+2228,NS6504,0.2,SLK,South Lanarkshire,Mainland,Unnamed,2
+2229,NS7304,1,SLK,South Lanarkshire,Mainland,Unnamed,5
+2230,NS7402,0.6,SLK,South Lanarkshire,Mainland,Unnamed,2
+2231,NS7504,3.4,SLK,South Lanarkshire,Mainland,Unnamed,5
+2232,NS7525,0.4,SLK,South Lanarkshire,Mainland,Unnamed,2
+2233,NT0101,0.9,SLK,South Lanarkshire,Mainland,Unnamed,2
+2234,NT0201,3.9,SLK,South Lanarkshire,Mainland,Cowgill Lower Reservoir,5
+2235,NT0301,0.6,SLK,South Lanarkshire,Mainland,Unnamed,2
+2236,NT0412,0.6,SLK,South Lanarkshire,Mainland,Unnamed,2
+2237,NS8101,0.2,SLK,South Lanarkshire,Mainland,Unnamed,2
+2238,NS8102,0.1,SLK,South Lanarkshire,Mainland,Unnamed,2
+2239,NS8201,0.9,SLK,South Lanarkshire,Mainland,Unnamed,2
+2240,NS8307,1.1,SLK,South Lanarkshire,Mainland,Unnamed,5
+2241,NS8309,6,SLK,South Lanarkshire,Mainland,Unnamed,8
+2242,NS8310,4.8,SLK,South Lanarkshire,Mainland,Unnamed,5
+2243,NS8315,2,SLK,South Lanarkshire,Mainland,Unnamed,5
+2244,NS8401,0.6,SLK,South Lanarkshire,Mainland,Unnamed,2
+2245,NS8414,0.7,SLK,South Lanarkshire,Mainland,Unnamed,2
+2246,NS8417,1.3,SLK,South Lanarkshire,Mainland,Unnamed,5
+2247,NS8427,9,SLK,South Lanarkshire,Mainland,Unnamed,8
+2248,NS8429,0.1,SLK,South Lanarkshire,Mainland,Unnamed,2
+2249,NS8518,0.6,SLK,South Lanarkshire,Mainland,Unnamed,2
+2250,NS8519,0.2,SLK,South Lanarkshire,Mainland,Unnamed,2
+2251,NS8520,0.2,SLK,South Lanarkshire,Mainland,Unnamed,2
+2252,NS9001,0.4,SLK,South Lanarkshire,Mainland,Unnamed,2
+2253,NS9101,2.5,SLK,South Lanarkshire,Mainland,Unnamed,5
+2254,NS9201,1.2,SLK,South Lanarkshire,Mainland,Unnamed,5
+2255,NS9302,0.2,SLK,South Lanarkshire,Mainland,Unnamed,2
+2256,NS9303,2,SLK,South Lanarkshire,Mainland,Lochlyoch Reservoir,5
+2257,NS9307,0.2,SLK,South Lanarkshire,Mainland,Unnamed,2
+2258,NS6803,14,STL,Stirling,Mainland,Loch Walton,15
+2259,NS4904,0.4,STL,Stirling,Mainland,Unnamed,2
+2260,NS4709,48,WDU,West Dunbartonshire,Mainland,Burncrooks Reservoir,15
+2261,NS9711,13,WLT,West Lothian,Mainland,Lochcote Reservoir,15
+2262,NT0603,0.8,WLT,West Lothian,Mainland,Unnamed,2
+2263,NT0705,7.9,WLT,West Lothian,Mainland,Unnamed,8
+2264,HY3205,0.6,OKN,Orkney Islands,Mainland Orkney,Loch of Vastray,2
+2265,HY6202,1.2,OKN,Orkney Islands,Stronsay,Unnamed,5
+2266,HY4204,0.6,OKN,Orkney Islands,Gairsay,Unnamed,2
+2267,NB24109,5.6,NEL,Na h-Eileanan an Iar,Lewis,Loch Ordais,8
+2268,NF7716,0.2,NEL,Na h-Eileanan an Iar,Vallay,Unnamed,2
+2269,NS2807,4.7,AAB,Argyll and Bute,Mainland,Lindowan Reservoir,5
+2270,NS2901,2.1,AAB,Argyll and Bute,Mainland,Corran Lochan,5
+2271,NS3804,4,AAB,Argyll and Bute,Mainland,Unnamed,5
+2272,NS3805,1.5,AAB,Argyll and Bute,Mainland,Unnamed,5
+2273,NN1113,26,AAB,Argyll and Bute,Mainland,Dubh Loch,15
+2274,NT1912,70.5,FIF,Fife,Mainland,Loch Fitty,25
+2275,NT2807,10.5,FIF,Fife,Mainland,Kinghorn Loch,15
+2276,NT0804,14.4,FIF,Fife,Mainland,Town Loch,15
+2277,NT0908,50.5,FIF,Fife,Mainland,Loch Glow,25
+2278,NT2602,6,EDB,City of Edinburgh,Mainland,Clubbiedean Reservoir,8
+2279,NT2604,0.2,EDB,City of Edinburgh,Mainland,Unnamed,2
+2280,NT2707,1.9,EDB,City of Edinburgh,Mainland,Unnamed,5
+2281,NT2710,0.6,EDB,City of Edinburgh,Mainland,Unnamed,2
+2282,NT1705,1.2,EDB,City of Edinburgh,Mainland,Unnamed,5
+2283,NT5801,0.3,ELO,East Lothian,Mainland,Unnamed,2
+2284,NT6704,13,ELO,East Lothian,Mainland,Unnamed,15
+2285,NT6801,0.2,ELO,East Lothian,Mainland,Unnamed,2
+2286,NT6802,0.9,ELO,East Lothian,Mainland,Unnamed,2
+2287,NT7703,0.4,ELO,East Lothian,Mainland,Unnamed,2
+2288,NT4601,0.2,ELO,East Lothian,Mainland,Unnamed,2
+2289,NT4703,2.2,ELO,East Lothian,Mainland,Unnamed,5
+2290,HU4842,0.2,STL,Shetland Islands,Yell,Unnamed,2
+2291,NS2501,2,NAY,North Ayrshire,Mainland,Haylie Reservoir,5
+2292,NS2602,6,NAY,North Ayrshire,Mainland,Kelly Reservoir,8
+2293,NS2603,0.3,NAY,North Ayrshire,Mainland,Blackfield Loch,2
+2294,NS3301,4.2,NAY,North Ayrshire,Mainland,Unnamed,5
+2295,NS3416,6.1,NAY,North Ayrshire,Mainland,Unnamed,8
+2296,NX3806,6.5,DAG,Dumfries and Galloway,Mainland,Kirriereoch Loch,8
+2297,NT2001,2.1,DAG,Dumfries and Galloway,Mainland,Moodlaw Loch,5
+2298,NY2802,9.1,DAG,Dumfries and Galloway,Mainland,Winterhope Reservoir,8
+2299,NY2901,36.5,DAG,Dumfries and Galloway,Mainland,Black Esk Reservoir,15
+2300,NY3701,0.1,DAG,Dumfries and Galloway,Mainland,Unnamed,2
+2301,NS7001,1.2,DAG,Dumfries and Galloway,Mainland,Unnamed,5
+2302,NS7101,0.4,DAG,Dumfries and Galloway,Mainland,Unnamed,2
+2303,NX4414,2.3,DAG,Dumfries and Galloway,Mainland,Unnamed,5
+2304,NX4503,0.7,DAG,Dumfries and Galloway,Mainland,Unnamed,2
+2305,NX4607,2.3,DAG,Dumfries and Galloway,Mainland,Bruntis Loch,5
+2306,NX6802,1.5,DAG,Dumfries and Galloway,Mainland,McKay's Loch,5
+2307,NX6902,31,DAG,Dumfries and Galloway,Mainland,Kendoon Loch,15
+2308,NX7407,0.9,DAG,Dumfries and Galloway,Mainland,Unnamed,2
+2309,NX7505,4.2,DAG,Dumfries and Galloway,Mainland,Jordieland Loch,5
+2310,NX4709,3.1,DAG,Dumfries and Galloway,Mainland,Black Loch,5
+2311,NT0008,3,DAG,Dumfries and Galloway,Mainland,Unnamed,5
+2312,NX7702,2,DAG,Dumfries and Galloway,Mainland,Lowes Lochs,5
+2313,NX7803,48,DAG,Dumfries and Galloway,Mainland,Loch Urr,15
+2314,NX7901,0.8,DAG,Dumfries and Galloway,Mainland,Stroanshalloch Loch,2
+2315,NX7902,2.8,DAG,Dumfries and Galloway,Mainland,Troston Loch,5
+2316,NX8401,2.6,DAG,Dumfries and Galloway,Mainland,Loch Mackie,5
+2317,NW9603,18,DAG,Dumfries and Galloway,Mainland,Unnamed,15
+2318,NW9703,0.8,DAG,Dumfries and Galloway,Mainland,Unnamed,2
+2319,NS8004,0.8,DAG,Dumfries and Galloway,Mainland,Waddels Loch,2
+2320,NX5401,0.9,DAG,Dumfries and Galloway,Mainland,Unnamed,2
+2321,NS8106,0.2,DAG,Dumfries and Galloway,Mainland,Unnamed,2
+2322,NX0404,0.6,DAG,Dumfries and Galloway,Mainland,Unnamed,2
+2323,NX0510,0.3,DAG,Dumfries and Galloway,Mainland,Unnamed,2
+2324,NX0601,20.4,DAG,Dumfries and Galloway,Mainland,Loch Connell,15
+2325,NX1301,1.5,DAG,Dumfries and Galloway,Mainland,Unnamed,5
+2326,NX1515,0.4,DAG,Dumfries and Galloway,Mainland,Unnamed,2
+2327,NT1003,0.2,DAG,Dumfries and Galloway,Mainland,Unnamed,2
+2328,NX5701,381.6,DAG,Dumfries and Galloway,Mainland,Clatteringshaws Loch,50
+2329,NX5815,0.5,DAG,Dumfries and Galloway,Mainland,Unnamed,2
+2330,NX5905,0.6,DAG,Dumfries and Galloway,Mainland,Unnamed,2
+2331,NX6402,0.2,DAG,Dumfries and Galloway,Mainland,Unnamed,2
+2332,NX6403,0.1,DAG,Dumfries and Galloway,Mainland,Unnamed,2
+2333,NX1606,49.6,DAG,Dumfries and Galloway,Mainland,Black Loch,15
+2334,NX6418,1.5,DAG,Dumfries and Galloway,Mainland,Unnamed,5
+2335,NX8511,12.2,DAG,Dumfries and Galloway,Mainland,White Loch,15
+2336,NX8604,3.1,DAG,Dumfries and Galloway,Mainland,Edingham Loch,5
+2337,NX8608,3.8,DAG,Dumfries and Galloway,Mainland,Unnamed,5
+2338,NX8812,1.5,DAG,Dumfries and Galloway,Mainland,Unnamed,5
+2339,NX8911,4.2,DAG,Dumfries and Galloway,Mainland,Morton Loch,5
+2340,NX6532,0.5,DAG,Dumfries and Galloway,Mainland,Unnamed,2
+2341,NX6533,0.8,DAG,Dumfries and Galloway,Mainland,Unnamed,2
+2342,NX6614,20.8,DAG,Dumfries and Galloway,Mainland,Bargatton Loch,15
+2343,NX9501,0.2,DAG,Dumfries and Galloway,Mainland,Unnamed,2
+2344,NX9601,26.6,DAG,Dumfries and Galloway,Mainland,Loch Arthur,15
+2345,NX9604,53.4,DAG,Dumfries and Galloway,Mainland,Loch Kindar,25
+2346,NX9703,21,DAG,Dumfries and Galloway,Mainland,Lochaber Loch,15
+2347,NX9821,3.8,DAG,Dumfries and Galloway,Mainland,Unnamed,5
+2348,NX9907,7.5,DAG,Dumfries and Galloway,Mainland,Loch Ettrick,8
+2349,NY0602,0.9,DAG,Dumfries and Galloway,Mainland,Unnamed,2
+2350,NY0707,0.9,DAG,Dumfries and Galloway,Mainland,Unnamed,2
+2351,NX3901,24.6,SAY,South Ayrshire,Mainland,Linfern Loch,15
+2352,NS2021,0.3,SAY,South Ayrshire,Mainland,Unnamed,2
+2353,NS2029,0.2,SAY,South Ayrshire,Mainland,Unnamed,2
+2354,NS2102,2.2,SAY,South Ayrshire,Mainland,Unnamed,5
+2355,NS3001,0.4,SAY,South Ayrshire,Mainland,Unnamed,2
+2356,NS3002,0.1,SAY,South Ayrshire,Mainland,Unnamed,2
+2357,NS4104,0.1,SAY,South Ayrshire,Mainland,Unnamed,2
+2358,NS3201,1,SAY,South Ayrshire,Mainland,Unnamed,5
+2359,NS3309,1.4,SAY,South Ayrshire,Mainland,Unnamed,5
+2360,NS3311,3.5,SAY,South Ayrshire,Mainland,Unnamed,5
+2361,NX0701,8,SAY,South Ayrshire,Mainland,Kilantringan Loch,8
+2362,NX0801,0.4,SAY,South Ayrshire,Mainland,Unnamed,2
+2363,NX1801,5,SAY,South Ayrshire,Mainland,Loch Melemon,8
+2364,NX1802,0.2,SAY,South Ayrshire,Mainland,Unnamed,2
+2365,NX1905,0.5,SAY,South Ayrshire,Mainland,Unnamed,2
+2366,NX2704,1,SAY,South Ayrshire,Mainland,Long Loch,5
+2367,NX2706,1.9,SAY,South Ayrshire,Mainland,Black Loch,5
+2368,NX2806,0.9,SAY,South Ayrshire,Mainland,Near Eyes Stanks,2
+2369,NT4214,11.9,SBD,Scottish Borders,Mainland,Akermoor Loch,15
+2370,NR9321,0.1,NAY,North Ayrshire,Arran,Unnamed,2
+2371,NT2711,1.1,EDB,City of Edinburgh,Mainland,Dunsapie Loch,5
+2372,NS2409,1.4,NAY,North Ayrshire,Mainland,Stevenston or Ashgrove Loch,5
+2373,NT1608,17,EDB,City of Edinburgh,Mainland,Threipmuir Reservoir,15
+2374,NX0802,0.9,SAY,South Ayrshire,Mainland,Unnamed,2
+2375,NX3301,0.4,DAG,Dumfries and Galloway,Mainland,Unnamed,2
+2376,NT0905,4.4,FIF,Fife,Mainland,Black Loch,5
+2377,NS5507,28.1,ERE,East Renfrewshire,Mainland,Brother Loch,15
+2378,NS5508,3.5,ERE,East Renfrewshire,Mainland,Little Loch,5
+2379,NT4111,6.2,SBD,Scottish Borders,Mainland,Branxholme Easter Loch,8
+2380,NS4004,25.2,EAY,East Ayrshire,Mainland,Bogton Loch,15
+2381,NX5601,0.1,DAG,Dumfries and Galloway,Mainland,Coo Lochans,2
+2382,NX5602,0.1,DAG,Dumfries and Galloway,Mainland,Coo Lochans,2
+2383,NT2907,5,FIF,Fife,Mainland,Camilla Loch,8
+2384,NX5516,0.9,DAG,Dumfries and Galloway,Mainland,Unnamed,2
+2385,NX5517,0.8,DAG,Dumfries and Galloway,Mainland,Unnamed,2
+2386,NS3504,89.1,RFR,Renfrewshire,Mainland,Castle Semple Loch,25
+2387,NS3505,81.5,RFR,Renfrewshire,Mainland,Barr Loch,25
+2388,NS8809,11.3,FKK,Falkirk,Mainland,Unnamed,15
+2389,NY0821,71.9,DAG,Dumfries and Galloway,Mainland,Castle Loch,25
+2390,NT1814,4.2,FIF,Fife,Mainland,Unnamed,5
+2391,NT8303,13.5,SBD,Scottish Borders,Mainland,Hoselaw Loch,15
+2392,NT2712,7.2,EDB,City of Edinburgh,Mainland,Duddingston Loch,8
+2393,NS4708,3,WDU,West Dunbartonshire,Mainland,Lily Loch,5
+2394,NX2504,19.1,DAG,Dumfries and Galloway,Mainland,Dernaglar Loch,15
+2395,NS2707,1.9,IVC,Inverclyde,Mainland,Unnamed,5
+2396,NS2711,2.2,IVC,Inverclyde,Mainland,Unnamed,5
+2397,NS4803,13.4,WDU,West Dunbartonshire,Mainland,Unnamed,15
+2398,NT4501,1.3,MDT,Midlothian,Mainland,Fala Flow,5
+2399,NT2514,153.9,MDT,Midlothian,Mainland,Gladhouse Reservoir,50
+2400,NT3511,0.5,MDT,Midlothian,Mainland,Unnamed,2
+2401,NS9905,60.5,CLM,Clackmannanshire,Mainland,Gartmorn Dam,25
+2402,NT7401,7.6,SBD,Scottish Borders,Mainland,Hule Moss,8
+2403,NT7402,1.5,SBD,Scottish Borders,Mainland,Unnamed,5
+2404,NS3607,2.4,RFR,Renfrewshire,Mainland,Unnamed,5
+2405,NT6001,0.1,SBD,Scottish Borders,Mainland,Unnamed,2
+2406,NT3106,6.6,SBD,Scottish Borders,Mainland,Kingside Loch,8
+2407,NX1805,0.2,SAY,South Ayrshire,Mainland,Unnamed,2
+2408,NX6718,29.9,DAG,Dumfries and Galloway,Mainland,Stroan Loch,15
+2409,NT4210,0.9,SBD,Scottish Borders,Mainland,Unnamed,2
+2410,NT0702,42.1,WLT,West Lothian,Mainland,Linlithgow Loch,15
+2411,NX4913,766.6,EAY,East Ayrshire,Mainland,Loch Doon,80
+2412,NS4504,0.3,ERE,East Renfrewshire,Mainland,Loch Libo,2
+2413,NX3502,11.7,DAG,Dumfries and Galloway,Mainland,Black Loch,15
+2414,NS3112,38.1,SAY,South Ayrshire,Mainland,Martnaham Loch,15
+2415,NX8708,59.3,DAG,Dumfries and Galloway,Mainland,Milton Loch,25
+2416,NX5803,40.2,DAG,Dumfries and Galloway,Mainland,Loch Dungeon,15
+2417,NS7902,0.1,STL,Stirling,Mainland,Unnamed,2
+2418,NT8701,0.4,SBD,Scottish Borders,Mainland,Unnamed,2
+2419,NT4213,1.6,SBD,Scottish Borders,Mainland,Unnamed,5
+2420,NT8404,11.8,SBD,Scottish Borders,Mainland,Hirsel Lake,15
+2421,NX7616,39.3,DAG,Dumfries and Galloway,Mainland,Carlingwark Loch,15
+2422,NT4217,2.5,SBD,Scottish Borders,Mainland,Unnamed,5
+2423,NS7605,19.6,NLK,North Lanarkshire,Mainland,Woodend Loch,15
+2424,NX6616,63.3,DAG,Dumfries and Galloway,Mainland,Woodhall Loch,25
+2425,NT6202,0.8,SBD,Scottish Borders,Mainland,Unnamed,2
+2426,NT8202,16.8,SBD,Scottish Borders,Mainland,Yetholm Loch,15
+2427,NX1701,0.5,DAG,Dumfries and Galloway,Mainland,Unnamed,2
+2428,NT4801,1.1,ELO,East Lothian,Mainland,Unnamed,5
+2429,NS7202,0.9,EAY,East Ayrshire,Mainland,Unnamed,2
+2430,NS7203,0.7,EAY,East Ayrshire,Mainland,Unnamed,2
+2431,NS0202,1.9,NAY,North Ayrshire,Arran,Loch na Leirg,5
+2432,NR9201,4.2,NAY,North Ayrshire,Arran,Loch Cnoc an Loch,5
+2433,NR9202,0.8,NAY,North Ayrshire,Arran,Unnamed,2
+2434,NR9318,0.2,NAY,North Ayrshire,Arran,Unnamed,2
+2435,NX2902,45.1,SAY,South Ayrshire,Mainland,Penwhapple Reservoir,15
+2436,NX2907,0.7,SAY,South Ayrshire,Mainland,Dinmurchie Loch,2
+2437,NS1003,0.1,SAY,South Ayrshire,Mainland,Unnamed,2
+2438,NM4601,3.8,HLD,Highland,Mainland,Loch Grigadale,5
+2439,NC1341,2,HLD,Highland,Mainland,Unnamed,5
+2440,NC1318,3.5,HLD,Highland,Mainland,Lochan na Dubh Leitir,5
+2441,NC1320,1.6,HLD,Highland,Mainland,Lochan Torr an Lochain,5
+2442,NC1345,0.9,HLD,Highland,Mainland,Unnamed,2
+2443,NC1347,1,HLD,Highland,Mainland,Unnamed,5
+2444,NC1301,5.5,HLD,Highland,Mainland,Loch a' Mhuillinn,8
+2445,NH2807,0.25,HLD,Highland,Mainland,Unnamed,2
+2446,NH2809,13,HLD,Highland,Mainland,Loch a' Choire Ghranda,15
+2447,NH3701,14,HLD,Highland,Mainland,Gorm Loch,15
+2448,NH2707,32,HLD,Highland,Mainland,Loch a' Gharbhrain,15
+2449,NN4716,3.5,HLD,Highland,Mainland,Loch Coire Cheap,5
+2450,NN4722,15,HLD,Highland,Mainland,Loch an Sgoir,15
+2451,NN5702,67,HLD,Highland,Mainland,Loch Pattack,25
+2452,NN6402,13.3,PAK,Perth and Kinross,Mainland,Lochan nan Cat,15
+2453,NN6404,1.5,PAK,Perth and Kinross,Mainland,Lochan nan Uan*,5
+2454,NN1710,9.5,HLD,Highland,Mainland,Lochan Meall an t-Suidhe,8
+2455,NN1711,0.2,HLD,Highland,Mainland,Unnamed,2
+2456,NN1712,0.2,HLD,Highland,Mainland,Unnamed,2
+2457,NH4714,8,HLD,Highland,Mainland,Loch nan Druidean,8
+2458,ND0611,2.5,HLD,Highland,Mainland,Lochan Ealach,5
+2459,NX4311,0.9,DAG,Dumfries and Galloway,Mainland,Unnamed,2
+2460,NH8037,54,HLD,Highland,Mainland,Loch an Eilein,25
+2461,NH8038,9.5,HLD,Highland,Mainland,Loch Gamhna,8
+2462,NJ0011,57,MRA,Moray,Mainland,Loch Avon,25
+2463,NJ0012,0.6,MRA,Moray,Mainland,Unnamed,2
+2464,NJ0016,24,ABD,Aberdeenshire,Mainland,Loch Etchachan,15
+2465,NJ0017,0.8,ABD,Aberdeenshire,Mainland,Unnamed,2
+2466,NN9901,72,HLD,Highland,Mainland,Loch Einich,25
+2467,NO0902,0.7,ABD,Aberdeenshire,Mainland,Lochan Uaine,2
+2468,NO0905,1.8,ABD,Aberdeenshire,Mainland,Unnamed,5
+2469,NH8031,0.25,HLD,Highland,Mainland,Unnamed,2
+2470,NH8032,2.5,HLD,Highland,Mainland,Unnamed,5
+2471,NJ0106,1.4,HLD,Highland,Mainland,An Lochan Uaine,5
+2472,NH9120,9.8,HLD,Highland,Mainland,Loch Mallachie,8
+2473,NH9121,40,HLD,Highland,Mainland,Loch Garten,15
+2474,NM7601,0.3,HLD,Highland,Mainland,Unnamed,2
+2475,NM7602,0.4,HLD,Highland,Mainland,Unnamed,2
+2476,NG8201,1.4,HLD,Highland,Mainland,Unnamed,5
+2477,NM1505,0.75,AAB,Argyll and Bute,Coll,Unnamed,2
+2478,NM1506,0.7,AAB,Argyll and Bute,Coll,Lochan a' Chuirn,2
+2479,NM1502,1.9,AAB,Argyll and Bute,Coll,Unnamed,5
+2480,NN4805,0.6,HLD,Highland,Mainland,Unnamed,2
+2481,NN4806,0.1,HLD,Highland,Mainland,Unnamed,2
+2482,NN4807,2.5,HLD,Highland,Mainland,Lochan Uaine,5
+2483,NN4809,7.5,HLD,Highland,Mainland,Lochan a Choire,8
+2484,NH8802,6,HLD,Highland,Mainland,Loch nan Tunnag,8
+2485,NH8803,2,HLD,Highland,Mainland,Loch nan Tunnag,5
+2486,NH8804,2.5,HLD,Highland,Mainland,Loch na Muic,5
+2487,NH8805,0.6,HLD,Highland,Mainland,Red Stripe Loch*,2
+2488,NH8806,2,HLD,Highland,Mainland,Loch Preas an Uisge,5
+2489,NH7818,14,HLD,Highland,Mainland,Loch Evelix,15
+2490,NO0413,29.5,PAK,Perth and Kinross,Mainland,Loch of Craiglush,15
+2491,NO1402,51.2,PAK,Perth and Kinross,Mainland,Loch of Clunie,25
+2492,NO1403,71.1,PAK,Perth and Kinross,Mainland,Loch of Drumellie or Marlee Loch,25
+2493,NC3605,3.5,HLD,Highland,Mainland,Loch Lanlish,5
+2494,NC3606,10,HLD,Highland,Mainland,Loch Croispol,15
+2495,NC3607,35,HLD,Highland,Mainland,Loch Borralie,15
+2496,NC3608,24,HLD,Highland,Mainland,Loch Caladail,15
+2497,HU4961,5.7,STL,Shetland Islands,Yell,Loch of Windhouse,8
+2498,NR3508,1,AAB,Argyll and Bute,Islay,Loch Airigh Dhaibhaidh,5
+2499,NR3514,0.3,AAB,Argyll and Bute,Islay,Unnamed,2
+2500,HZ2701,0.2,STL,Shetland Islands,Fair Isle,Unnamed,2
+2501,HZ2702,0.1,STL,Shetland Islands,Fair Isle,Unnamed,2
+2502,NR2607,1.25,AAB,Argyll and Bute,Islay,Unnamed,5
+2503,NR2608,0.25,AAB,Argyll and Bute,Islay,Unnamed,2
+2504,NR2610,0.1,AAB,Argyll and Bute,Islay,Unnamed,2
+2505,NC3402,25,HLD,Highland,Mainland,Loch Dionard,15
+2506,NC3406,42,HLD,Highland,Mainland,Loch na Tuadh,15
+2507,NC3409,30,HLD,Highland,Mainland,Loch an Easain Uaine,15
+2508,NC3410,5,HLD,Highland,Mainland,An Dubh-loch,8
+2509,NC3414,4.6,HLD,Highland,Mainland,Lochan Ulbha,5
+2510,NC3415,2.2,HLD,Highland,Mainland,Unnamed,5
+2511,NC3416,6.5,HLD,Highland,Mainland,Lochan na Faoileige,8
+2512,NC3417,14,HLD,Highland,Mainland,Loch na Seilge,15
+2513,NC2406,3.5,HLD,Highland,Mainland,Unnamed,5
+2514,NC2407,20,HLD,Highland,Mainland,Blarloch Mor,15
+2515,NC2408,8,HLD,Highland,Mainland,Loch Cul Uidh an Tuim,8
+2516,NC2449,17.5,HLD,Highland,Mainland,Loch an Nighe Leathaid,15
+2517,NC3452,0.5,HLD,Highland,Mainland,Unnamed,2
+2518,NC3453,0.25,HLD,Highland,Mainland,Unnamed,2
+2519,NC3454,0.9,HLD,Highland,Mainland,Unnamed,2
+2520,NC3503,3,HLD,Highland,Mainland,Lochan Sgeireach,5
+2521,NC3504,5,HLD,Highland,Mainland,Unnamed,8
+2522,NC3508,0.3,HLD,Highland,Mainland,Unnamed,2
+2523,NC2413,31,HLD,Highland,Mainland,Loch a' Garbh-bhaid Mor,15
+2524,NC2414,3,HLD,Highland,Mainland,Unnamed,5
+2525,NC2415,2.5,HLD,Highland,Mainland,Unnamed,5
+2526,NC2416,2.5,HLD,Highland,Mainland,Unnamed,5
+2527,NC2417,2.5,HLD,Highland,Mainland,Unnamed,5
+2528,NC2508,16,HLD,Highland,Mainland,Loch Tarbhaidh,15
+2529,NC2509,1.8,HLD,Highland,Mainland,Lochain Dubha,5
+2530,NC3510,1,HLD,Highland,Mainland,Unnamed,5
+2531,NC3511,2,HLD,Highland,Mainland,Unnamed,5
+2532,NC3513,0.4,HLD,Highland,Mainland,Unnamed,2
+2533,NC3515,1.8,HLD,Highland,Mainland,Unnamed,5
+2534,NC25139,1.4,HLD,Highland,Mainland,Unnamed,5
+2535,NC25141,0.2,HLD,Highland,Mainland,Unnamed,2
+2536,NC25143,1,HLD,Highland,Mainland,Unnamed,5
+2537,NC25144,0.8,HLD,Highland,Mainland,Unnamed,2
+2538,NC25145,1,HLD,Highland,Mainland,Unnamed,5
+2539,NC25161,2,HLD,Highland,Mainland,Lochain Dubha,5
+2540,NC25186,0.9,HLD,Highland,Mainland,Unnamed,2
+2541,NC25187,0.2,HLD,Highland,Mainland,Unnamed,2
+2542,NC25188,1.8,HLD,Highland,Mainland,Unnamed,5
+2543,NC25189,3.5,HLD,Highland,Mainland,Unnamed,5
+2544,NC25190,0.4,HLD,Highland,Mainland,Unnamed,2
+2545,NC25200,0.1,HLD,Highland,Mainland,Unnamed,2
+2546,NC25201,0.1,HLD,Highland,Mainland,Unnamed,2
+2547,NC2521,10,HLD,Highland,Mainland,Lochan Cul na Creige,15
+2548,NC2522,55,HLD,Highland,Mainland,Loch na Claise Carnaich,25
+2549,NC2523,9,HLD,Highland,Mainland,Loch an Eas Ghairbh,8
+2550,NC2531,16,HLD,Highland,Mainland,Mathair a' Gharbh Uilt,15
+2551,NC2542,0.7,HLD,Highland,Mainland,Unnamed,2
+2552,NX3715,0.1,DAG,Dumfries and Galloway,Mainland,Dow Lochs,2
+2553,NN1502,13,HLD,Highland,Mainland,Loch Achtriochtan,15
+2554,NN1503,0.2,HLD,Highland,Mainland,Unnamed,2
+2555,NN1504,0.1,HLD,Highland,Mainland,Unnamed,2
+2556,NN1505,0.2,HLD,Highland,Mainland,Unnamed,2
+2557,HY1001,0.4,OKN,Orkney Islands,Hoy,Loch of Grutfea,2
+2558,HY2001,3.8,OKN,Orkney Islands,Hoy,Sandy Loch,5
+2559,HY2002,0.2,OKN,Orkney Islands,Mainland Orkney,South Dam*,2
+2560,ND2801,0.6,OKN,Orkney Islands,Hoy,Loch of Torness*,2
+2561,ND2802,0.3,OKN,Orkney Islands,Hoy,Loomi Shuns,2
+2562,ND2803,0.3,OKN,Orkney Islands,Hoy,Loomi Shuns,2
+2563,ND2804,0.4,OKN,Orkney Islands,Hoy,Loomi Shuns,2
+2564,ND2901,1,OKN,Orkney Islands,Hoy,Berry Lochs,5
+2565,ND2903,61,OKN,Orkney Islands,Hoy,Heldale Water,25
+2566,ND2905,3,OKN,Orkney Islands,Hoy,Sands Water,5
+2567,ND2906,1.4,OKN,Orkney Islands,Hoy,Water of Hoy,5
+2568,ND29112,1,OKN,Orkney Islands,Hoy,Berry Lochs,5
+2569,NC2144,0.4,HLD,Highland,Mainland,Unnamed,2
+2570,NC2103,7.5,HLD,Highland,Mainland,Loch Mhaolach-coire,8
+2571,NH8009,0.2,HLD,Highland,Mainland,Unnamed,2
+2572,NH8010,0.6,HLD,Highland,Mainland,Unnamed,2
+2573,NH8012,0.5,HLD,Highland,Mainland,Unnamed,2
+2574,NH8013,2.2,HLD,Highland,Mainland,Unnamed,5
+2575,NH8014,0.1,HLD,Highland,Mainland,Unnamed,2
+2576,NH8015,2.1,HLD,Highland,Mainland,Unnamed,5
+2577,NH8017,1.8,HLD,Highland,Mainland,Unnamed,5
+2578,NH8018,124,HLD,Highland,Mainland,Loch Insh,50
+2579,NH8019,0.4,HLD,Highland,Mainland,Unnamed,2
+2580,NH8020,0.2,HLD,Highland,Mainland,Unnamed,2
+2581,NH8021,2,HLD,Highland,Mainland,Unnamed,5
+2582,NH8022,0.3,HLD,Highland,Mainland,Unnamed,2
+2583,NH8041,1.5,HLD,Highland,Mainland,Unnamed,5
+2584,NH8042,0.3,HLD,Highland,Mainland,Unnamed,2
+2585,NH8043,3,HLD,Highland,Mainland,Unnamed,5
+2586,NH8044,0.4,HLD,Highland,Mainland,Unnamed,2
+2587,NH7007,2.2,HLD,Highland,Mainland,Unnamed,5
+2588,NH7009,1.2,HLD,Highland,Mainland,Unnamed,5
+2589,NH7010,0.01,HLD,Highland,Mainland,Unnamed,2
+2590,NG7811,3.4,HLD,Highland,Mainland,Loch na Feithe Dirich,5
+2591,NG7915,3,HLD,Highland,Mainland,Unnamed,5
+2592,NC6615,1.3,HLD,Highland,Mainland,Lochan Drum an Duin,5
+2593,NC0005,19,HLD,Highland,Mainland,Loch Bad na h-Achlaise,15
+2594,NC0114,4,HLD,Highland,Mainland,Lochan Sal,5
+2595,NC0119,26,HLD,Highland,Mainland,Loch Buine Moire,15
+2596,NC0126,0.6,HLD,Highland,Mainland,Unnamed,2
+2597,NC0127,4.5,HLD,Highland,Mainland,Unnamed,5
+2598,NC0128,20,HLD,Highland,Mainland,Loch Call an Uidhean,15
+2599,NC0129,0.5,HLD,Highland,Mainland,Unnamed,2
+2600,NC0137,5,HLD,Highland,Mainland,Loch na Dail,8
+2601,NC0138,2,HLD,Highland,Mainland,Unnamed,5
+2602,NC0139,18,HLD,Highland,Mainland,Loch Uidh Tarraigean,15
+2603,NC0140,5,HLD,Highland,Mainland,Polly Lochs,8
+2604,NC0159,264,HLD,Highland,Mainland,Loch Bad a' Ghaill,50
+2605,NC1003,7,HLD,Highland,Mainland,Loch nan Ealachan,8
+2606,NC1004,0.7,HLD,Highland,Mainland,Unnamed,2
+2607,NC1005,14,HLD,Highland,Mainland,Lochan an Ais,15
+2608,NC1009,3.5,HLD,Highland,Mainland,Lochan Fada,5
+2609,NC1010,3,HLD,Highland,Mainland,Clar Loch Beag,5
+2610,NC1013,10,HLD,Highland,Mainland,Clar Loch Mor,15
+2611,NC1014,2.5,HLD,Highland,Mainland,Unnamed,5
+2612,NC1016,5,HLD,Highland,Mainland,Unnamed,8
+2613,NC1022,3,HLD,Highland,Mainland,Loch Dhonnachaidh,5
+2614,NC0101,7,HLD,Highland,Mainland,Loch Rubha na Breige,8
+2615,NC0102,4,HLD,Highland,Mainland,Loch an Arbhair,5
+2616,NC0103,6,HLD,Highland,Mainland,Loch a' Choin,8
+2617,NC0105,4,HLD,Highland,Mainland,Lochan Fada,5
+2618,NC0162,1,HLD,Highland,Mainland,Unnamed,5
+2619,NC1158,240.9,HLD,Highland,Mainland,Loch Veyatie,50
+2620,NX2601,3.2,DAG,Dumfries and Galloway,Mainland,Eldrig Loch,5
+2621,NX1902,0.8,SAY,South Ayrshire,Mainland,Loch of Lochton,2
+2622,NB3211,18,NEL,Na h-Eileanan an Iar,Lewis,Loch Foid,15
+2623,NB3212,0.25,NEL,Na h-Eileanan an Iar,Lewis,Unnamed,2
+2624,NB3213,0.25,NEL,Na h-Eileanan an Iar,Lewis,Unnamed,2
+2625,NB3214,0.25,NEL,Na h-Eileanan an Iar,Lewis,Unnamed,2
+2626,NB3374,0.65,NEL,Na h-Eileanan an Iar,Lewis,Unnamed,2
+2627,NB5401,6,NEL,Na h-Eileanan an Iar,Lewis,Loch Scarrasdale,8
+2628,NB55198,0.35,NEL,Na h-Eileanan an Iar,Lewis,Unnamed,2
+2629,NB55199,0.2,NEL,Na h-Eileanan an Iar,Lewis,Unnamed,2
+2630,NB55200,0.2,NEL,Na h-Eileanan an Iar,Lewis,Unnamed,2
+2631,NB55201,0.2,NEL,Na h-Eileanan an Iar,Lewis,Unnamed,2
+2632,NM8301,14,AAB,Argyll and Bute,Lismore,Loch Fiart,15
+2633,NM8404,10,AAB,Argyll and Bute,Lismore,Loch Baile a' Ghobhainn,15
+2634,NG9719,911.7,HLD,Highland,Mainland,Fionn Loch,80
+2635,NL9419,96,AAB,Argyll and Bute,Tiree,Loch a' Phuill,25
+2636,NH6709,8,HLD,Highland,Mainland,Loch Achnacloich,8
+2637,NR3905,9.5,AAB,Argyll and Bute,Colonsay,Unnamed,8
+2638,NR3909,8,AAB,Argyll and Bute,Colonsay,Unnamed,8
+2639,NR3910,13,AAB,Argyll and Bute,Colonsay,Loch Fada,15
+2640,NS3902,8.2,STL,Stirling,Mainland,Dubh Lochan,8
+2641,NG9631,5,HLD,Highland,Mainland,Loch Bhanamhoir,8
+2642,NG9646,1,HLD,Highland,Mainland,Loch Allt an Daraich,5
+2643,NG9647,1,HLD,Highland,Mainland,Unnamed,5
+2644,NG9735,2875,HLD,Highland,Mainland,Loch Maree,120
+2645,NG9746,1.5,HLD,Highland,Mainland,Lochan on L. Maree Island,5
+2646,NG9747,2.5,HLD,Highland,Mainland,Lochan on L. Maree Island,5
+2647,NG9748,1.8,HLD,Highland,Mainland,Lochan on L. Maree Island,5
+2648,NG9749,2.3,HLD,Highland,Mainland,Lochan on L. Maree Island,5
+2649,NF9721,3.5,NEL,Na h-Eileanan an Iar,Keallasay More,Unnamed,5
+2650,NF9722,0.25,NEL,Na h-Eileanan an Iar,Keallasay More,Unnamed,2
+2651,NF9723,0.2,NEL,Na h-Eileanan an Iar,Keallasay More,Unnamed,2
+2652,NF9738,0.9,NEL,Na h-Eileanan an Iar,Keallasay Beg,Unnamed,2
+2653,NF9739,0.9,NEL,Na h-Eileanan an Iar,Keallasay Beg,Unnamed,2
+2654,NF9740,0.6,NEL,Na h-Eileanan an Iar,Keallasay Beg,Unnamed,2
+2655,HY2205,33,OKN,Orkney Islands,Mainland Orkney,Loch of Isbister,15
+2656,HY2206,0.9,OKN,Orkney Islands,Mainland Orkney,The Loons,2
+2657,HY2207,2,OKN,Orkney Islands,Mainland Orkney,The Loons,5
+2658,HY2208,0.5,OKN,Orkney Islands,Mainland Orkney,Unnamed,2
+2659,HY2212,0.9,OKN,Orkney Islands,Mainland Orkney,Unnamed,2
+2660,HY2216,0.4,OKN,Orkney Islands,Mainland Orkney,The Loons,2
+2661,HY2228,0.2,OKN,Orkney Islands,Mainland Orkney,Unnamed,2
+2662,ND3509,35,HLD,Highland,Mainland,Loch of Wester,15
+2663,NH6201,142,HLD,Highland,Mainland,Loch Ruthven,50
+2664,NH5501,84,HLD,Highland,Mainland,Loch Ussie,25
+2665,ND2507,362,HLD,Highland,Mainland,Loch Watten,50
+2666,NJ3606,1.1,MRA,Moray,Mainland,Unnamed,5
+2667,NX4823,37.2,DAG,Dumfries and Galloway,Mainland,Loch Valley,15
+2668,NX4826,3.6,DAG,Dumfries and Galloway,Mainland,Loch Narroch,5
+2669,NT1102,30.5,DAG,Dumfries and Galloway,Mainland,Loch Skeen,15
+2670,NT1103,0.1,DAG,Dumfries and Galloway,Mainland,Unnamed,2
+2671,NJ0410,1.2,MRA,Moray,Mainland,Unnamed,5
+2672,NJ0411,0.4,MRA,Moray,Mainland,Unnamed,2
+2673,NG6109,0.2,HLD,Highland,Skye,Unnamed,2
+2674,NG6110,1,HLD,Highland,Skye,Loch Dubh nan Breac,5
+2675,NG6111,0.4,HLD,Highland,Skye,Unnamed,2
+2676,NG6113,0.3,HLD,Highland,Skye,Unnamed,2
+2677,NG6220,0.15,HLD,Highland,Skye,Unnamed,2
+2678,NG6222,1.8,HLD,Highland,Skye,Loch an Droma Bhain,5
+2679,NG6223,6.8,HLD,Highland,Skye,Lochain Dubha,8
+2680,NG6224,4.5,HLD,Highland,Skye,Unnamed,5
+2681,NG6225,3,HLD,Highland,Skye,Unnamed,5
+2682,NG6226,0.8,HLD,Highland,Skye,Unnamed,2
+2683,NG6227,0.3,HLD,Highland,Skye,Unnamed,2
+2684,NG6228,2.6,HLD,Highland,Skye,Loch Airigh na Saorach,5
+2685,NH5544,0.2,HLD,Highland,Mainland,Unnamed,2
+2686,NH5545,0.5,HLD,Highland,Mainland,Unnamed,2
+2687,NH5546,0.1,HLD,Highland,Mainland,Unnamed,2
+2688,NH5547,0.4,HLD,Highland,Mainland,Unnamed,2
+2689,NH5531,0.25,HLD,Highland,Mainland,Unnamed,2
+2690,NH5532,0.25,HLD,Highland,Mainland,Unnamed,2
+2691,NH5539,0.2,HLD,Highland,Mainland,Unnamed,2
+2692,NH5540,0.1,HLD,Highland,Mainland,Unnamed,2
+2693,NH5541,0.1,HLD,Highland,Mainland,Unnamed,2
+2694,NO1902,0.2,ABD,Aberdeenshire,Mainland,Unnamed,2
+2695,NO4902,24,ABD,Aberdeenshire,Mainland,Loch Kinord,15
+2696,NJ4018,38,ABD,Aberdeenshire,Mainland,Loch Davan,15
+2697,NM6320,2,AAB,Argyll and Bute,Mull,Crun Lochan,5
+2698,NM7302,10,AAB,Argyll and Bute,Mull,Loch a' Ghleannain,15
+2699,NA9116,0.2,NEL,Na h-Eileanan an Iar,Harris,Unnamed,2
+2700,NA9117,0.15,NEL,Na h-Eileanan an Iar,Harris,Unnamed,2
+2701,NB0048,6.5,NEL,Na h-Eileanan an Iar,Harris,Lochan Beag,8
+2702,NB0067,1.2,NEL,Na h-Eileanan an Iar,Harris,Loch a' Mhuilinn,5
+2703,NB01159,31,NEL,Na h-Eileanan an Iar,Harris,Loch na Cleavag,15
+2704,NB01165,52,NEL,Na h-Eileanan an Iar,Harris,Loch a' Ghlinne,25
+2705,NB01175,4.5,NEL,Na h-Eileanan an Iar,Harris,Loch Maolaig,5
+2706,NB01176,7,NEL,Na h-Eileanan an Iar,Harris,Loch Ashavat,8
+2707,NB11101,0.2,NEL,Na h-Eileanan an Iar,Harris,Unnamed,2
+2708,NB11102,0.2,NEL,Na h-Eileanan an Iar,Harris,Unnamed,2
+2709,NB11103,9,NEL,Na h-Eileanan an Iar,Harris,Loch Chleistir,8
+2710,NB11144,6,NEL,Na h-Eileanan an Iar,Harris,Lochan Fheoir,8
+2711,NB11150,0.2,NEL,Na h-Eileanan an Iar,Harris,Unnamed,2
+2712,NB1171,21,NEL,Na h-Eileanan an Iar,Harris,Loch Voshimid,15
+2713,NB1172,0.25,NEL,Na h-Eileanan an Iar,Harris,Unnamed,2
+2714,NF7662,1.6,NEL,Na h-Eileanan an Iar,Baleshare,Loch Mhic Coan,5
+2715,NF7667,1.6,NEL,Na h-Eileanan an Iar,Baleshare,Unnamed,5
+2716,NF6701,1.1,NEL,Na h-Eileanan an Iar,North Uist,Unnamed,5
+2717,NF6702,0.7,NEL,Na h-Eileanan an Iar,North Uist,Unnamed,2
+2718,NF7723,9,NEL,Na h-Eileanan an Iar,North Uist,Loch Grogary,8
+2719,NF7725,4.8,NEL,Na h-Eileanan an Iar,North Uist,Loch na Reivil,5
+2720,NF7726,14,NEL,Na h-Eileanan an Iar,North Uist,Loch nam Feithean,15
+2721,NF7717,0.25,NEL,Na h-Eileanan an Iar,Vallay,Unnamed,2
+2722,NF86419,0.4,NEL,Na h-Eileanan an Iar,North Uist,Unnamed,2
+2723,NN2421,15,HLD,Highland,Mainland,Loch Buidhe,15
+2724,NN2422,0.2,HLD,Highland,Mainland,Unnamed,2
+2725,NN2514,0.1,HLD,Highland,Mainland,Unnamed,2
+2726,NN2516,17,HLD,Highland,Mainland,Lochan Mathair Eite,15
+2727,NN2518,0.2,HLD,Highland,Mainland,Unnamed,2
+2728,NN3401,27.2,HLD,Highland,Mainland,Lochan na Stainge,15
+2729,NN3407,0.1,HLD,Highland,Mainland,Unnamed,2
+2730,NN3408,278.7,HLD,Highland,Mainland,Loch Ba,50
+2731,NN3413,72.4,HLD,Highland,Mainland,Lochan na h-Achlaise,25
+2732,NN3524,0.2,HLD,Highland,Mainland,Unnamed,2
+2733,NN3525,0.2,HLD,Highland,Mainland,Unnamed,2
+2734,NN3531,23,HLD,Highland,Mainland,Lochan Gaineamhach,15
+2735,NN3538,0.7,HLD,Highland,Mainland,Unnamed,2
+2736,NN3556,1.2,HLD,Highland,Mainland,Unnamed,5
+2737,NN2410,0.2,HLD,Highland,Mainland,Unnamed,2
+2738,NN2414,0.9,HLD,Highland,Mainland,Unnamed,2
+2739,NN2415,0.6,HLD,Highland,Mainland,Unnamed,2
+2740,NR1501,0.15,AAB,Argyll and Bute,Islay,Unnamed,2
+2741,NR1502,2,AAB,Argyll and Bute,Islay,Unnamed,5
+2742,NR2601,11,AAB,Argyll and Bute,Islay,Loch Corr,15
+2743,NO1806,28.5,ABD,Aberdeenshire,Mainland,Loch Callater,15
+2744,NO4903,2.5,ABD,Aberdeenshire,Mainland,Unnamed,5
+2745,NC6305,563,HLD,Highland,Mainland,Loch Naver,80
+2746,NC6201,296,HLD,Highland,Mainland,Loch Choire,50
+2747,NC3202,69,HLD,Highland,Mainland,Gorm Loch Mor,25
+2748,NC3203,40,HLD,Highland,Mainland,Fionn Loch Mor,15
+2749,NC3204,15,HLD,Highland,Mainland,Fionn Loch Beag,15
+2750,NC3271,0.4,HLD,Highland,Mainland,Unnamed,2
+2751,NC3279,0.25,HLD,Highland,Mainland,Unnamed,2
+2752,NC3104,105,HLD,Highland,Mainland,Loch Ailsh,50
+2753,NN7701,37,PAK,Perth and Kinross,Mainland,Loch an Duin,15
+2754,NH9009,117,HLD,Highland,Mainland,Loch Morlich,50
+2755,NN7809,19.5,HLD,Highland,Mainland,Loch Bhrodainn,15
+2756,NN6905,3.5,HLD,Highland,Mainland,Lochain Uvie,5
+2757,NN6906,2,HLD,Highland,Mainland,Unnamed,5
+2758,NN6908,0.8,HLD,Highland,Mainland,Unnamed,2
+2759,NN6301,2629.1,PAK,Perth and Kinross,Mainland,Loch Tay,120
+2760,NN5505,1887.8,PAK,Perth and Kinross,Mainland,Loch Rannoch,100
+2761,NN4207,19.5,STL,Stirling,Mainland,Loch Dochart,15
+2762,NN4214,57.6,STL,Stirling,Mainland,Loch Iubhair,25
+2763,NN5002,77.1,STL,Stirling,Mainland,Loch Achray,25
+2764,NN5103,241.3,STL,Stirling,Mainland,Loch Lubnaig,50
+2765,NN4103,51,STL,Stirling,Mainland,Loch Doine,25
+2766,NN4104,218.8,STL,Stirling,Mainland,Loch Voil,50
+2767,NT2101,40.5,SBD,Scottish Borders,Mainland,Loch of the Lowes,15
+2768,NT2201,250.9,SBD,Scottish Borders,Mainland,St Mary's Loch,50
+2769,HU38103,3.4,STL,Shetland Islands,Mainland Shetland,Swabie Water,5
+2770,HU38108,5.6,STL,Shetland Islands,Mainland Shetland,Maadle Swankie,8
+2771,HU38119,4.3,STL,Shetland Islands,Mainland Shetland,Mill Lochs of Sandvoe,5
+2772,HU38124,47.7,STL,Shetland Islands,Mainland Shetland,Roer Water,15
+2773,HU3813,0.9,STL,Shetland Islands,Mainland Shetland,Unnamed,2
+2774,HU38133,2.2,STL,Shetland Islands,Mainland Shetland,Mill Lochs of Sandvoe,5
+2775,HU38144,0.25,STL,Shetland Islands,Mainland Shetland,Unnamed,2
+2776,HU38240,1.1,STL,Shetland Islands,Mainland Shetland,Mill Lochs of Sandvoe,5
+2777,HU3837,0.9,STL,Shetland Islands,Mainland Shetland,Unnamed,2
+2778,HU3881,25.2,STL,Shetland Islands,Mainland Shetland,Muckle Lunga Water,15
+2779,NK0202,3,ABD,Aberdeenshire,Mainland,Cotehill Loch,5
+2780,NK0204,4,ABD,Aberdeenshire,Mainland,Sand Loch,5
+2781,NG4222,0.05,HLD,Highland,Skye,Unnamed,2
+2782,NG4203,0.25,HLD,Highland,Skye,Unnamed,2
+2783,NG4204,0.3,HLD,Highland,Skye,Unnamed,2
+2784,NG4205,1.2,HLD,Highland,Skye,Loch Dubh,5
+2785,NG4212,2.5,HLD,Highland,Skye,Lochan Dubha,5
+2786,NG4213,2.8,HLD,Highland,Skye,Unnamed,5
+2787,NG4223,0.02,HLD,Highland,Skye,Unnamed,2
+2788,NG4224,0.02,HLD,Highland,Skye,Unnamed,2
+2789,NG4325,1.9,HLD,Highland,Skye,Loch nan Eilean,5
+2790,NG4327,1,HLD,Highland,Skye,Unnamed,5
+2791,NG4329,2.7,HLD,Highland,Skye,Loch Caol,5
+2792,NG4331,0.05,HLD,Highland,Skye,Unnamed,2
+2793,NG4201,0.7,HLD,Highland,Skye,Unnamed,2
+2794,NG4202,0.7,HLD,Highland,Skye,Unnamed,2
+2795,NG4309,0.3,HLD,Highland,Skye,Unnamed,2
+2796,NG4310,0.25,HLD,Highland,Skye,Unnamed,2
+2797,NG4311,0.9,HLD,Highland,Skye,Unnamed,2
+2798,NG4312,0.25,HLD,Highland,Skye,Unnamed,2
+2799,NG4313,0.8,HLD,Highland,Skye,Unnamed,2
+2800,NG4314,1.9,HLD,Highland,Skye,Loch a' Sgath,5
+2801,NG4315,0.5,HLD,Highland,Skye,Unnamed,2
+2802,NG4316,0.5,HLD,Highland,Skye,Unnamed,2
+2803,NG4317,0.4,HLD,Highland,Skye,Unnamed,2
+2804,NG4318,0.3,HLD,Highland,Skye,Unnamed,2
+2805,NG4320,0.5,HLD,Highland,Skye,Unnamed,2
+2806,NG4321,0.4,HLD,Highland,Skye,Unnamed,2
+2807,NG4322,2.8,HLD,Highland,Skye,Loch Mor na Caiplaich,5
+2808,NG4323,0.4,HLD,Highland,Skye,Unnamed,2
+2809,NG4324,0.3,HLD,Highland,Skye,Unnamed,2
+2810,NG4326,0.6,HLD,Highland,Skye,Unnamed,2
+2811,NG4330,0.25,HLD,Highland,Skye,Unnamed,2
+2812,NF7252,7.8,NEL,Na h-Eileanan an Iar,South Uist,Loch na Liana Moire,8
+2813,NF7260,3.2,NEL,Na h-Eileanan an Iar,South Uist,Loch na Cuithe Moire,5
+2814,NF7297,3,NEL,Na h-Eileanan an Iar,South Uist,Loch na Tanga,5
+2815,NF7299,35,NEL,Na h-Eileanan an Iar,South Uist,Loch Hallan,15
+2816,NF7201,6.6,NEL,Na h-Eileanan an Iar,South Uist,Loch Ardvule,8
+2817,NF7375,37,NEL,Na h-Eileanan an Iar,South Uist,West Loch Ollay,15
+2818,NF73105,32,NEL,Na h-Eileanan an Iar,South Uist,Mid Loch Ollay,15
+2819,NF73110,16,NEL,Na h-Eileanan an Iar,South Uist,Loch Toronish,15
+2820,NF7329,14,NEL,Na h-Eileanan an Iar,South Uist,Loch an Eilean,15
+2821,NF7333,8,NEL,Na h-Eileanan an Iar,South Uist,Schoolhouse Loch,8
+2822,NF7340,9.8,NEL,Na h-Eileanan an Iar,South Uist,Loch a' Phuirt Ruaidh,8
+2823,NF7342,13,NEL,Na h-Eileanan an Iar,South Uist,Loch Roag,15
+2824,NF7344,7.2,NEL,Na h-Eileanan an Iar,South Uist,Loch a' Chnoic Bhuidhe,8
+2825,NF7371,31,NEL,Na h-Eileanan an Iar,South Uist,Loch Fada,15
+2826,NF7303,35,NEL,Na h-Eileanan an Iar,South Uist,Grogarry Loch,15
+2827,NF7312,38,NEL,Na h-Eileanan an Iar,South Uist,Loch Stilligarry,15
+2828,NF7477,6.2,NEL,Na h-Eileanan an Iar,South Uist,Loch nam Balgan,8
+2829,NG5104,1,HLD,Highland,Skye,Loch nan Learg,5
+2830,NG6101,14,HLD,Highland,Skye,Loch Lonachan,15
+2831,NG6221,30,HLD,Highland,Skye,Loch Cill Chriosd,15
+2832,NH1202,1.2,HLD,Highland,Mainland,Unnamed,5
+2833,NH1203,1,HLD,Highland,Mainland,Loch Pollain Buidhe,5
+2834,NH2201,0.7,HLD,Highland,Mainland,Coire Loch,2
+2835,NH2202,4.5,HLD,Highland,Mainland,Loch Innis Gheamhraidh,5
+2836,NH2203,0.8,HLD,Highland,Mainland,Loch an Amair,2
+2837,NH2204,1,HLD,Highland,Mainland,Loch an Gabhlach,5
+2838,NH2205,4,HLD,Highland,Mainland,Loch Carn na Glas-leitire,5
+2839,NH2206,7.5,HLD,Highland,Mainland,Loch an Eang,8
+2840,NH1206,0.9,HLD,Highland,Mainland,Unnamed,2
+2841,NH1210,6,HLD,Highland,Mainland,Loch Coulavie,8
+2842,NH1211,6,HLD,Highland,Mainland,Loch na Camaig,8
+2843,NH3302,1.5,HLD,Highland,Mainland,Loch an Airigh Fhraoich,5
+2844,NH3401,1.5,HLD,Highland,Mainland,Loch na Beiste,5
+2845,NH2302,46,HLD,Highland,Mainland,Loch a' Mhuilidh,15
+2846,NM7614,0.6,HLD,Highland,Mainland,Dubh Lochain,2
+2847,NM7615,0.4,HLD,Highland,Mainland,Unnamed,2
+2848,NM6656,1.6,HLD,Highland,Mainland,Unnamed,5
+2849,NM6657,1.8,HLD,Highland,Mainland,Lochan na Bracha,5
+2850,NM5629,0.3,HLD,Highland,Mainland,Lochan Poll an Dubhaidh,2
+2851,NR7614,1.1,AAB,Argyll and Bute,Mainland,Loch a' Bharra Leathain,5
+2852,NR7805,10.9,AAB,Argyll and Bute,Mainland,Lochan Taynish,15
+2853,NR7803,35.9,AAB,Argyll and Bute,Mainland,Loch Coille-Bharr,15
+2854,NR7903,5.1,AAB,Argyll and Bute,Mainland,Loch Barnluasgan,8
+2855,NR7905,18,AAB,Argyll and Bute,Mainland,Loch Linne,15
+2856,NR7801,3,AAB,Argyll and Bute,Mainland,Unnamed,5
+2857,NR6701,1.2,AAB,Argyll and Bute,Danna,Unnamed,5
+2858,NR6702,1.9,AAB,Argyll and Bute,Danna,Unnamed,5
+2859,NR7836,0.1,AAB,Argyll and Bute,Mainland,Unnamed,2
+2860,NR7835,0.1,AAB,Argyll and Bute,Mainland,Unnamed,2
+2861,HU2818,1.1,STL,Shetland Islands,Mainland Shetland,Dandy's Water,5
+2862,HU2840,0.25,STL,Shetland Islands,Mainland Shetland,Horse Lochs,2
+2863,NM0419,0.3,AAB,Argyll and Bute,Tiree,Loch nam Braoileagan*,2
+2864,NL9402,0.4,AAB,Argyll and Bute,Tiree,Loch Earblaig*,2
+2865,NL9403,44,AAB,Argyll and Bute,Tiree,Loch Bhasapoll,15
+2866,NG4603,0.2,HLD,Highland,Skye,Unnamed,2
+2867,NG4604,1.8,HLD,Highland,Skye,Loch Fada,5
+2868,NG4608,3,HLD,Highland,Skye,Loch Leum na Luirginn,5
+2869,NG4609,2.6,HLD,Highland,Skye,Loch Cleat,5
+2870,NG4612,2.6,HLD,Highland,Skye,Loch Corcasgil,5
+2871,NG4613,3,HLD,Highland,Skye,Loch Dubhar-sgoth,5
+2872,NG4702,0.7,HLD,Highland,Skye,Loch Droighinn,2
+2873,NG4705,2,HLD,Highland,Skye,Loch Hasco,5
+2874,NG5501,0.7,HLD,Highland,Skye,Loch Scamadal,2
+2875,NG5502,0.25,HLD,Highland,Skye,Unnamed,2
+2876,NN8611,0.9,PAK,Perth and Kinross,Mainland,Unnamed,2
+2877,NT4110,3,SBD,Scottish Borders,Mainland,Branxholme Wester Loch,5
+2878,HU4712,6.6,STL,Shetland Islands,Yell,Mussel Loch,8
+2879,NO8903,0.9,ABD,Aberdeenshire,Mainland,Unnamed,2
+2880,NH2716,45,HLD,Highland,Mainland,Loch Droma,15
+2881,NH1739,32,HLD,Highland,Mainland,Loch a' Mhadaidh,15
+2882,NR3803,0.25,AAB,Argyll and Bute,Oronsay,Unnamed,2
+2883,NB1304,3.2,NEL,Na h-Eileanan an Iar,Lewis,Loch na Berie,5
+2884,NX1403,1.9,DAG,Dumfries and Galloway,Mainland,Unnamed,5
+2885,HU6903,8.1,STL,Shetland Islands,Fetlar,Skutes Water,8
+2886,HU6908,1.3,STL,Shetland Islands,Fetlar,Waters of Cruss,5
+2887,HU6909,0.6,STL,Shetland Islands,Fetlar,Waters of Cruss,2
+2888,NC4131,5.5,HLD,Highland,Mainland,Lochan a' Choire,8
+2889,NC4147,37,HLD,Highland,Mainland,Loch Sgeireach,15
+2890,NC5001,18,HLD,Highland,Mainland,Loch na Caillich,15
+2891,NC5002,2,HLD,Highland,Mainland,Unnamed,5
+2892,NC5007,0.5,HLD,Highland,Mainland,Unnamed,2
+2893,NC4012,8.5,HLD,Highland,Mainland,Loch an Rasail,8
+2894,NC4025,23,HLD,Highland,Mainland,Loch na Fuaralaich,15
+2895,NC4104,2,HLD,Highland,Mainland,Unnamed,5
+2896,NC7119,1,HLD,Highland,Mainland,Loch a' Chrioslaich,5
+2897,NC7120,0.6,HLD,Highland,Mainland,Unnamed,2
+2898,NC4202,1.3,HLD,Highland,Mainland,Suil a' Ghriama,5
+2899,NC4203,4,HLD,Highland,Mainland,Loch Strath Duchally,5
+2900,NC7201,15,HLD,Highland,Mainland,Gorm-loch Beag,15
+2901,NC7202,36,HLD,Highland,Mainland,Gorm-loch Mor,15
+2902,NC7213,1.2,HLD,Highland,Mainland,Unnamed,5
+2903,NC7217,0.5,HLD,Highland,Mainland,Unnamed,2
+2904,NC4205,2.5,HLD,Highland,Mainland,Loch an Fheoir,5
+2905,NC4206,18,HLD,Highland,Mainland,Loch an Ulbhaidh,15
+2906,NC4207,5.5,HLD,Highland,Mainland,Loch Poll a' Phac,8
+2907,NC4208,14.5,HLD,Highland,Mainland,Loch Eileanach,15
+2908,NC4209,0.8,HLD,Highland,Mainland,Unnamed,2
+2909,NC4210,6,HLD,Highland,Mainland,Loch Camasach,8
+2910,NC4274,6,HLD,Highland,Mainland,Loch an Alaskie,8
+2911,NC4283,0.6,HLD,Highland,Mainland,Lochan near Loch an Fheoir,2
+2912,NC5205,2,HLD,Highland,Mainland,Loch an Fheoir,5
+2913,NC5206,2.5,HLD,Highland,Mainland,Loch Gaineamhach,5
+2914,NC5207,1.5,HLD,Highland,Mainland,Unnamed,5
+2915,NC5208,2,HLD,Highland,Mainland,Unnamed,5
+2916,NC5209,2,HLD,Highland,Mainland,Unnamed,5
+2917,NC5210,1.2,HLD,Highland,Mainland,Unnamed,5
+2918,NC5211,1,HLD,Highland,Mainland,Unnamed,5
+2919,NC5212,0.8,HLD,Highland,Mainland,Unnamed,2
+2920,NC5213,0.9,HLD,Highland,Mainland,Unnamed,2
+2921,NC5223,0.3,HLD,Highland,Mainland,Unnamed,2
+2922,NC5224,0.8,HLD,Highland,Mainland,Unnamed,2
+2923,NC5225,0.4,HLD,Highland,Mainland,Unnamed,2
+2924,NC5226,0.4,HLD,Highland,Mainland,Unnamed,2
+2925,NC5227,0.3,HLD,Highland,Mainland,Unnamed,2
+2926,NC5228,0.2,HLD,Highland,Mainland,Unnamed,2
+2927,NC5229,0.8,HLD,Highland,Mainland,Unnamed,2
+2928,NC5230,0.6,HLD,Highland,Mainland,Unnamed,2
+2929,NC5231,0.2,HLD,Highland,Mainland,Unnamed,2
+2930,NC5232,0.2,HLD,Highland,Mainland,Unnamed,2
+2931,NC5233,0.1,HLD,Highland,Mainland,Unnamed,2
+2932,NC7304,70,HLD,Highland,Mainland,Loch Truderscaig,25
+2933,NC7305,4,HLD,Highland,Mainland,Lochan Dubh,5
+2934,NC7314,0.6,HLD,Highland,Mainland,Unnamed,2
+2935,NC7315,1.8,HLD,Highland,Mainland,Unnamed,5
+2936,NC4305,30,HLD,Highland,Mainland,Loch Coire na Saidhe Duibhe,15
+2937,NC4343,0.7,HLD,Highland,Mainland,Unnamed,2
+2938,ND3405,6,HLD,Highland,Mainland,Loch Brickigoe,8
+2939,NC5407,5,HLD,Highland,Mainland,Loch a' Mhadaidh-ruaidh,8
+2940,NC5409,39,HLD,Highland,Mainland,Loch Haluim,15
+2941,NC5417,22,HLD,Highland,Mainland,Loch Coulside,15
+2942,NC5447,0.3,HLD,Highland,Mainland,Unnamed,2
+2943,NC5448,0.1,HLD,Highland,Mainland,Unnamed,2
+2944,NC5449,0.2,HLD,Highland,Mainland,Unnamed,2
+2945,NC5405,2,HLD,Highland,Mainland,Unnamed,5
+2946,NC5406,2.6,HLD,Highland,Mainland,Unnamed,5
+2947,NC5419,2.2,HLD,Highland,Mainland,Loch Dionach-caraidh,5
+2948,NC5423,216,HLD,Highland,Mainland,Loch Meadie,50
+2949,NC5425,0.3,HLD,Highland,Mainland,Unnamed,2
+2950,NC5426,1.6,HLD,Highland,Mainland,Unnamed,5
+2951,NC5427,3,HLD,Highland,Mainland,Unnamed,5
+2952,NC5468,0.5,HLD,Highland,Mainland,Unnamed,2
+2953,NC5476,0.1,HLD,Highland,Mainland,Loch Haluim,2
+2954,ND1404,53,HLD,Highland,Mainland,Loch Ruard,25
+2955,ND1306,1.5,HLD,Highland,Mainland,Lochan Coire na Beinne,5
+2956,NC9304,2.2,HLD,Highland,Mainland,Loch Glutt,5
+2957,ND0403,34,HLD,Highland,Mainland,Lochan Dubh nan Geodh,15
+2958,ND0410,5.5,HLD,Highland,Mainland,Lochan Chairn Leith,8
+2959,ND0420,32,HLD,Highland,Mainland,Loch Meadie,15
+2960,ND0421,180.5,HLD,Highland,Mainland,Loch More,50
+2961,ND0426,32.3,HLD,Highland,Mainland,Loch Sand,15
+2962,ND0427,34,HLD,Highland,Mainland,Loch Eileanach,15
+2963,ND0428,29,HLD,Highland,Mainland,Loch Gaineimh,15
+2964,ND1402,19,HLD,Highland,Mainland,Loch a' Cherigal,15
+2965,ND1406,23,HLD,Highland,Mainland,Loch Thulachan,15
+2966,NC5421,22,HLD,Highland,Mainland,Loch Staing,15
+2967,NC5422,42,HLD,Highland,Mainland,Loch Eileanach,15
+2968,NC5467,0.2,HLD,Highland,Mainland,Unnamed,2
+2969,NC5471,0.6,HLD,Highland,Mainland,Unnamed,2
+2970,NC5473,0.5,HLD,Highland,Mainland,Unnamed,2
+2971,NC5474,0.5,HLD,Highland,Mainland,Unnamed,2
+2972,NC5475,1,HLD,Highland,Mainland,Unnamed,5
+2973,NC6409,40,HLD,Highland,Mainland,Loch Syre,15
+2974,NC6412,3.4,HLD,Highland,Mainland,Gull Loch,5
+2975,NC6520,3,HLD,Highland,Mainland,Na Caol Lochan,5
+2976,NC6521,3.6,HLD,Highland,Mainland,Na Caol Lochan,5
+2977,NC6522,1.2,HLD,Highland,Mainland,Na Caol Lochan,5
+2978,NC6523,8,HLD,Highland,Mainland,Loch Stephan,8
+2979,NC6524,2,HLD,Highland,Mainland,Loch a' Chnoic Ruadh,5
+2980,NC6525,12,HLD,Highland,Mainland,Lochan nan Carn,15
+2981,NC6526,12,HLD,Highland,Mainland,Lochan nan Carn,15
+2982,NC6527,15,HLD,Highland,Mainland,Loch nan Ealachan,15
+2983,NC6529,2.5,HLD,Highland,Mainland,Unnamed,5
+2984,NC6535,3.6,HLD,Highland,Mainland,Lochan nan Carn,5
+2985,NC6536,0.6,HLD,Highland,Mainland,Unnamed,2
+2986,NC6537,1.4,HLD,Highland,Mainland,Unnamed,5
+2987,NC6571,1,HLD,Highland,Mainland,Lochan Leacach,5
+2988,NC6572,0.8,HLD,Highland,Mainland,Unnamed,2
+2989,NC6576,0.2,HLD,Highland,Mainland,Na Caol Lochan,2
+2990,NC6577,0.9,HLD,Highland,Mainland,Unnamed,2
+2991,NC6579,0.3,HLD,Highland,Mainland,Unnamed,2
+2992,NC6517,5,HLD,Highland,Mainland,Grian-loch Beag,8
+2993,NC6518,18,HLD,Highland,Mainland,Loch nam Breac Buidge,15
+2994,NC6519,7,HLD,Highland,Mainland,Grian-loch Mor,8
+2995,NC6530,8,HLD,Highland,Mainland,Loch na Moine,8
+2996,NC6569,0.3,HLD,Highland,Mainland,Unnamed,2
+2997,NC6570,1,HLD,Highland,Mainland,Unnamed,5
+2998,NC6574,0.4,HLD,Highland,Mainland,Unnamed,2
+2999,NC6586,0.1,HLD,Highland,Mainland,Loch nan Breac Buidget,2
+3000,NC8434,0.6,HLD,Highland,Mainland,Unnamed,2
+3001,NC8435,0.3,HLD,Highland,Mainland,Unnamed,2
+3002,NC8436,0.8,HLD,Highland,Mainland,Unnamed,2
+3003,NC8437,0.8,HLD,Highland,Mainland,Unnamed,2
+3004,NC8440,0.7,HLD,Highland,Mainland,Unnamed,2
+3005,NC8441,0.9,HLD,Highland,Mainland,Unnamed,2
+3006,NC7470,4.7,HLD,Highland,Mainland,Loch Gaineimh,5
+3007,NC7471,0.7,HLD,Highland,Mainland,Unnamed,2
+3008,NC7473,1,HLD,Highland,Mainland,Unnamed,5
+3009,NC8301,5,HLD,Highland,Mainland,Loch Lucy,8
+3010,NC8302,11,HLD,Highland,Mainland,Loch Culaidh,15
+3011,NC8410,141,HLD,Highland,Mainland,Loch Druim a' Chliabhain,50
+3012,NC8411,42,HLD,Highland,Mainland,Loch Crocach,15
+3013,NC8416,47,HLD,Highland,Mainland,Loch Coire nam Mang,15
+3014,NC8405,2.8,HLD,Highland,Mainland,The Cross Lochs,5
+3015,NC8406,7.8,HLD,Highland,Mainland,The Cross Lochs,8
+3016,NC8407,4,HLD,Highland,Mainland,The Cross Lochs,5
+3017,NC8408,6.1,HLD,Highland,Mainland,The Cross Lochs,8
+3018,NC8409,8,HLD,Highland,Mainland,The Cross Lochs,8
+3019,NC8414,1.3,HLD,Highland,Mainland,Unnamed,5
+3020,NC7520,5,HLD,Highland,Mainland,Loch nan Laogh,8
+3021,NC7523,3.5,HLD,Highland,Mainland,Unnamed,5
+3022,NC7524,4,HLD,Highland,Mainland,Unnamed,5
+3023,NC7525,27,HLD,Highland,Mainland,Loch Mor na Caorach,15
+3024,NC7527,4,HLD,Highland,Mainland,Unnamed,5
+3025,NC7417,4,HLD,Highland,Mainland,Palm Loch,5
+3026,NC7421,10.4,HLD,Highland,Mainland,Loch Rosail,15
+3027,NC8511,1.8,HLD,Highland,Mainland,Lochan na Ceardaidh,5
+3028,NC8513,3.5,HLD,Highland,Mainland,Loch na Main,5
+3029,NC8514,4,HLD,Highland,Mainland,Loch Crasgach,5
+3030,NC8539,1.8,HLD,Highland,Mainland,Loch a' Bhroillich,5
+3031,NC8540,1,HLD,Highland,Mainland,Unnamed,5
+3032,NC8542,2,HLD,Highland,Mainland,Unnamed,5
+3033,NC8613,10,HLD,Highland,Mainland,Loch Baligill,15
+3034,NC8614,19,HLD,Highland,Mainland,Achridigill Loch,15
+3035,NC8615,2,HLD,Highland,Mainland,Loch Sgiathanach,5
+3036,NC8616,4.5,HLD,Highland,Mainland,Loch Coulbackie,5
+3037,NC8637,0.4,HLD,Highland,Mainland,Unnamed,2
+3038,NC8401,26,HLD,Highland,Mainland,Loch na Saobhaidhe,15
+3039,NC9401,2,HLD,Highland,Mainland,Unnamed,5
+3040,NC9402,5,HLD,Highland,Mainland,Unnamed,8
+3041,NC9403,6,HLD,Highland,Mainland,Lochan nan Clach Geala,8
+3042,NC9415,1.2,HLD,Highland,Mainland,Unnamed,5
+3043,NC9503,57,HLD,Highland,Mainland,Loch na Seilge,25
+3044,NC9504,18,HLD,Highland,Mainland,Loch na Caorach,15
+3045,NC9508,1.3,HLD,Highland,Mainland,Unnamed,5
+3046,NC9518,2,HLD,Highland,Mainland,Unnamed,5
+3047,NC9519,1,HLD,Highland,Mainland,Unnamed,5
+3048,NC9605,19,HLD,Highland,Mainland,Caol-loch,15
+3049,NC9606,25,HLD,Highland,Mainland,Loch Akran,15
+3050,NC9522,12.1,HLD,Highland,Mainland,Loch Torr na Ceardaich,15
+3051,NC9532,1.2,HLD,Highland,Mainland,Unnamed,5
+3052,NC9535,38,HLD,Highland,Mainland,Loch Tuim Ghlais,15
+3053,ND0422,17,HLD,Highland,Mainland,Caol Loch,15
+3054,ND0501,4,HLD,Highland,Mainland,Loch an Duine,5
+3055,ND0506,3,HLD,Highland,Mainland,Loch Losgann,5
+3056,ND0513,3,HLD,Highland,Mainland,Lochan na Saighe Glaise,5
+3057,ND0516,11,HLD,Highland,Mainland,Loch a' Chiteadh,15
+3058,ND0520,67,HLD,Highland,Mainland,Loch Caluim,25
+3059,ND0521,35,HLD,Highland,Mainland,Loch Scye,15
+3060,NC9408,28,HLD,Highland,Mainland,Loch Sletill,15
+3061,NC9410,9.4,HLD,Highland,Mainland,Loch Leir,8
+3062,NC9425,17,HLD,Highland,Mainland,Lochan Ealach Mor,15
+3063,NC9435,13.5,HLD,Highland,Mainland,Loch na Cloiche,15
+3064,ND3604,1.2,HLD,Highland,Mainland,Unnamed,5
+3065,ND3608,1.2,HLD,Highland,Mainland,Loch of Auckengill,5
+3066,NC5606,2,HLD,Highland,Mainland,Loch nan Aigheann,5
+3067,NC5608,1.6,HLD,Highland,Mainland,Lochan na Seilg,5
+3068,NC5609,3,HLD,Highland,Mainland,Loch na h-Uamhachd,5
+3069,NC5611,1.5,HLD,Highland,Mainland,Loch Fada,5
+3070,NC5613,2,HLD,Highland,Mainland,Lochan nam Breac Buidhe,5
+3071,NC5616,0.4,HLD,Highland,Mainland,Unnamed,2
+3072,NC5617,0.9,HLD,Highland,Mainland,Unnamed,2
+3073,NC5618,1.8,HLD,Highland,Mainland,Unnamed,5
+3074,NC5619,1.1,HLD,Highland,Mainland,Lochan nam Breac Buidhe,5
+3075,NC5624,0.8,HLD,Highland,Mainland,Unnamed,2
+3076,NC4604,3,HLD,Highland,Mainland,Unnamed,5
+3077,NC5510,3.6,HLD,Highland,Mainland,Loch na h-Airigh Bige,5
+3078,NG3003,0.1,HLD,Highland,Rum,Unnamed,2
+3079,NG3004,3.9,HLD,Highland,Rum,Loch Sgaorishal,5
+3080,NG3006,1,HLD,Highland,Rum,Unnamed,5
+3081,NG3017,0.3,HLD,Highland,Rum,Unnamed,2
+3082,NG3025,1.1,HLD,Highland,Rum,Unnamed,5
+3083,NG3028,0.2,HLD,Highland,Rum,Unnamed,2
+3084,NG3031,0.3,HLD,Highland,Rum,Unnamed,2
+3085,NG4006,0.8,HLD,Highland,Rum,Loch Iain,2
+3086,NM3913,6.5,HLD,Highland,Rum,Long Loch,8
+3087,NM3916,0.3,HLD,Highland,Rum,Unnamed,2
+3088,NM3918,1.1,HLD,Highland,Rum,Priomh-lochs,5
+3089,NM3919,9.2,HLD,Highland,Rum,Loch Bealach Mhic Neill,8
+3090,NM3920,1,HLD,Highland,Rum,Unnamed,5
+3091,NM3922,0.3,HLD,Highland,Rum,Unnamed,2
+3092,NM3937,6,HLD,Highland,Rum,Loch Papadil,8
+3093,HY4517,0.01,OKN,Orkney Islands,Papa Westray,Unnamed,2
+3094,HY6203,4,OKN,Orkney Islands,Stronsay,Straenia Water,5
+3095,HY6204,0.2,OKN,Orkney Islands,Stronsay,Mill Bay Pool,2
+3096,HY4211,0.1,OKN,Orkney Islands,Gairsay,Unnamed,2
+3097,NG1804,0.2,NEL,Na h-Eileanan an Iar,Harris,Unnamed,2
+3098,NG0902,0.5,NEL,Na h-Eileanan an Iar,Taransay,Unnamed,2
+3099,NR7811,5.6,AAB,Argyll and Bute,Mainland,Loch nam Ban,8
